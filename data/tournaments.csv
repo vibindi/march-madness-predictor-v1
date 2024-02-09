@@ -1,0 +1,2454 @@
+year,bracket,round,location,team_one_rank,team_one,team_one_score,team_two_rank,team_two,team_two_score,team_one_wins
+1985,East,First Round,"Hartford, CT",1,Georgetown,68,16,Lehigh,43,True
+1985,East,First Round,"Hartford, CT",8,Temple,60,9,Virginia Tech,57,True
+1985,East,First Round,"Hartford, CT",5,SMU,85,12,Old Dominion,68,True
+1985,East,First Round,"Hartford, CT",4,Loyola (IL),59,13,Iona,58,True
+1985,East,First Round,"Atlanta, GA",6,Georgia,67,11,Wichita State,59,True
+1985,East,First Round,"Atlanta, GA",3,Illinois,76,14,Northeastern,57,True
+1985,East,First Round,"Atlanta, GA",7,Syracuse,70,10,DePaul,65,True
+1985,East,First Round,"Atlanta, GA",2,Georgia Tech,65,15,Mercer,58,True
+1985,East,Second Round,"Hartford, CT",1,Georgetown,63,8,Temple,46,True
+1985,East,Second Round,"Hartford, CT",5,SMU,57,4,Loyola (IL),70,False
+1985,East,Second Round,"Atlanta, GA",6,Georgia,58,3,Illinois,74,False
+1985,East,Second Round,"Atlanta, GA",7,Syracuse,53,2,Georgia Tech,70,False
+1985,East,Sweet Sixteen,"Providence, RI",1,Georgetown,65,4,Loyola (IL),53,True
+1985,East,Sweet Sixteen,"Providence, RI",3,Illinois,53,2,Georgia Tech,61,False
+1985,East,Elite Eight,"Providence, RI",1,Georgetown,60,2,Georgia Tech,54,True
+1985,Midwest,First Round,"Tulsa, OK",1,Oklahoma,96,16,North Carolina A&T,83,True
+1985,Midwest,First Round,"Tulsa, OK",8,USC,55,9,Illinois State,58,False
+1985,Midwest,First Round,"Tulsa, OK",5,Louisiana Tech,78,12,Pitt,54,True
+1985,Midwest,First Round,"Tulsa, OK",4,Ohio State,75,13,Iowa State,64,True
+1985,Midwest,First Round,"Houston, TX",6,Texas Tech,53,11,Boston College,55,False
+1985,Midwest,First Round,"Houston, TX",3,Duke,75,14,Pepperdine,62,True
+1985,Midwest,First Round,"Houston, TX",7,UAB,70,10,Michigan State,68,True
+1985,Midwest,First Round,"Houston, TX",2,Memphis,67,15,Penn,55,True
+1985,Midwest,Second Round,"Tulsa, OK",1,Oklahoma,75,9,Illinois State,69,True
+1985,Midwest,Second Round,"Tulsa, OK",5,Louisiana Tech,79,4,Ohio State,67,True
+1985,Midwest,Second Round,"Houston, TX",11,Boston College,74,3,Duke,73,True
+1985,Midwest,Second Round,"Houston, TX",7,UAB,66,2,Memphis,67,False
+1985,Midwest,Sweet Sixteen,"Dallas, TX",1,Oklahoma,86,5,Louisiana Tech,84,True
+1985,Midwest,Sweet Sixteen,"Dallas, TX",11,Boston College,57,2,Memphis,59,False
+1985,Midwest,Elite Eight,"Dallas, TX",1,Oklahoma,61,2,Memphis,63,False
+1985,Southeast,First Round,"Dayton, OH",1,Michigan,59,16,Fairleigh Dickinson,55,True
+1985,Southeast,First Round,"Dayton, OH",8,Villanova,51,9,Dayton,49,True
+1985,Southeast,First Round,"Dayton, OH",5,Maryland,69,12,Miami (OH),68,True
+1985,Southeast,First Round,"Dayton, OH",4,LSU,55,13,Navy,78,False
+1985,Southeast,First Round,"South Bend, IN",6,Purdue,58,11,Auburn,59,False
+1985,Southeast,First Round,"South Bend, IN",3,Kansas,49,14,Ohio,38,True
+1985,Southeast,First Round,"South Bend, IN",7,Notre Dame,79,10,Oregon State,70,True
+1985,Southeast,First Round,"South Bend, IN",2,UNC,76,15,Middle Tennessee,57,True
+1985,Southeast,Second Round,"Dayton, OH",1,Michigan,55,8,Villanova,59,False
+1985,Southeast,Second Round,"Dayton, OH",5,Maryland,64,13,Navy,59,True
+1985,Southeast,Second Round,"South Bend, IN",11,Auburn,66,3,Kansas,64,True
+1985,Southeast,Second Round,"South Bend, IN",7,Notre Dame,58,2,UNC,60,False
+1985,Southeast,Sweet Sixteen,"Birmingham, AL",8,Villanova,46,5,Maryland,43,True
+1985,Southeast,Sweet Sixteen,"Birmingham, AL",11,Auburn,56,2,UNC,62,False
+1985,Southeast,Elite Eight,"Birmingham, AL",8,Villanova,56,2,UNC,44,True
+1985,West,First Round,"Salt Lake City, UT",1,St. John's (NY),83,16,Southern,59,True
+1985,West,First Round,"Salt Lake City, UT",8,Iowa,54,9,Arkansas,63,False
+1985,West,First Round,"Salt Lake City, UT",5,Washington,58,12,Kentucky,66,False
+1985,West,First Round,"Salt Lake City, UT",4,UNLV,85,13,San Diego State,80,True
+1985,West,First Round,"Albuquerque, NM",6,Tulsa,75,11,UTEP,79,False
+1985,West,First Round,"Albuquerque, NM",3,NC State,65,14,Nevada,56,True
+1985,West,First Round,"Albuquerque, NM",7,Alabama,50,10,Arizona,41,True
+1985,West,First Round,"Albuquerque, NM",2,VCU,81,15,Marshall,65,True
+1985,West,Second Round,"Salt Lake City, UT",1,St. John's (NY),68,9,Arkansas,65,True
+1985,West,Second Round,"Salt Lake City, UT",12,Kentucky,64,4,UNLV,61,True
+1985,West,Second Round,"Albuquerque, NM",11,UTEP,73,3,NC State,86,False
+1985,West,Second Round,"Albuquerque, NM",7,Alabama,63,2,VCU,59,True
+1985,West,Sweet Sixteen,"Denver, CO",1,St. John's (NY),86,12,Kentucky,70,True
+1985,West,Sweet Sixteen,"Denver, CO",3,NC State,61,7,Alabama,55,True
+1985,West,Elite Eight,"Denver, CO",1,St. John's (NY),69,3,NC State,60,True
+1985,National,Final Four,"Lexington, KY",8,Villanova,52,2,Memphis,45,True
+1985,National,Final Four,"Lexington, KY",1,St. John's (NY),59,1,Georgetown,77,False
+1985,National,National Championship,"Lexington, KY",8,Villanova,66,1,Georgetown,64,True
+1986,East,First Round,"Greensboro, NC",1,Duke,85,16,Mississippi Valley State,78,True
+1986,East,First Round,"Greensboro, NC",8,Old Dominion,72,9,West Virginia,64,True
+1986,East,First Round,"Greensboro, NC",5,Virginia,68,12,DePaul,72,False
+1986,East,First Round,"Greensboro, NC",4,Oklahoma,80,13,Northeastern,74,True
+1986,East,First Round,"Syracuse, NY",6,St. Joseph's,60,11,Richmond,59,True
+1986,East,First Round,"Syracuse, NY",3,Indiana,79,14,Cleveland State,83,False
+1986,East,First Round,"Syracuse, NY",7,Navy,87,10,Tulsa,68,True
+1986,East,First Round,"Syracuse, NY",2,Syracuse,101,15,Brown,52,True
+1986,East,Second Round,"Greensboro, NC",1,Duke,89,8,Old Dominion,61,True
+1986,East,Second Round,"Greensboro, NC",12,DePaul,74,4,Oklahoma,69,True
+1986,East,Second Round,"Syracuse, NY",6,St. Joseph's,69,14,Cleveland State,75,False
+1986,East,Second Round,"Syracuse, NY",7,Navy,97,2,Syracuse,85,True
+1986,East,Sweet Sixteen,"East Rutherford, NJ",1,Duke,74,12,DePaul,67,True
+1986,East,Sweet Sixteen,"East Rutherford, NJ",14,Cleveland State,70,7,Navy,71,False
+1986,East,Elite Eight,"East Rutherford, NJ",1,Duke,71,7,Navy,50,True
+1986,Midwest,First Round,"Dayton, OH",1,Kansas,71,16,North Carolina A&T,46,True
+1986,Midwest,First Round,"Dayton, OH",8,Jacksonville,50,9,Temple,61,False
+1986,Midwest,First Round,"Dayton, OH",5,Michigan State,72,12,Washington,70,True
+1986,Midwest,First Round,"Dayton, OH",4,Georgetown,70,13,Texas Tech,64,True
+1986,Midwest,First Round,"Minneapolis, MN",6,NC State,66,11,Iowa,64,True
+1986,Midwest,First Round,"Minneapolis, MN",3,Notre Dame,83,14,Little Rock,90,False
+1986,Midwest,First Round,"Minneapolis, MN",7,Iowa State,81,10,Miami (OH),79,True
+1986,Midwest,First Round,"Minneapolis, MN",2,Michigan,70,15,Akron,64,True
+1986,Midwest,Second Round,"Dayton, OH",1,Kansas,65,9,Temple,43,True
+1986,Midwest,Second Round,"Dayton, OH",5,Michigan State,80,4,Georgetown,68,True
+1986,Midwest,Second Round,"Minneapolis, MN",6,NC State,80,14,Little Rock,66,True
+1986,Midwest,Second Round,"Minneapolis, MN",7,Iowa State,72,2,Michigan,69,True
+1986,Midwest,Sweet Sixteen,"Kansas City, MO",1,Kansas,96,5,Michigan State,86,True
+1986,Midwest,Sweet Sixteen,"Kansas City, MO",6,NC State,70,7,Iowa State,66,True
+1986,Midwest,Elite Eight,"Kansas City, MO",1,Kansas,75,6,NC State,67,True
+1986,Southeast,First Round,"Charlotte, NC",1,Kentucky,75,16,Davidson,55,True
+1986,Southeast,First Round,"Charlotte, NC",8,Western Kentucky,67,9,Nebraska,59,True
+1986,Southeast,First Round,"Charlotte, NC",5,Alabama,97,12,Xavier,80,True
+1986,Southeast,First Round,"Charlotte, NC",4,Illinois,75,13,Fairfield,51,True
+1986,Southeast,First Round,"Bon Rouge, LA",6,Purdue,87,11,LSU,94,False
+1986,Southeast,First Round,"Bon Rouge, LA",3,Memphis,95,14,Ball State,63,True
+1986,Southeast,First Round,"Bon Rouge, LA",7,Virginia Tech,62,10,Villanova,71,False
+1986,Southeast,First Round,"Bon Rouge, LA",2,Georgia Tech,68,15,Marist,53,True
+1986,Southeast,Second Round,"Charlotte, NC",1,Kentucky,71,8,Western Kentucky,64,True
+1986,Southeast,Second Round,"Charlotte, NC",5,Alabama,58,4,Illinois,56,True
+1986,Southeast,Second Round,"Bon Rouge, LA",11,LSU,83,3,Memphis,81,True
+1986,Southeast,Second Round,"Bon Rouge, LA",10,Villanova,61,2,Georgia Tech,66,False
+1986,Southeast,Sweet Sixteen,"Atlanta, GA",1,Kentucky,68,5,Alabama,63,True
+1986,Southeast,Sweet Sixteen,"Atlanta, GA",11,LSU,70,2,Georgia Tech,64,True
+1986,Southeast,Elite Eight,"Atlanta, GA",1,Kentucky,57,11,LSU,59,False
+1986,West,First Round,"Long Beach, CA",1,St. John's (NY),83,16,Montana State,74,True
+1986,West,First Round,"Long Beach, CA",8,Auburn,73,9,Arizona,63,True
+1986,West,First Round,"Long Beach, CA",5,Maryland,69,12,Pepperdine,64,True
+1986,West,First Round,"Long Beach, CA",4,UNLV,74,13,Louisiana-Monroe,51,True
+1986,West,First Round,"Ogden, UT",6,UAB,66,11,Missouri,64,True
+1986,West,First Round,"Ogden, UT",3,UNC,84,14,Utah,72,True
+1986,West,First Round,"Ogden, UT",7,Bradley,83,10,UTEP,65,True
+1986,West,First Round,"Ogden, UT",2,Louisville,93,15,Drexel,73,True
+1986,West,Second Round,"Long Beach, CA",1,St. John's (NY),65,8,Auburn,81,False
+1986,West,Second Round,"Long Beach, CA",5,Maryland,64,4,UNLV,70,False
+1986,West,Second Round,"Ogden, UT",6,UAB,59,3,UNC,77,False
+1986,West,Second Round,"Ogden, UT",7,Bradley,68,2,Louisville,82,False
+1986,West,Sweet Sixteen,"Houston, TX",8,Auburn,70,4,UNLV,63,True
+1986,West,Sweet Sixteen,"Houston, TX",3,UNC,79,2,Louisville,94,False
+1986,West,Elite Eight,"Houston, TX",8,Auburn,76,2,Louisville,84,False
+1986,National,Final Four,"Dallas, TX",2,Louisville,88,11,LSU,77,True
+1986,National,Final Four,"Dallas, TX",1,Kansas,67,1,Duke,71,False
+1986,National,National Championship,"Dallas, TX",2,Louisville,72,1,Duke,69,True
+1987,East,First Round,"Charlotte, NC",1,UNC,113,16,Penn,82,True
+1987,East,First Round,"Charlotte, NC",8,Navy,82,9,Michigan,97,False
+1987,East,First Round,"Charlotte, NC",5,Notre Dame,84,12,Middle Tennessee,71,True
+1987,East,First Round,"Charlotte, NC",4,TCU,76,13,Marshall,60,True
+1987,East,First Round,"Syracuse, NY",6,Florida,82,11,NC State,70,True
+1987,East,First Round,"Syracuse, NY",3,Purdue,104,14,Northeastern,95,True
+1987,East,First Round,"Syracuse, NY",7,West Virginia,62,10,Western Kentucky,64,False
+1987,East,First Round,"Syracuse, NY",2,Syracuse,79,15,Georgia Southern,73,True
+1987,East,Second Round,"Charlotte, NC",1,UNC,109,9,Michigan,97,True
+1987,East,Second Round,"Charlotte, NC",5,Notre Dame,58,4,TCU,57,True
+1987,East,Second Round,"Syracuse, NY",6,Florida,85,3,Purdue,66,True
+1987,East,Second Round,"Syracuse, NY",10,Western Kentucky,86,2,Syracuse,104,False
+1987,East,Sweet Sixteen,"East Rutherford, NJ",1,UNC,74,5,Notre Dame,68,True
+1987,East,Sweet Sixteen,"East Rutherford, NJ",6,Florida,81,2,Syracuse,87,False
+1987,East,Elite Eight,"East Rutherford, NJ",1,UNC,75,2,Syracuse,79,False
+1987,Midwest,First Round,"Indianapolis, IN",1,Indiana,92,16,Fairfield,58,True
+1987,Midwest,First Round,"Indianapolis, IN",8,Auburn,62,9,San Diego,61,True
+1987,Midwest,First Round,"Indianapolis, IN",5,Duke,58,12,Texas A&M,51,True
+1987,Midwest,First Round,"Indianapolis, IN",4,Missouri,69,13,Xavier,70,False
+1987,Midwest,First Round,"Rosemont, IL",6,St. John's (NY),57,11,Wichita State,55,True
+1987,Midwest,First Round,"Rosemont, IL",3,DePaul,76,14,Louisiana Tech,62,True
+1987,Midwest,First Round,"Rosemont, IL",7,Georgia Tech,79,10,LSU,85,False
+1987,Midwest,First Round,"Rosemont, IL",2,Temple,75,15,Southern,56,True
+1987,Midwest,Second Round,"Indianapolis, IN",1,Indiana,107,8,Auburn,90,True
+1987,Midwest,Second Round,"Indianapolis, IN",5,Duke,65,13,Xavier,60,True
+1987,Midwest,Second Round,"Rosemont, IL",6,St. John's (NY),75,3,DePaul,83,False
+1987,Midwest,Second Round,"Rosemont, IL",10,LSU,72,2,Temple,62,True
+1987,Midwest,Sweet Sixteen,"Cincinni, OH",1,Indiana,88,5,Duke,82,True
+1987,Midwest,Sweet Sixteen,"Cincinni, OH",3,DePaul,58,10,LSU,63,False
+1987,Midwest,Elite Eight,"Cincinni, OH",1,Indiana,77,10,LSU,76,True
+1987,Southeast,First Round,"Atlanta, GA",1,Georgetown,75,16,Bucknell,53,True
+1987,Southeast,First Round,"Atlanta, GA",8,Kentucky,77,9,Ohio State,91,False
+1987,Southeast,First Round,"Atlanta, GA",5,Kansas,66,12,Houston,55,True
+1987,Southeast,First Round,"Atlanta, GA",4,Clemson,60,13,Missouri State,65,False
+1987,Southeast,First Round,"Birmingham, AL",6,Providence,90,11,UAB,68,True
+1987,Southeast,First Round,"Birmingham, AL",3,Illinois,67,14,Austin Peay,68,False
+1987,Southeast,First Round,"Birmingham, AL",7,New Orleans,83,10,BYU,79,True
+1987,Southeast,First Round,"Birmingham, AL",2,Alabama,88,15,North Carolina A&T,71,True
+1987,Southeast,Second Round,"Atlanta, GA",1,Georgetown,82,9,Ohio State,79,True
+1987,Southeast,Second Round,"Atlanta, GA",5,Kansas,67,13,Missouri State,63,True
+1987,Southeast,Second Round,"Birmingham, AL",6,Providence,90,14,Austin Peay,87,True
+1987,Southeast,Second Round,"Birmingham, AL",7,New Orleans,76,2,Alabama,101,False
+1987,Southeast,Sweet Sixteen,"Louisville, KY",1,Georgetown,70,5,Kansas,57,True
+1987,Southeast,Sweet Sixteen,"Louisville, KY",6,Providence,103,2,Alabama,82,True
+1987,Southeast,Elite Eight,"Louisville, KY",1,Georgetown,73,6,Providence,88,False
+1987,West,First Round,"Salt Lake City, UT",1,UNLV,95,16,Idaho State,70,True
+1987,West,First Round,"Salt Lake City, UT",8,Georgia,79,9,Kansas State,82,False
+1987,West,First Round,"Salt Lake City, UT",5,Virginia,60,12,Wyoming,64,False
+1987,West,First Round,"Salt Lake City, UT",4,UCLA,92,13,Central Michigan,73,True
+1987,West,First Round,"Tucson, AZ",6,Oklahoma,74,11,Tulsa,69,True
+1987,West,First Round,"Tucson, AZ",3,Pitt,93,14,Marist,68,True
+1987,West,First Round,"Tucson, AZ",7,UTEP,98,10,Arizona,91,True
+1987,West,First Round,"Tucson, AZ",2,Iowa,99,15,Santa Clara,76,True
+1987,West,Second Round,"Salt Lake City, UT",1,UNLV,80,9,Kansas State,61,True
+1987,West,Second Round,"Salt Lake City, UT",12,Wyoming,78,4,UCLA,68,True
+1987,West,Second Round,"Tucson, AZ",6,Oklahoma,96,3,Pitt,93,True
+1987,West,Second Round,"Tucson, AZ",7,UTEP,82,2,Iowa,84,False
+1987,West,Sweet Sixteen,"Setle, WA",1,UNLV,92,12,Wyoming,78,True
+1987,West,Sweet Sixteen,"Setle, WA",6,Oklahoma,91,2,Iowa,93,False
+1987,West,Elite Eight,"Setle, WA",1,UNLV,84,2,Iowa,81,True
+1987,National,Final Four,"New Orleans, LA",1,Indiana,97,1,UNLV,93,True
+1987,National,Final Four,"New Orleans, LA",6,Providence,63,2,Syracuse,77,False
+1987,National,National Championship,"New Orleans, LA",1,Indiana,74,2,Syracuse,73,True
+1988,East,First Round,"Hartford, CT",1,Temple,87,16,Lehigh,73,True
+1988,East,First Round,"Hartford, CT",8,Georgetown,66,9,LSU,63,True
+1988,East,First Round,"Hartford, CT",5,Georgia Tech,90,12,Iowa State,78,True
+1988,East,First Round,"Hartford, CT",4,Indiana,69,13,Richmond,72,False
+1988,East,First Round,"Chapel Hill, NC",6,Missouri,80,11,Rhode Island,87,False
+1988,East,First Round,"Chapel Hill, NC",3,Syracuse,69,14,North Carolina A&T,55,True
+1988,East,First Round,"Chapel Hill, NC",7,SMU,83,10,Notre Dame,75,True
+1988,East,First Round,"Chapel Hill, NC",2,Duke,85,15,Boston University,69,True
+1988,East,Second Round,"Hartford, CT",1,Temple,74,8,Georgetown,53,True
+1988,East,Second Round,"Hartford, CT",5,Georgia Tech,55,13,Richmond,59,False
+1988,East,Second Round,"Chapel Hill, NC",11,Rhode Island,97,3,Syracuse,94,True
+1988,East,Second Round,"Chapel Hill, NC",7,SMU,79,2,Duke,94,False
+1988,East,Sweet Sixteen,"East Rutherford, NJ",1,Temple,69,13,Richmond,47,True
+1988,East,Sweet Sixteen,"East Rutherford, NJ",11,Rhode Island,72,2,Duke,73,False
+1988,East,Elite Eight,"East Rutherford, NJ",1,Temple,53,2,Duke,63,False
+1988,Midwest,First Round,"South Bend, IN",1,Purdue,94,16,Fairleigh Dickinson,79,True
+1988,Midwest,First Round,"South Bend, IN",8,Baylor,60,9,Memphis,75,False
+1988,Midwest,First Round,"South Bend, IN",5,DePaul,83,12,Wichita State,62,True
+1988,Midwest,First Round,"South Bend, IN",4,Kansas State,66,13,La Salle,53,True
+1988,Midwest,First Round,"Lincoln, NE",6,Kansas,85,11,Xavier,72,True
+1988,Midwest,First Round,"Lincoln, NE",3,NC State,75,14,Murray State,78,False
+1988,Midwest,First Round,"Lincoln, NE",7,Vanderbilt,80,10,Utah State,77,True
+1988,Midwest,First Round,"Lincoln, NE",2,Pitt,108,15,Eastern Michigan,90,True
+1988,Midwest,Second Round,"South Bend, IN",1,Purdue,100,9,Memphis,73,True
+1988,Midwest,Second Round,"South Bend, IN",5,DePaul,58,4,Kansas State,66,False
+1988,Midwest,Second Round,"Lincoln, NE",6,Kansas,61,14,Murray State,58,True
+1988,Midwest,Second Round,"Lincoln, NE",7,Vanderbilt,80,2,Pitt,74,True
+1988,Midwest,Sweet Sixteen,"Pontiac, MI",1,Purdue,70,4,Kansas State,73,False
+1988,Midwest,Sweet Sixteen,"Pontiac, MI",6,Kansas,77,7,Vanderbilt,64,True
+1988,Midwest,Elite Eight,"Pontiac, MI",4,Kansas State,58,6,Kansas,71,False
+1988,Southeast,First Round,"Atlanta, GA",1,Oklahoma,94,16,Chattanooga,66,True
+1988,Southeast,First Round,"Atlanta, GA",8,Auburn,90,9,Bradley,86,True
+1988,Southeast,First Round,"Atlanta, GA",5,Louisville,70,12,Oregon State,61,True
+1988,Southeast,First Round,"Atlanta, GA",4,BYU,98,13,Charlotte,92,True
+1988,Southeast,First Round,"Cincinni, OH",6,Villanova,82,11,Arkansas,74,True
+1988,Southeast,First Round,"Cincinni, OH",3,Illinois,81,14,UTSA,72,True
+1988,Southeast,First Round,"Cincinni, OH",7,Maryland,92,10,UCSB,82,True
+1988,Southeast,First Round,"Cincinni, OH",2,Kentucky,99,15,Southern,84,True
+1988,Southeast,Second Round,"Atlanta, GA",1,Oklahoma,107,8,Auburn,87,True
+1988,Southeast,Second Round,"Atlanta, GA",5,Louisville,97,4,BYU,76,True
+1988,Southeast,Second Round,"Cincinni, OH",6,Villanova,66,3,Illinois,63,True
+1988,Southeast,Second Round,"Cincinni, OH",7,Maryland,81,2,Kentucky,90,False
+1988,Southeast,Sweet Sixteen,"Birmingham, AL",1,Oklahoma,108,5,Louisville,98,True
+1988,Southeast,Sweet Sixteen,"Birmingham, AL",6,Villanova,80,2,Kentucky,74,True
+1988,Southeast,Elite Eight,"Birmingham, AL",1,Oklahoma,78,6,Villanova,59,True
+1988,West,First Round,"Los Angeles, CA",1,Arizona,90,16,Cornell,50,True
+1988,West,First Round,"Los Angeles, CA",8,Seton Hall,80,9,UTEP,64,True
+1988,West,First Round,"Los Angeles, CA",5,Iowa,102,12,Florida State,98,True
+1988,West,First Round,"Los Angeles, CA",4,UNLV,54,13,Missouri State,50,True
+1988,West,First Round,"Salt Lake City, UT",6,Florida,62,11,St. John's (NY),59,True
+1988,West,First Round,"Salt Lake City, UT",3,Michigan,63,14,Boise State,58,True
+1988,West,First Round,"Salt Lake City, UT",7,Wyoming,115,10,Loyola Marymount,119,False
+1988,West,First Round,"Salt Lake City, UT",2,UNC,83,15,North Texas,65,True
+1988,West,Second Round,"Los Angeles, CA",1,Arizona,84,8,Seton Hall,55,True
+1988,West,Second Round,"Los Angeles, CA",5,Iowa,104,4,UNLV,86,True
+1988,West,Second Round,"Salt Lake City, UT",6,Florida,85,3,Michigan,108,False
+1988,West,Second Round,"Salt Lake City, UT",10,Loyola Marymount,97,2,UNC,123,False
+1988,West,Sweet Sixteen,"Setle, WA",1,Arizona,99,5,Iowa,79,True
+1988,West,Sweet Sixteen,"Setle, WA",3,Michigan,69,2,UNC,78,False
+1988,West,Elite Eight,"Setle, WA",1,Arizona,70,2,UNC,52,True
+1988,National,Final Four,"Kansas City, MO",6,Kansas,66,2,Duke,59,True
+1988,National,Final Four,"Kansas City, MO",1,Arizona,78,1,Oklahoma,86,False
+1988,National,National Championship,"Kansas City, MO",6,Kansas,83,1,Oklahoma,79,True
+1989,East,First Round,"Providence, RI",1,Georgetown,50,16,Princeton,49,True
+1989,East,First Round,"Providence, RI",8,Vanderbilt,65,9,Notre Dame,81,False
+1989,East,First Round,"Providence, RI",5,NC State,81,12,South Carolina,66,True
+1989,East,First Round,"Providence, RI",4,Iowa,87,13,Rutgers,73,True
+1989,East,First Round,"Greensboro, NC",6,Kansas State,75,11,Minnesota,86,False
+1989,East,First Round,"Greensboro, NC",3,Stanford,78,14,Siena,80,False
+1989,East,First Round,"Greensboro, NC",7,West Virginia,84,10,Tennessee,68,True
+1989,East,First Round,"Greensboro, NC",2,Duke,90,15,South Carolina State,69,True
+1989,East,Second Round,"Providence, RI",1,Georgetown,81,9,Notre Dame,74,True
+1989,East,Second Round,"Providence, RI",5,NC State,102,4,Iowa,96,True
+1989,East,Second Round,"Greensboro, NC",11,Minnesota,80,14,Siena,67,True
+1989,East,Second Round,"Greensboro, NC",7,West Virginia,63,2,Duke,70,False
+1989,East,Sweet Sixteen,"East Rutherford, NJ",1,Georgetown,69,5,NC State,61,True
+1989,East,Sweet Sixteen,"East Rutherford, NJ",11,Minnesota,70,2,Duke,87,False
+1989,East,Elite Eight,"East Rutherford, NJ",1,Georgetown,77,2,Duke,85,False
+1989,Midwest,First Round,"Indianapolis, IN",1,Illinois,77,16,McNeese State,71,True
+1989,Midwest,First Round,"Indianapolis, IN",8,Pitt,64,9,Ball State,68,False
+1989,Midwest,First Round,"Indianapolis, IN",5,Arkansas,120,12,Loyola Marymount,101,True
+1989,Midwest,First Round,"Indianapolis, IN",4,Louisville,76,13,Little Rock,71,True
+1989,Midwest,First Round,"Dallas, TX",6,Georgia Tech,70,11,Texas,76,False
+1989,Midwest,First Round,"Dallas, TX",3,Missouri,85,14,Creighton,69,True
+1989,Midwest,First Round,"Dallas, TX",7,Florida,46,10,Colorado State,68,False
+1989,Midwest,First Round,"Dallas, TX",2,Syracuse,104,15,Bucknell,81,True
+1989,Midwest,Second Round,"Indianapolis, IN",1,Illinois,72,9,Ball State,60,True
+1989,Midwest,Second Round,"Indianapolis, IN",5,Arkansas,84,4,Louisville,93,False
+1989,Midwest,Second Round,"Dallas, TX",11,Texas,89,3,Missouri,108,False
+1989,Midwest,Second Round,"Dallas, TX",10,Colorado State,50,2,Syracuse,65,False
+1989,Midwest,Sweet Sixteen,"Minneapolis, MN",1,Illinois,83,4,Louisville,69,True
+1989,Midwest,Sweet Sixteen,"Minneapolis, MN",3,Missouri,80,2,Syracuse,83,False
+1989,Midwest,Elite Eight,"Minneapolis, MN",1,Illinois,89,2,Syracuse,86,True
+1989,Southeast,First Round,"Nashville, TN",1,Oklahoma,72,16,ETSU,71,True
+1989,Southeast,First Round,"Nashville, TN",8,La Salle,74,9,Louisiana Tech,83,False
+1989,Southeast,First Round,"Nashville, TN",5,Virginia,100,12,Providence,97,True
+1989,Southeast,First Round,"Nashville, TN",4,Florida State,83,13,Middle Tennessee,97,False
+1989,Southeast,First Round,"Atlanta, GA",6,Alabama,84,11,South Alabama,86,False
+1989,Southeast,First Round,"Atlanta, GA",3,Michigan,92,14,Xavier,87,True
+1989,Southeast,First Round,"Atlanta, GA",7,UCLA,84,10,Iowa State,74,True
+1989,Southeast,First Round,"Atlanta, GA",2,UNC,93,15,Southern,79,True
+1989,Southeast,Second Round,"Nashville, TN",1,Oklahoma,124,9,Louisiana Tech,81,True
+1989,Southeast,Second Round,"Nashville, TN",5,Virginia,104,13,Middle Tennessee,88,True
+1989,Southeast,Second Round,"Atlanta, GA",11,South Alabama,82,3,Michigan,91,False
+1989,Southeast,Second Round,"Atlanta, GA",7,UCLA,81,2,UNC,88,False
+1989,Southeast,Sweet Sixteen,"Lexington, KY",1,Oklahoma,80,5,Virginia,86,False
+1989,Southeast,Sweet Sixteen,"Lexington, KY",3,Michigan,92,2,UNC,87,True
+1989,Southeast,Elite Eight,"Lexington, KY",5,Virginia,65,3,Michigan,102,False
+1989,West,First Round,"Boise, ID",1,Arizona,94,16,Robert Morris,60,True
+1989,West,First Round,"Boise, ID",8,Saint Mary's,70,9,Clemson,83,False
+1989,West,First Round,"Boise, ID",5,Memphis,63,12,DePaul,66,False
+1989,West,First Round,"Boise, ID",4,UNLV,68,13,Idaho,56,True
+1989,West,First Round,"Tucson, AZ",6,Oregon State,90,11,Evansville,94,False
+1989,West,First Round,"Tucson, AZ",3,Seton Hall,60,14,Missouri State,51,True
+1989,West,First Round,"Tucson, AZ",7,UTEP,85,10,LSU,74,True
+1989,West,First Round,"Tucson, AZ",2,Indiana,99,15,George Mason,85,True
+1989,West,Second Round,"Boise, ID",1,Arizona,94,9,Clemson,68,True
+1989,West,Second Round,"Boise, ID",12,DePaul,70,4,UNLV,85,False
+1989,West,Second Round,"Tucson, AZ",11,Evansville,73,3,Seton Hall,87,False
+1989,West,Second Round,"Tucson, AZ",7,UTEP,69,2,Indiana,92,False
+1989,West,Sweet Sixteen,"Denver, CO",1,Arizona,67,4,UNLV,68,False
+1989,West,Sweet Sixteen,"Denver, CO",3,Seton Hall,78,2,Indiana,65,True
+1989,West,Elite Eight,"Denver, CO",4,UNLV,61,3,Seton Hall,84,False
+1989,National,Final Four,"Setle, WA",3,Michigan,83,1,Illinois,81,True
+1989,National,Final Four,"Setle, WA",2,Duke,78,3,Seton Hall,95,False
+1989,National,National Championship,"Setle, WA",3,Michigan,80,3,Seton Hall,79,True
+1990,East,First Round,"Hartford, CT",1,UConn,76,16,Boston University,52,True
+1990,East,First Round,"Hartford, CT",8,Indiana,63,9,California,65,False
+1990,East,First Round,"Hartford, CT",5,Clemson,49,12,BYU,47,True
+1990,East,First Round,"Hartford, CT",4,La Salle,79,13,Southern Miss,63,True
+1990,East,First Round,"Atlanta, GA",6,St. John's (NY),81,11,Temple,65,True
+1990,East,First Round,"Atlanta, GA",3,Duke,81,14,Richmond,46,True
+1990,East,First Round,"Atlanta, GA",7,UCLA,68,10,UAB,56,True
+1990,East,First Round,"Atlanta, GA",2,Kansas,79,15,Robert Morris,71,True
+1990,East,Second Round,"Hartford, CT",1,UConn,74,9,California,54,True
+1990,East,Second Round,"Hartford, CT",5,Clemson,79,4,La Salle,75,True
+1990,East,Second Round,"Atlanta, GA",6,St. John's (NY),72,3,Duke,76,False
+1990,East,Second Round,"Atlanta, GA",7,UCLA,71,2,Kansas,70,True
+1990,East,Sweet Sixteen,"East Rutherford, NJ",1,UConn,71,5,Clemson,70,True
+1990,East,Sweet Sixteen,"East Rutherford, NJ",3,Duke,90,7,UCLA,81,True
+1990,East,Elite Eight,"East Rutherford, NJ",1,UConn,78,3,Duke,79,False
+1990,Midwest,First Round,"Austin, TX",1,Oklahoma,77,16,Towson,68,True
+1990,Midwest,First Round,"Austin, TX",8,UNC,83,9,Missouri State,70,True
+1990,Midwest,First Round,"Austin, TX",5,Illinois,86,12,Dayton,88,False
+1990,Midwest,First Round,"Austin, TX",4,Arkansas,68,13,Princeton,64,True
+1990,Midwest,First Round,"Indianapolis, IN",6,Xavier,87,11,Kansas State,79,True
+1990,Midwest,First Round,"Indianapolis, IN",3,Georgetown,70,14,Texas Southern,52,True
+1990,Midwest,First Round,"Indianapolis, IN",7,Georgia,88,10,Texas,100,False
+1990,Midwest,First Round,"Indianapolis, IN",2,Purdue,75,15,Louisiana-Monroe,63,True
+1990,Midwest,Second Round,"Austin, TX",1,Oklahoma,77,8,UNC,79,False
+1990,Midwest,Second Round,"Austin, TX",12,Dayton,84,4,Arkansas,86,False
+1990,Midwest,Second Round,"Indianapolis, IN",6,Xavier,74,3,Georgetown,71,True
+1990,Midwest,Second Round,"Indianapolis, IN",10,Texas,73,2,Purdue,72,True
+1990,Midwest,Sweet Sixteen,"Dallas, TX",8,UNC,73,4,Arkansas,96,False
+1990,Midwest,Sweet Sixteen,"Dallas, TX",6,Xavier,89,10,Texas,102,False
+1990,Midwest,Elite Eight,"Dallas, TX",4,Arkansas,88,10,Texas,85,True
+1990,Southeast,First Round,"Knoxville, TN",1,Michigan State,75,16,Murray State,71,True
+1990,Southeast,First Round,"Knoxville, TN",8,Houston,66,9,UCSB,70,False
+1990,Southeast,First Round,"Knoxville, TN",5,LSU,70,12,Villanova,63,True
+1990,Southeast,First Round,"Knoxville, TN",4,Georgia Tech,99,13,ETSU,83,True
+1990,Southeast,First Round,"Richmond, VA",6,Minnesota,64,11,UTEP,61,True
+1990,Southeast,First Round,"Richmond, VA",3,Missouri,71,14,Northern Iowa,74,False
+1990,Southeast,First Round,"Richmond, VA",7,Virginia,75,10,Notre Dame,67,True
+1990,Southeast,First Round,"Richmond, VA",2,Syracuse,70,15,Coppin State,48,True
+1990,Southeast,Second Round,"Knoxville, TN",1,Michigan State,62,9,UCSB,58,True
+1990,Southeast,Second Round,"Knoxville, TN",5,LSU,91,4,Georgia Tech,94,False
+1990,Southeast,Second Round,"Richmond, VA",6,Minnesota,81,14,Northern Iowa,78,True
+1990,Southeast,Second Round,"Richmond, VA",7,Virginia,61,2,Syracuse,63,False
+1990,Southeast,Sweet Sixteen,"New Orleans, LA",1,Michigan State,80,4,Georgia Tech,81,False
+1990,Southeast,Sweet Sixteen,"New Orleans, LA",6,Minnesota,82,2,Syracuse,75,True
+1990,Southeast,Elite Eight,"New Orleans, LA",4,Georgia Tech,93,6,Minnesota,91,True
+1990,West,First Round,"Salt Lake City, UT",1,UNLV,102,16,Little Rock,72,True
+1990,West,First Round,"Salt Lake City, UT",8,Ohio State,84,9,Providence,83,True
+1990,West,First Round,"Salt Lake City, UT",5,Oregon State,53,12,Ball State,54,False
+1990,West,First Round,"Salt Lake City, UT",4,Louisville,78,13,Idaho,59,True
+1990,West,First Round,"Long Beach, CA",6,New Mexico State,92,11,Loyola Marymount,111,False
+1990,West,First Round,"Long Beach, CA",3,Michigan,76,14,Illinois State,70,True
+1990,West,First Round,"Long Beach, CA",7,Alabama,71,10,Colorado State,54,True
+1990,West,First Round,"Long Beach, CA",2,Arizona,79,15,South Florida,67,True
+1990,West,Second Round,"Salt Lake City, UT",1,UNLV,76,8,Ohio State,65,True
+1990,West,Second Round,"Salt Lake City, UT",12,Ball State,62,4,Louisville,60,True
+1990,West,Second Round,"Long Beach, CA",11,Loyola Marymount,149,3,Michigan,115,True
+1990,West,Second Round,"Long Beach, CA",7,Alabama,77,2,Arizona,55,True
+1990,West,Sweet Sixteen,"Oakland, CA",1,UNLV,69,12,Ball State,67,True
+1990,West,Sweet Sixteen,"Oakland, CA",11,Loyola Marymount,62,7,Alabama,60,True
+1990,West,Elite Eight,"Oakland, CA",1,UNLV,131,11,Loyola Marymount,101,True
+1990,National,Final Four,"Denver, CO",1,UNLV,90,4,Georgia Tech,81,True
+1990,National,Final Four,"Denver, CO",4,Arkansas,83,3,Duke,97,False
+1990,National,National Championship,"Denver, CO",1,UNLV,103,3,Duke,73,True
+1991,East,First Round,"Syracuse, NY",1,UNC,101,16,Northeastern,66,True
+1991,East,First Round,"Syracuse, NY",8,Princeton,48,9,Villanova,50,False
+1991,East,First Round,"Syracuse, NY",5,Mississippi State,56,12,Eastern Michigan,76,False
+1991,East,First Round,"Syracuse, NY",4,UCLA,69,13,Penn State,74,False
+1991,East,First Round,"College Park, MD",6,NC State,114,11,Southern Miss,85,True
+1991,East,First Round,"College Park, MD",3,Oklahoma State,67,14,New Mexico,54,True
+1991,East,First Round,"College Park, MD",7,Purdue,63,10,Temple,80,False
+1991,East,First Round,"College Park, MD",2,Syracuse,69,15,Richmond,73,False
+1991,East,Second Round,"Syracuse, NY",1,UNC,84,9,Villanova,69,True
+1991,East,Second Round,"Syracuse, NY",12,Eastern Michigan,71,13,Penn State,68,True
+1991,East,Second Round,"College Park, MD",6,NC State,64,3,Oklahoma State,73,False
+1991,East,Second Round,"College Park, MD",10,Temple,77,15,Richmond,64,True
+1991,East,Sweet Sixteen,"East Rutherford, NJ",1,UNC,93,12,Eastern Michigan,67,True
+1991,East,Sweet Sixteen,"East Rutherford, NJ",3,Oklahoma State,63,10,Temple,72,False
+1991,East,Elite Eight,"East Rutherford, NJ",1,UNC,75,10,Temple,72,True
+1991,Midwest,First Round,"Dayton, OH",1,Ohio State,97,16,Towson,86,True
+1991,Midwest,First Round,"Dayton, OH",8,Georgia Tech,87,9,DePaul,70,True
+1991,Midwest,First Round,"Dayton, OH",5,Texas,73,12,St. Peter's,65,True
+1991,Midwest,First Round,"Dayton, OH",4,St. John's (NY),75,13,Northern Illinois,68,True
+1991,Midwest,First Round,"Minneapolis, MN",6,LSU,62,11,UConn,79,False
+1991,Midwest,First Round,"Minneapolis, MN",3,Nebraska,84,14,Xavier,89,False
+1991,Midwest,First Round,"Minneapolis, MN",7,Iowa,76,10,ETSU,73,True
+1991,Midwest,First Round,"Minneapolis, MN",2,Duke,102,15,Louisiana-Monroe,73,True
+1991,Midwest,Second Round,"Dayton, OH",1,Ohio State,65,8,Georgia Tech,61,True
+1991,Midwest,Second Round,"Dayton, OH",5,Texas,76,4,St. John's (NY),84,False
+1991,Midwest,Second Round,"Minneapolis, MN",11,UConn,66,14,Xavier,50,True
+1991,Midwest,Second Round,"Minneapolis, MN",7,Iowa,70,2,Duke,85,False
+1991,Midwest,Sweet Sixteen,"Pontiac, MI",1,Ohio State,74,4,St. John's (NY),91,False
+1991,Midwest,Sweet Sixteen,"Pontiac, MI",11,UConn,67,2,Duke,81,False
+1991,Midwest,Elite Eight,"Pontiac, MI",4,St. John's (NY),61,2,Duke,78,False
+1991,Southeast,First Round,"Atlanta, GA",1,Arkansas,117,16,Georgia State,76,True
+1991,Southeast,First Round,"Atlanta, GA",8,Arizona State,79,9,Rutgers,76,True
+1991,Southeast,First Round,"Atlanta, GA",5,Wake Forest,71,12,Louisiana Tech,65,True
+1991,Southeast,First Round,"Atlanta, GA",4,Alabama,89,13,Murray State,79,True
+1991,Southeast,First Round,"Louisville, KY",6,Pitt,76,11,Georgia,68,True
+1991,Southeast,First Round,"Louisville, KY",3,Kansas,55,14,New Orleans,49,True
+1991,Southeast,First Round,"Louisville, KY",7,Florida State,75,10,USC,72,True
+1991,Southeast,First Round,"Louisville, KY",2,Indiana,79,15,Coastal Carolina,69,True
+1991,Southeast,Second Round,"Atlanta, GA",1,Arkansas,97,8,Arizona State,90,True
+1991,Southeast,Second Round,"Atlanta, GA",5,Wake Forest,88,4,Alabama,96,False
+1991,Southeast,Second Round,"Louisville, KY",6,Pitt,66,3,Kansas,77,False
+1991,Southeast,Second Round,"Louisville, KY",7,Florida State,60,2,Indiana,82,False
+1991,Southeast,Sweet Sixteen,"Charlotte, NC",1,Arkansas,93,4,Alabama,70,True
+1991,Southeast,Sweet Sixteen,"Charlotte, NC",3,Kansas,83,2,Indiana,65,True
+1991,Southeast,Elite Eight,"Charlotte, NC",1,Arkansas,81,3,Kansas,93,False
+1991,West,First Round,"Tucson, AZ",1,UNLV,99,16,Montana,65,True
+1991,West,First Round,"Tucson, AZ",8,Georgetown,70,9,Vanderbilt,60,True
+1991,West,First Round,"Tucson, AZ",5,Michigan State,60,12,Green Bay,58,True
+1991,West,First Round,"Tucson, AZ",4,Utah,82,13,South Alabama,72,True
+1991,West,First Round,"Salt Lake City, UT",6,New Mexico State,56,11,Creighton,64,False
+1991,West,First Round,"Salt Lake City, UT",3,Seton Hall,71,14,Pepperdine,51,True
+1991,West,First Round,"Salt Lake City, UT",7,Virginia,48,10,BYU,61,False
+1991,West,First Round,"Salt Lake City, UT",2,Arizona,93,15,Saint Francis (PA),80,True
+1991,West,Second Round,"Tucson, AZ",1,UNLV,62,8,Georgetown,54,True
+1991,West,Second Round,"Tucson, AZ",5,Michigan State,84,4,Utah,85,False
+1991,West,Second Round,"Salt Lake City, UT",11,Creighton,69,3,Seton Hall,81,False
+1991,West,Second Round,"Salt Lake City, UT",10,BYU,61,2,Arizona,76,False
+1991,West,Sweet Sixteen,"Setle, WA",1,UNLV,83,4,Utah,66,True
+1991,West,Sweet Sixteen,"Setle, WA",3,Seton Hall,81,2,Arizona,77,True
+1991,West,Elite Eight,"Setle, WA",1,UNLV,77,3,Seton Hall,65,True
+1991,National,Final Four,"Indianapolis, IN",2,Duke,79,1,UNLV,77,True
+1991,National,Final Four,"Indianapolis, IN",1,UNC,73,3,Kansas,79,False
+1991,National,National Championship,"Indianapolis, IN",2,Duke,72,3,Kansas,65,True
+1992,East,First Round,"Greensboro, NC",1,Duke,82,16,Campbell,56,True
+1992,East,First Round,"Greensboro, NC",8,Texas,92,9,Iowa,98,False
+1992,East,First Round,"Greensboro, NC",5,Missouri,89,12,West Virginia,78,True
+1992,East,First Round,"Greensboro, NC",4,Seton Hall,78,13,La Salle,76,True
+1992,East,First Round,"Worcester, MA",6,Syracuse,51,11,Princeton,43,True
+1992,East,First Round,"Worcester, MA",3,UMass,85,14,Fordham,58,True
+1992,East,First Round,"Worcester, MA",7,Charlotte,74,10,Iowa State,76,False
+1992,East,First Round,"Worcester, MA",2,Kentucky,88,15,Old Dominion,69,True
+1992,East,Second Round,"Greensboro, NC",1,Duke,75,9,Iowa,62,True
+1992,East,Second Round,"Greensboro, NC",5,Missouri,71,4,Seton Hall,88,False
+1992,East,Second Round,"Worcester, MA",6,Syracuse,71,3,UMass,77,False
+1992,East,Second Round,"Worcester, MA",10,Iowa State,98,2,Kentucky,106,False
+1992,East,Sweet Sixteen,"Philadelphia, PA",1,Duke,81,4,Seton Hall,69,True
+1992,East,Sweet Sixteen,"Philadelphia, PA",3,UMass,77,2,Kentucky,87,False
+1992,East,Elite Eight,"Philadelphia, PA",1,Duke,104,2,Kentucky,103,True
+1992,Midwest,First Round,"Dayton, OH",1,Kansas,100,16,Howard,67,True
+1992,Midwest,First Round,"Dayton, OH",8,Evansville,50,9,UTEP,55,False
+1992,Midwest,First Round,"Dayton, OH",5,Michigan State,61,12,Missouri State,54,True
+1992,Midwest,First Round,"Dayton, OH",4,Cincinnati,85,13,Delaware,47,True
+1992,Midwest,First Round,"Milwaukee, WI",6,Memphis,80,11,Pepperdine,70,True
+1992,Midwest,First Round,"Milwaukee, WI",3,Arkansas,80,14,Murray State,69,True
+1992,Midwest,First Round,"Milwaukee, WI",7,Georgia Tech,65,10,Houston,60,True
+1992,Midwest,First Round,"Milwaukee, WI",2,USC,84,15,Louisiana-Monroe,54,True
+1992,Midwest,Second Round,"Dayton, OH",1,Kansas,60,9,UTEP,66,False
+1992,Midwest,Second Round,"Dayton, OH",5,Michigan State,65,4,Cincinnati,77,False
+1992,Midwest,Second Round,"Milwaukee, WI",6,Memphis,82,3,Arkansas,80,True
+1992,Midwest,Second Round,"Milwaukee, WI",7,Georgia Tech,79,2,USC,78,True
+1992,Midwest,Sweet Sixteen,"Kansas City, MO",9,UTEP,67,4,Cincinnati,69,False
+1992,Midwest,Sweet Sixteen,"Kansas City, MO",6,Memphis,83,7,Georgia Tech,79,True
+1992,Midwest,Elite Eight,"Kansas City, MO",4,Cincinnati,88,6,Memphis,57,True
+1992,Southeast,First Round,"Cincinni, OH",1,Ohio State,83,16,Mississippi Valley State,56,True
+1992,Southeast,First Round,"Cincinni, OH",8,Nebraska,65,9,UConn,86,False
+1992,Southeast,First Round,"Cincinni, OH",5,Alabama,80,12,Stanford,75,True
+1992,Southeast,First Round,"Cincinni, OH",4,UNC,68,13,Miami (OH),63,True
+1992,Southeast,First Round,"Atlanta, GA",6,Michigan,73,11,Temple,66,True
+1992,Southeast,First Round,"Atlanta, GA",3,Arizona,80,14,ETSU,87,False
+1992,Southeast,First Round,"Atlanta, GA",7,St. John's (NY),57,10,Tulane,61,False
+1992,Southeast,First Round,"Atlanta, GA",2,Oklahoma State,100,15,Georgia Southern,73,True
+1992,Southeast,Second Round,"Cincinni, OH",1,Ohio State,78,9,UConn,55,True
+1992,Southeast,Second Round,"Cincinni, OH",5,Alabama,55,4,UNC,64,False
+1992,Southeast,Second Round,"Atlanta, GA",6,Michigan,102,14,ETSU,90,True
+1992,Southeast,Second Round,"Atlanta, GA",10,Tulane,71,2,Oklahoma State,87,False
+1992,Southeast,Sweet Sixteen,"Lexington, KY",1,Ohio State,80,4,UNC,73,True
+1992,Southeast,Sweet Sixteen,"Lexington, KY",6,Michigan,75,2,Oklahoma State,72,True
+1992,Southeast,Elite Eight,"Lexington, KY",1,Ohio State,71,6,Michigan,75,False
+1992,West,First Round,"Tempe, AZ",1,UCLA,73,16,Robert Morris,53,True
+1992,West,First Round,"Tempe, AZ",8,Louisville,81,9,Wake Forest,58,True
+1992,West,First Round,"Tempe, AZ",5,DePaul,73,12,New Mexico State,81,False
+1992,West,First Round,"Tempe, AZ",4,Oklahoma,83,13,Louisiana,87,False
+1992,West,First Round,"Boise, ID",6,Georgetown,75,11,South Florida,60,True
+1992,West,First Round,"Boise, ID",3,Florida State,78,14,Montana,68,True
+1992,West,First Round,"Boise, ID",7,LSU,94,10,BYU,83,True
+1992,West,First Round,"Boise, ID",2,Indiana,94,15,Eastern Illinois,55,True
+1992,West,Second Round,"Tempe, AZ",1,UCLA,85,8,Louisville,69,True
+1992,West,Second Round,"Tempe, AZ",12,New Mexico State,81,13,Louisiana,73,True
+1992,West,Second Round,"Boise, ID",6,Georgetown,68,3,Florida State,78,False
+1992,West,Second Round,"Boise, ID",7,LSU,79,2,Indiana,89,False
+1992,West,Sweet Sixteen,"Albuquerque, NM",1,UCLA,85,12,New Mexico State,78,True
+1992,West,Sweet Sixteen,"Albuquerque, NM",3,Florida State,74,2,Indiana,85,False
+1992,West,Elite Eight,"Albuquerque, NM",1,UCLA,79,2,Indiana,106,False
+1992,National,Final Four,"Minneapolis, MN",1,Duke,81,2,Indiana,78,True
+1992,National,Final Four,"Minneapolis, MN",4,Cincinnati,72,6,Michigan,76,False
+1992,National,National Championship,"Minneapolis, MN",1,Duke,71,6,Michigan,51,True
+1993,East,First Round,"Winston-Salem, NC",1,UNC,85,16,East Carolina,65,True
+1993,East,First Round,"Winston-Salem, NC",8,Rhode Island,74,9,Purdue,68,True
+1993,East,First Round,"Winston-Salem, NC",5,St. John's (NY),85,12,Texas Tech,67,True
+1993,East,First Round,"Winston-Salem, NC",4,Arkansas,94,13,Holy Cross,64,True
+1993,East,First Round,"Syracuse, NY",6,Virginia,78,11,Manhattan,66,True
+1993,East,First Round,"Syracuse, NY",3,UMass,54,14,Penn,50,True
+1993,East,First Round,"Syracuse, NY",7,New Mexico State,93,10,Nebraska,79,True
+1993,East,First Round,"Syracuse, NY",2,Cincinnati,93,15,Coppin State,66,True
+1993,East,Second Round,"Winston-Salem, NC",1,UNC,112,8,Rhode Island,67,True
+1993,East,Second Round,"Winston-Salem, NC",5,St. John's (NY),74,4,Arkansas,80,False
+1993,East,Second Round,"Syracuse, NY",6,Virginia,71,3,UMass,56,True
+1993,East,Second Round,"Syracuse, NY",7,New Mexico State,55,2,Cincinnati,92,False
+1993,East,Sweet Sixteen,"East Rutherford, NJ",1,UNC,80,4,Arkansas,74,True
+1993,East,Sweet Sixteen,"East Rutherford, NJ",6,Virginia,54,2,Cincinnati,71,False
+1993,East,Elite Eight,"East Rutherford, NJ",1,UNC,75,2,Cincinnati,68,True
+1993,Midwest,First Round,"Indianapolis, IN",1,Indiana,97,16,Wright State,54,True
+1993,Midwest,First Round,"Indianapolis, IN",8,New Orleans,55,9,Xavier,73,False
+1993,Midwest,First Round,"Indianapolis, IN",5,Oklahoma State,74,12,Marquette,62,True
+1993,Midwest,First Round,"Indianapolis, IN",4,Louisville,76,13,Delaware,70,True
+1993,Midwest,First Round,"Rosemont, IL",6,California,66,11,LSU,64,True
+1993,Midwest,First Round,"Rosemont, IL",3,Duke,105,14,Southern Illinois,70,True
+1993,Midwest,First Round,"Rosemont, IL",7,BYU,80,10,SMU,71,True
+1993,Midwest,First Round,"Rosemont, IL",2,Kansas,94,15,Ball State,72,True
+1993,Midwest,Second Round,"Indianapolis, IN",1,Indiana,73,9,Xavier,70,True
+1993,Midwest,Second Round,"Indianapolis, IN",5,Oklahoma State,63,4,Louisville,78,False
+1993,Midwest,Second Round,"Rosemont, IL",6,California,82,3,Duke,77,True
+1993,Midwest,Second Round,"Rosemont, IL",7,BYU,76,2,Kansas,90,False
+1993,Midwest,Sweet Sixteen,"St. Louis, MO",1,Indiana,82,4,Louisville,69,True
+1993,Midwest,Sweet Sixteen,"St. Louis, MO",6,California,76,2,Kansas,93,False
+1993,Midwest,Elite Eight,"St. Louis, MO",1,Indiana,77,2,Kansas,83,False
+1993,Southeast,First Round,"Nashville, TN",1,Kentucky,96,16,Rider,52,True
+1993,Southeast,First Round,"Nashville, TN",8,Utah,86,9,Pitt,65,True
+1993,Southeast,First Round,"Nashville, TN",5,Wake Forest,81,12,Chattanooga,58,True
+1993,Southeast,First Round,"Nashville, TN",4,Iowa,82,13,Louisiana-Monroe,69,True
+1993,Southeast,First Round,"Orlando, FL",6,Kansas State,53,11,Tulane,55,False
+1993,Southeast,First Round,"Orlando, FL",3,Florida State,82,14,Evansville,70,True
+1993,Southeast,First Round,"Orlando, FL",7,Western Kentucky,55,10,Memphis,52,True
+1993,Southeast,First Round,"Orlando, FL",2,Seton Hall,81,15,Tennessee State,59,True
+1993,Southeast,Second Round,"Nashville, TN",1,Kentucky,83,8,Utah,62,True
+1993,Southeast,Second Round,"Nashville, TN",5,Wake Forest,84,4,Iowa,78,True
+1993,Southeast,Second Round,"Orlando, FL",11,Tulane,63,3,Florida State,94,False
+1993,Southeast,Second Round,"Orlando, FL",7,Western Kentucky,72,2,Seton Hall,68,True
+1993,Southeast,Sweet Sixteen,"Charlotte, NC",1,Kentucky,103,5,Wake Forest,69,True
+1993,Southeast,Sweet Sixteen,"Charlotte, NC",3,Florida State,81,7,Western Kentucky,78,True
+1993,Southeast,Elite Eight,"Charlotte, NC",1,Kentucky,106,3,Florida State,81,True
+1993,West,First Round,"Tucson, AZ",1,Michigan,84,16,Coastal Carolina,53,True
+1993,West,First Round,"Tucson, AZ",8,Iowa State,70,9,UCLA,81,False
+1993,West,First Round,"Tucson, AZ",5,New Mexico,68,12,George Washington,82,False
+1993,West,First Round,"Tucson, AZ",4,Georgia Tech,78,13,Southern,93,False
+1993,West,First Round,"Salt Lake City, UT",6,Illinois,75,11,Long Beach State,72,True
+1993,West,First Round,"Salt Lake City, UT",3,Vanderbilt,92,14,Boise State,72,True
+1993,West,First Round,"Salt Lake City, UT",7,Temple,75,10,Missouri,61,True
+1993,West,First Round,"Salt Lake City, UT",2,Arizona,61,15,Santa Clara,64,False
+1993,West,Second Round,"Tucson, AZ",1,Michigan,86,9,UCLA,84,True
+1993,West,Second Round,"Tucson, AZ",12,George Washington,90,13,Southern,80,True
+1993,West,Second Round,"Salt Lake City, UT",6,Illinois,68,3,Vanderbilt,85,False
+1993,West,Second Round,"Salt Lake City, UT",7,Temple,68,15,Santa Clara,57,True
+1993,West,Sweet Sixteen,"Setle, WA",1,Michigan,72,12,George Washington,64,True
+1993,West,Sweet Sixteen,"Setle, WA",3,Vanderbilt,59,7,Temple,67,False
+1993,West,Elite Eight,"Setle, WA",1,Michigan,77,7,Temple,72,True
+1993,National,Final Four,"New Orleans, LA",1,UNC,78,2,Kansas,68,True
+1993,National,Final Four,"New Orleans, LA",1,Kentucky,78,1,Michigan,81,False
+1993,National,National Championship,"New Orleans, LA",1,UNC,77,1,Michigan,71,True
+1994,East,First Round,"Landover, MD",1,UNC,71,16,Liberty,51,True
+1994,East,First Round,"Landover, MD",8,Washington State,64,9,Boston College,67,False
+1994,East,First Round,"Landover, MD",5,Indiana,84,12,Ohio,72,True
+1994,East,First Round,"Landover, MD",4,Temple,61,13,Drexel,39,True
+1994,East,First Round,"Uniondale, NY",6,Nebraska,80,11,Penn,90,False
+1994,East,First Round,"Uniondale, NY",3,Florida,64,14,James Madison,62,True
+1994,East,First Round,"Uniondale, NY",7,UAB,46,10,George Washington,51,False
+1994,East,First Round,"Uniondale, NY",2,UConn,64,15,Rider,46,True
+1994,East,Second Round,"Landover, MD",1,UNC,72,9,Boston College,75,False
+1994,East,Second Round,"Landover, MD",5,Indiana,67,4,Temple,58,True
+1994,East,Second Round,"Uniondale, NY",11,Penn,58,3,Florida,70,False
+1994,East,Second Round,"Uniondale, NY",10,George Washington,63,2,UConn,75,False
+1994,East,Sweet Sixteen,"Miami, FL",9,Boston College,77,5,Indiana,68,True
+1994,East,Sweet Sixteen,"Miami, FL",3,Florida,69,2,UConn,60,True
+1994,East,Elite Eight,"Miami, FL",9,Boston College,66,3,Florida,74,False
+1994,Midwest,First Round,"Oklahoma City, OK",1,Arkansas,94,16,North Carolina A&T,79,True
+1994,Midwest,First Round,"Oklahoma City, OK",8,Illinois,77,9,Georgetown,84,False
+1994,Midwest,First Round,"Oklahoma City, OK",5,UCLA,102,12,Tulsa,112,False
+1994,Midwest,First Round,"Oklahoma City, OK",4,Oklahoma State,65,13,New Mexico State,55,True
+1994,Midwest,First Round,"Park City, KS",6,Texas,91,11,Western Kentucky,77,True
+1994,Midwest,First Round,"Park City, KS",3,Michigan,78,14,Pepperdine,74,True
+1994,Midwest,First Round,"Park City, KS",7,Saint Louis,66,10,Maryland,74,False
+1994,Midwest,First Round,"Park City, KS",2,UMass,78,15,Texas State,60,True
+1994,Midwest,Second Round,"Oklahoma City, OK",1,Arkansas,85,9,Georgetown,73,True
+1994,Midwest,Second Round,"Oklahoma City, OK",12,Tulsa,82,4,Oklahoma State,80,True
+1994,Midwest,Second Round,"Park City, KS",6,Texas,79,3,Michigan,84,False
+1994,Midwest,Second Round,"Park City, KS",10,Maryland,95,2,UMass,87,True
+1994,Midwest,Sweet Sixteen,"Dallas, TX",1,Arkansas,103,12,Tulsa,84,True
+1994,Midwest,Sweet Sixteen,"Dallas, TX",3,Michigan,78,10,Maryland,71,True
+1994,Midwest,Elite Eight,"Dallas, TX",1,Arkansas,76,3,Michigan,68,True
+1994,Southeast,First Round,"Lexington, KY",1,Purdue,98,16,UCF,67,True
+1994,Southeast,First Round,"Lexington, KY",8,Providence,70,9,Alabama,76,False
+1994,Southeast,First Round,"Lexington, KY",5,Wake Forest,68,12,College of Charleston,58,True
+1994,Southeast,First Round,"Lexington, KY",4,Kansas,102,13,Chattanooga,73,True
+1994,Southeast,First Round,"St. Petersburg, FL",6,Marquette,81,11,Louisiana,59,True
+1994,Southeast,First Round,"St. Petersburg, FL",3,Kentucky,83,14,Tennessee State,70,True
+1994,Southeast,First Round,"St. Petersburg, FL",7,Michigan State,84,10,Seton Hall,73,True
+1994,Southeast,First Round,"St. Petersburg, FL",2,Duke,82,15,Texas Southern,70,True
+1994,Southeast,Second Round,"Lexington, KY",1,Purdue,83,9,Alabama,73,True
+1994,Southeast,Second Round,"Lexington, KY",5,Wake Forest,58,4,Kansas,69,False
+1994,Southeast,Second Round,"St. Petersburg, FL",6,Marquette,75,3,Kentucky,63,True
+1994,Southeast,Second Round,"St. Petersburg, FL",7,Michigan State,74,2,Duke,85,False
+1994,Southeast,Sweet Sixteen,"Knoxville, TN",1,Purdue,83,4,Kansas,78,True
+1994,Southeast,Sweet Sixteen,"Knoxville, TN",6,Marquette,49,2,Duke,59,False
+1994,Southeast,Elite Eight,"Knoxville, TN",1,Purdue,60,2,Duke,69,False
+1994,West,First Round,"Ogden, UT",1,Missouri,76,16,Navy,53,True
+1994,West,First Round,"Ogden, UT",8,Cincinnati,72,9,Wisconsin,80,False
+1994,West,First Round,"Ogden, UT",5,California,57,12,Green Bay,61,False
+1994,West,First Round,"Ogden, UT",4,Syracuse,92,13,Hawaii,78,True
+1994,West,First Round,"Sacramento, CA",6,Minnesota,74,11,Southern Illinois,60,True
+1994,West,First Round,"Sacramento, CA",3,Louisville,67,14,Boise State,58,True
+1994,West,First Round,"Sacramento, CA",7,Virginia,57,10,New Mexico,54,True
+1994,West,First Round,"Sacramento, CA",2,Arizona,81,15,Loyola (MD),55,True
+1994,West,Second Round,"Ogden, UT",1,Missouri,109,9,Wisconsin,96,True
+1994,West,Second Round,"Ogden, UT",12,Green Bay,59,4,Syracuse,64,False
+1994,West,Second Round,"Sacramento, CA",6,Minnesota,55,3,Louisville,60,False
+1994,West,Second Round,"Sacramento, CA",7,Virginia,58,2,Arizona,71,False
+1994,West,Sweet Sixteen,"Los Angeles, CA",1,Missouri,98,4,Syracuse,88,True
+1994,West,Sweet Sixteen,"Los Angeles, CA",3,Louisville,70,2,Arizona,82,False
+1994,West,Elite Eight,"Los Angeles, CA",1,Missouri,72,2,Arizona,92,False
+1994,National,Final Four,"Charlotte, NC",1,Arkansas,91,2,Arizona,82,True
+1994,National,Final Four,"Charlotte, NC",3,Florida,65,2,Duke,70,False
+1994,National,National Championship,"Charlotte, NC",1,Arkansas,76,2,Duke,72,True
+1995,East,First Round,"Baltimore, MD",1,Wake Forest,79,16,North Carolina A&T,47,True
+1995,East,First Round,"Baltimore, MD",8,Minnesota,61,9,Saint Louis,64,False
+1995,East,First Round,"Baltimore, MD",5,Alabama,91,12,Penn,85,True
+1995,East,First Round,"Baltimore, MD",4,Oklahoma State,73,13,Drexel,49,True
+1995,East,First Round,"Albany, NY",6,Tulsa,68,11,Illinois,62,True
+1995,East,First Round,"Albany, NY",3,Villanova,81,14,Old Dominion,89,False
+1995,East,First Round,"Albany, NY",7,Charlotte,68,10,Stanford,70,False
+1995,East,First Round,"Albany, NY",2,UMass,68,15,St. Peter's,51,True
+1995,East,Second Round,"Baltimore, MD",1,Wake Forest,64,9,Saint Louis,59,True
+1995,East,Second Round,"Baltimore, MD",5,Alabama,52,4,Oklahoma State,66,False
+1995,East,Second Round,"Albany, NY",6,Tulsa,64,14,Old Dominion,52,True
+1995,East,Second Round,"Albany, NY",10,Stanford,53,2,UMass,75,False
+1995,East,Sweet Sixteen,"East Rutherford, NJ",1,Wake Forest,66,4,Oklahoma State,71,False
+1995,East,Sweet Sixteen,"East Rutherford, NJ",6,Tulsa,51,2,UMass,76,False
+1995,East,Elite Eight,"East Rutherford, NJ",4,Oklahoma State,68,2,UMass,54,True
+1995,Midwest,First Round,"Dayton, OH",1,Kansas,82,16,Colgate,68,True
+1995,Midwest,First Round,"Dayton, OH",8,Western Kentucky,82,9,Michigan,76,True
+1995,Midwest,First Round,"Dayton, OH",5,Arizona,62,12,Miami (OH),71,False
+1995,Midwest,First Round,"Dayton, OH",4,Virginia,96,13,Nicholls State,72,True
+1995,Midwest,First Round,"Austin, TX",6,Memphis,77,11,Louisville,56,True
+1995,Midwest,First Round,"Austin, TX",3,Purdue,49,14,Green Bay,48,True
+1995,Midwest,First Round,"Austin, TX",7,Syracuse,96,10,Southern Illinois,92,True
+1995,Midwest,First Round,"Austin, TX",2,Arkansas,79,15,Texas Southern,78,True
+1995,Midwest,Second Round,"Dayton, OH",1,Kansas,75,8,Western Kentucky,70,True
+1995,Midwest,Second Round,"Dayton, OH",12,Miami (OH),54,4,Virginia,60,False
+1995,Midwest,Second Round,"Austin, TX",6,Memphis,75,3,Purdue,73,True
+1995,Midwest,Second Round,"Austin, TX",7,Syracuse,94,2,Arkansas,96,False
+1995,Midwest,Sweet Sixteen,"Kansas City, MO",1,Kansas,58,4,Virginia,67,False
+1995,Midwest,Sweet Sixteen,"Kansas City, MO",6,Memphis,91,2,Arkansas,96,False
+1995,Midwest,Elite Eight,"Kansas City, MO",4,Virginia,61,2,Arkansas,68,False
+1995,Southeast,First Round,"Memphis, TN",1,Kentucky,113,16,Mount St. Mary's,67,True
+1995,Southeast,First Round,"Memphis, TN",8,BYU,70,9,Tulane,76,False
+1995,Southeast,First Round,"Memphis, TN",5,Arizona State,81,12,Ball State,66,True
+1995,Southeast,First Round,"Memphis, TN",4,Oklahoma,67,13,Manhattan,77,False
+1995,Southeast,First Round,"Tallahassee, FL",6,Georgetown,68,11,Xavier,63,True
+1995,Southeast,First Round,"Tallahassee, FL",3,Michigan State,72,14,Weber State,79,False
+1995,Southeast,First Round,"Tallahassee, FL",7,Iowa State,64,10,Florida,61,True
+1995,Southeast,First Round,"Tallahassee, FL",2,UNC,80,15,Murray State,70,True
+1995,Southeast,Second Round,"Memphis, TN",1,Kentucky,82,9,Tulane,60,True
+1995,Southeast,Second Round,"Memphis, TN",5,Arizona State,64,13,Manhattan,54,True
+1995,Southeast,Second Round,"Tallahassee, FL",6,Georgetown,53,14,Weber State,51,True
+1995,Southeast,Second Round,"Tallahassee, FL",7,Iowa State,51,2,UNC,73,False
+1995,Southeast,Sweet Sixteen,"Birmingham, AL",1,Kentucky,97,5,Arizona State,73,True
+1995,Southeast,Sweet Sixteen,"Birmingham, AL",6,Georgetown,64,2,UNC,74,False
+1995,Southeast,Elite Eight,"Birmingham, AL",1,Kentucky,61,2,UNC,74,False
+1995,West,First Round,"Boise, ID",1,UCLA,92,16,Florida International,56,True
+1995,West,First Round,"Boise, ID",8,Missouri,65,9,Indiana,60,True
+1995,West,First Round,"Boise, ID",5,Mississippi State,75,12,Santa Clara,67,True
+1995,West,First Round,"Boise, ID",4,Utah,76,13,Long Beach State,64,True
+1995,West,First Round,"Salt Lake City, UT",6,Oregon,73,11,Texas,90,False
+1995,West,First Round,"Salt Lake City, UT",3,Maryland,87,14,Gonzaga,63,True
+1995,West,First Round,"Salt Lake City, UT",7,Cincinnati,77,10,Temple,71,True
+1995,West,First Round,"Salt Lake City, UT",2,UConn,100,15,Chattanooga,71,True
+1995,West,Second Round,"Boise, ID",1,UCLA,75,8,Missouri,74,True
+1995,West,Second Round,"Boise, ID",5,Mississippi State,78,4,Utah,64,True
+1995,West,Second Round,"Salt Lake City, UT",11,Texas,68,3,Maryland,82,False
+1995,West,Second Round,"Salt Lake City, UT",7,Cincinnati,91,2,UConn,96,False
+1995,West,Sweet Sixteen,"Oakland, CA",1,UCLA,86,5,Mississippi State,67,True
+1995,West,Sweet Sixteen,"Oakland, CA",3,Maryland,89,2,UConn,99,False
+1995,West,Elite Eight,"Oakland, CA",1,UCLA,102,2,UConn,96,True
+1995,National,Final Four,"Setle, WA",1,UCLA,74,4,Oklahoma State,61,True
+1995,National,Final Four,"Setle, WA",2,UNC,68,2,Arkansas,75,False
+1995,National,National Championship,"Setle, WA",1,UCLA,89,2,Arkansas,78,True
+1996,East,First Round,"Providence, RI",1,UMass,92,16,UCF,70,True
+1996,East,First Round,"Providence, RI",8,Bradley,58,9,Stanford,66,False
+1996,East,First Round,"Providence, RI",5,Penn State,80,12,Arkansas,86,False
+1996,East,First Round,"Providence, RI",4,Marquette,68,13,Monmouth,44,True
+1996,East,First Round,"Richmond, VA",6,UNC,83,11,New Orleans,62,True
+1996,East,First Round,"Richmond, VA",3,Texas Tech,74,14,Northern Illinois,73,True
+1996,East,First Round,"Richmond, VA",7,New Mexico,69,10,Kansas State,48,True
+1996,East,First Round,"Richmond, VA",2,Georgetown,93,15,Mississippi Valley State,56,True
+1996,East,Second Round,"Providence, RI",1,UMass,79,9,Stanford,74,True
+1996,East,Second Round,"Providence, RI",12,Arkansas,65,4,Marquette,56,True
+1996,East,Second Round,"Richmond, VA",6,UNC,73,3,Texas Tech,92,False
+1996,East,Second Round,"Richmond, VA",7,New Mexico,62,2,Georgetown,73,False
+1996,East,Sweet Sixteen,"Atlanta, GA",1,UMass,79,12,Arkansas,63,True
+1996,East,Sweet Sixteen,"Atlanta, GA",3,Texas Tech,90,2,Georgetown,98,False
+1996,East,Elite Eight,"Atlanta, GA",1,UMass,86,2,Georgetown,62,True
+1996,Midwest,First Round,"Dallas, TX",1,Kentucky,110,16,San Jose State,72,True
+1996,Midwest,First Round,"Dallas, TX",8,Green Bay,48,9,Virginia Tech,61,False
+1996,Midwest,First Round,"Dallas, TX",5,Iowa State,74,12,California,64,True
+1996,Midwest,First Round,"Dallas, TX",4,Utah,72,13,Canisius,43,True
+1996,Midwest,First Round,"Milwaukee, WI",6,Louisville,82,11,Tulsa,80,True
+1996,Midwest,First Round,"Milwaukee, WI",3,Villanova,92,14,Portland,58,True
+1996,Midwest,First Round,"Milwaukee, WI",7,Michigan,76,10,Texas,80,False
+1996,Midwest,First Round,"Milwaukee, WI",2,Wake Forest,62,15,Louisiana-Monroe,50,True
+1996,Midwest,Second Round,"Dallas, TX",1,Kentucky,84,9,Virginia Tech,60,True
+1996,Midwest,Second Round,"Dallas, TX",5,Iowa State,67,4,Utah,73,False
+1996,Midwest,Second Round,"Milwaukee, WI",6,Louisville,68,3,Villanova,64,True
+1996,Midwest,Second Round,"Milwaukee, WI",10,Texas,62,2,Wake Forest,65,False
+1996,Midwest,Sweet Sixteen,"Minneapolis, MN",1,Kentucky,101,4,Utah,70,True
+1996,Midwest,Sweet Sixteen,"Minneapolis, MN",6,Louisville,59,2,Wake Forest,60,False
+1996,Midwest,Elite Eight,"Minneapolis, MN",1,Kentucky,83,2,Wake Forest,63,True
+1996,Southeast,First Round,"Indianapolis, IN",1,UConn,68,16,Colgate,59,True
+1996,Southeast,First Round,"Indianapolis, IN",8,Duke,60,9,Eastern Michigan,75,False
+1996,Southeast,First Round,"Indianapolis, IN",5,Mississippi State,58,12,VCU,51,True
+1996,Southeast,First Round,"Indianapolis, IN",4,UCLA,41,13,Princeton,43,False
+1996,Southeast,First Round,"Orlando, FL",6,Indiana,51,11,Boston College,64,False
+1996,Southeast,First Round,"Orlando, FL",3,Georgia Tech,90,14,Austin Peay,79,True
+1996,Southeast,First Round,"Orlando, FL",7,Temple,61,10,Oklahoma,43,True
+1996,Southeast,First Round,"Orlando, FL",2,Cincinnati,66,15,UNC Greensboro,61,True
+1996,Southeast,Second Round,"Indianapolis, IN",1,UConn,95,9,Eastern Michigan,81,True
+1996,Southeast,Second Round,"Indianapolis, IN",5,Mississippi State,63,13,Princeton,41,True
+1996,Southeast,Second Round,"Orlando, FL",11,Boston College,89,3,Georgia Tech,103,False
+1996,Southeast,Second Round,"Orlando, FL",7,Temple,65,2,Cincinnati,78,False
+1996,Southeast,Sweet Sixteen,"Lexington, KY",1,UConn,55,5,Mississippi State,60,False
+1996,Southeast,Sweet Sixteen,"Lexington, KY",3,Georgia Tech,70,2,Cincinnati,87,False
+1996,Southeast,Elite Eight,"Lexington, KY",5,Mississippi State,73,2,Cincinnati,63,True
+1996,West,First Round,"Albuquerque, NM",1,Purdue,73,16,Western Carolina,71,True
+1996,West,First Round,"Albuquerque, NM",8,Georgia,81,9,Clemson,74,True
+1996,West,First Round,"Albuquerque, NM",5,Memphis,63,12,Drexel,75,False
+1996,West,First Round,"Albuquerque, NM",4,Syracuse,88,13,Montana State,55,True
+1996,West,First Round,"Tempe, AZ",6,Iowa,81,11,George Washington,79,True
+1996,West,First Round,"Tempe, AZ",3,Arizona,90,14,Valparaiso,51,True
+1996,West,First Round,"Tempe, AZ",7,Maryland,79,10,Santa Clara,91,False
+1996,West,First Round,"Tempe, AZ",2,Kansas,92,15,South Carolina State,54,True
+1996,West,Second Round,"Albuquerque, NM",1,Purdue,69,8,Georgia,76,False
+1996,West,Second Round,"Albuquerque, NM",12,Drexel,58,4,Syracuse,69,False
+1996,West,Second Round,"Tempe, AZ",6,Iowa,73,3,Arizona,87,False
+1996,West,Second Round,"Tempe, AZ",10,Santa Clara,51,2,Kansas,76,False
+1996,West,Sweet Sixteen,"Denver, CO",8,Georgia,81,4,Syracuse,83,False
+1996,West,Sweet Sixteen,"Denver, CO",3,Arizona,80,2,Kansas,83,False
+1996,West,Elite Eight,"Denver, CO",4,Syracuse,60,2,Kansas,57,True
+1996,National,Final Four,"East Rutherford, NJ",1,Kentucky,81,1,UMass,74,True
+1996,National,Final Four,"East Rutherford, NJ",5,Mississippi State,69,4,Syracuse,77,False
+1996,National,National Championship,"East Rutherford, NJ",1,Kentucky,76,4,Syracuse,67,True
+1997,East,First Round,"Winston-Salem, NC",1,UNC,82,16,Fairfield,74,True
+1997,East,First Round,"Winston-Salem, NC",8,Indiana,62,9,Colorado,80,False
+1997,East,First Round,"Winston-Salem, NC",5,California,55,12,Princeton,52,True
+1997,East,First Round,"Winston-Salem, NC",4,Villanova,101,13,LIU,91,True
+1997,East,First Round,"Pittsburgh, PA",6,Louisville,65,11,UMass,57,True
+1997,East,First Round,"Pittsburgh, PA",3,New Mexico,59,14,Old Dominion,55,True
+1997,East,First Round,"Pittsburgh, PA",7,Wisconsin,58,10,Texas,71,False
+1997,East,First Round,"Pittsburgh, PA",2,South Carolina,65,15,Coppin State,78,False
+1997,East,Second Round,"Winston-Salem, NC",1,UNC,73,9,Colorado,56,True
+1997,East,Second Round,"Winston-Salem, NC",5,California,75,4,Villanova,68,True
+1997,East,Second Round,"Pittsburgh, PA",6,Louisville,64,3,New Mexico,63,True
+1997,East,Second Round,"Pittsburgh, PA",10,Texas,82,15,Coppin State,81,True
+1997,East,Sweet Sixteen,"Syracuse, NY",1,UNC,63,5,California,57,True
+1997,East,Sweet Sixteen,"Syracuse, NY",6,Louisville,78,10,Texas,63,True
+1997,East,Elite Eight,"Syracuse, NY",1,UNC,97,6,Louisville,74,True
+1997,Midwest,First Round,"Kansas City, MO",1,Minnesota,78,16,Texas State,46,True
+1997,Midwest,First Round,"Kansas City, MO",8,Ole Miss,40,9,Temple,62,False
+1997,Midwest,First Round,"Kansas City, MO",5,Tulsa,81,12,Boston University,52,True
+1997,Midwest,First Round,"Kansas City, MO",4,Clemson,68,13,Miami (OH),56,True
+1997,Midwest,First Round,"Auburn Hills, MI",6,Iowa State,69,11,Illinois State,57,True
+1997,Midwest,First Round,"Auburn Hills, MI",3,Cincinnati,86,14,Butler,69,True
+1997,Midwest,First Round,"Auburn Hills, MI",7,Xavier,80,10,Vanderbilt,68,True
+1997,Midwest,First Round,"Auburn Hills, MI",2,UCLA,109,15,Charleston Southern,75,True
+1997,Midwest,Second Round,"Kansas City, MO",1,Minnesota,76,9,Temple,57,True
+1997,Midwest,Second Round,"Kansas City, MO",5,Tulsa,59,4,Clemson,65,False
+1997,Midwest,Second Round,"Auburn Hills, MI",6,Iowa State,67,3,Cincinnati,66,True
+1997,Midwest,Second Round,"Auburn Hills, MI",7,Xavier,83,2,UCLA,96,False
+1997,Midwest,Sweet Sixteen,"San Antonio, TX",1,Minnesota,90,4,Clemson,84,True
+1997,Midwest,Sweet Sixteen,"San Antonio, TX",6,Iowa State,73,2,UCLA,74,False
+1997,Midwest,Elite Eight,"San Antonio, TX",1,Minnesota,80,2,UCLA,72,True
+1997,Southeast,First Round,"Memphis, TN",1,Kansas,78,16,Jackson State,64,True
+1997,Southeast,First Round,"Memphis, TN",8,Purdue,83,9,Rhode Island,76,True
+1997,Southeast,First Round,"Memphis, TN",5,Maryland,66,12,College of Charleston,75,False
+1997,Southeast,First Round,"Memphis, TN",4,Arizona,65,13,South Alabama,57,True
+1997,Southeast,First Round,"Charlotte, NC",6,Illinois,90,11,USC,77,True
+1997,Southeast,First Round,"Charlotte, NC",3,Georgia,70,14,Chattanooga,73,False
+1997,Southeast,First Round,"Charlotte, NC",7,Marquette,59,10,Providence,81,False
+1997,Southeast,First Round,"Charlotte, NC",2,Duke,71,15,Murray State,68,True
+1997,Southeast,Second Round,"Memphis, TN",1,Kansas,75,8,Purdue,61,True
+1997,Southeast,Second Round,"Memphis, TN",12,College of Charleston,69,4,Arizona,73,False
+1997,Southeast,Second Round,"Charlotte, NC",6,Illinois,63,14,Chattanooga,75,False
+1997,Southeast,Second Round,"Charlotte, NC",10,Providence,98,2,Duke,87,True
+1997,Southeast,Sweet Sixteen,"Birmingham, AL",1,Kansas,82,4,Arizona,85,False
+1997,Southeast,Sweet Sixteen,"Birmingham, AL",14,Chattanooga,65,10,Providence,71,False
+1997,Southeast,Elite Eight,"Birmingham, AL",4,Arizona,96,10,Providence,92,True
+1997,West,First Round,"Salt Lake City, UT",1,Kentucky,92,16,Montana,54,True
+1997,West,First Round,"Salt Lake City, UT",8,Iowa,73,9,Virginia,60,True
+1997,West,First Round,"Salt Lake City, UT",5,Boston College,73,12,Valparaiso,66,True
+1997,West,First Round,"Salt Lake City, UT",4,St. Joseph's,75,13,Pacific,65,True
+1997,West,First Round,"Tucson, AZ",6,Stanford,80,11,Oklahoma,67,True
+1997,West,First Round,"Tucson, AZ",3,Wake Forest,68,14,Saint Mary's,46,True
+1997,West,First Round,"Tucson, AZ",7,Charlotte,79,10,Georgetown,67,True
+1997,West,First Round,"Tucson, AZ",2,Utah,75,15,Navy,61,True
+1997,West,Second Round,"Salt Lake City, UT",1,Kentucky,75,8,Iowa,69,True
+1997,West,Second Round,"Salt Lake City, UT",5,Boston College,77,4,St. Joseph's,81,False
+1997,West,Second Round,"Tucson, AZ",6,Stanford,72,3,Wake Forest,66,True
+1997,West,Second Round,"Tucson, AZ",7,Charlotte,58,2,Utah,77,False
+1997,West,Sweet Sixteen,"San Jose, CA",1,Kentucky,83,4,St. Joseph's,68,True
+1997,West,Sweet Sixteen,"San Jose, CA",6,Stanford,77,2,Utah,82,False
+1997,West,Elite Eight,"San Jose, CA",1,Kentucky,72,2,Utah,59,True
+1997,National,Final Four,"Indianapolis, IN",4,Arizona,66,1,UNC,58,True
+1997,National,Final Four,"Indianapolis, IN",1,Minnesota,69,1,Kentucky,78,False
+1997,National,National Championship,"Indianapolis, IN",4,Arizona,84,1,Kentucky,79,True
+1998,East,First Round,"Hartford, CT",1,UNC,88,16,Navy,52,True
+1998,East,First Round,"Hartford, CT",8,Charlotte,77,9,UIC,62,True
+1998,East,First Round,"Hartford, CT",5,Princeton,69,12,UNLV,57,True
+1998,East,First Round,"Hartford, CT",4,Michigan State,83,13,Eastern Michigan,71,True
+1998,East,First Round,"Washington, DC",6,Xavier,68,11,Washington,69,False
+1998,East,First Round,"Washington, DC",3,South Carolina,61,14,Richmond,62,False
+1998,East,First Round,"Washington, DC",7,Indiana,94,10,Oklahoma,87,True
+1998,East,First Round,"Washington, DC",2,UConn,93,15,Fairleigh Dickinson,85,True
+1998,East,Second Round,"Hartford, CT",1,UNC,93,8,Charlotte,83,True
+1998,East,Second Round,"Hartford, CT",5,Princeton,56,4,Michigan State,63,False
+1998,East,Second Round,"Washington, DC",11,Washington,81,14,Richmond,66,True
+1998,East,Second Round,"Washington, DC",7,Indiana,68,2,UConn,78,False
+1998,East,Sweet Sixteen,"Greensboro, NC",1,UNC,73,4,Michigan State,58,True
+1998,East,Sweet Sixteen,"Greensboro, NC",11,Washington,74,2,UConn,75,False
+1998,East,Elite Eight,"Greensboro, NC",1,UNC,75,2,UConn,64,True
+1998,Midwest,First Round,"Oklahoma City, OK",1,Kansas,110,16,Prairie View,52,True
+1998,Midwest,First Round,"Oklahoma City, OK",8,Rhode Island,97,9,Murray State,74,True
+1998,Midwest,First Round,"Oklahoma City, OK",5,TCU,87,12,Florida State,96,False
+1998,Midwest,First Round,"Oklahoma City, OK",4,Ole Miss,69,13,Valparaiso,70,False
+1998,Midwest,First Round,"Chicago, IL",6,Clemson,72,11,Western Michigan,75,False
+1998,Midwest,First Round,"Chicago, IL",3,Stanford,67,14,College of Charleston,57,True
+1998,Midwest,First Round,"Chicago, IL",7,St. John's (NY),64,10,Detroit Mercy,66,False
+1998,Midwest,First Round,"Chicago, IL",2,Purdue,95,15,Delaware,56,True
+1998,Midwest,Second Round,"Oklahoma City, OK",1,Kansas,75,8,Rhode Island,80,False
+1998,Midwest,Second Round,"Oklahoma City, OK",12,Florida State,77,13,Valparaiso,83,False
+1998,Midwest,Second Round,"Chicago, IL",11,Western Michigan,65,3,Stanford,83,False
+1998,Midwest,Second Round,"Chicago, IL",10,Detroit Mercy,65,2,Purdue,80,False
+1998,Midwest,Sweet Sixteen,"St. Louis, MO",8,Rhode Island,74,13,Valparaiso,68,True
+1998,Midwest,Sweet Sixteen,"St. Louis, MO",3,Stanford,67,2,Purdue,59,True
+1998,Midwest,Elite Eight,"St. Louis, MO",8,Rhode Island,77,3,Stanford,79,False
+1998,South,First Round,"Lexington, KY",1,Duke,99,16,Radford,63,True
+1998,South,First Round,"Lexington, KY",8,Oklahoma State,74,9,George Washington,59,True
+1998,South,First Round,"Lexington, KY",5,Syracuse,63,12,Iona,61,True
+1998,South,First Round,"Lexington, KY",4,New Mexico,79,13,Butler,62,True
+1998,South,First Round,"Atlanta, GA",6,UCLA,65,11,Miami (FL),62,True
+1998,South,First Round,"Atlanta, GA",3,Michigan,80,14,Davidson,61,True
+1998,South,First Round,"Atlanta, GA",7,UMass,46,10,Saint Louis,51,False
+1998,South,First Round,"Atlanta, GA",2,Kentucky,82,15,South Carolina State,67,True
+1998,South,Second Round,"Lexington, KY",1,Duke,79,8,Oklahoma State,73,True
+1998,South,Second Round,"Lexington, KY",5,Syracuse,56,4,New Mexico,46,True
+1998,South,Second Round,"Atlanta, GA",6,UCLA,85,3,Michigan,82,True
+1998,South,Second Round,"Atlanta, GA",10,Saint Louis,61,2,Kentucky,88,False
+1998,South,Sweet Sixteen,"St. Petersburg, FL",1,Duke,80,5,Syracuse,67,True
+1998,South,Sweet Sixteen,"St. Petersburg, FL",6,UCLA,68,2,Kentucky,94,False
+1998,South,Elite Eight,"St. Petersburg, FL",1,Duke,84,2,Kentucky,86,False
+1998,West,First Round,"Sacramento, CA",1,Arizona,99,16,Nicholls State,60,True
+1998,West,First Round,"Sacramento, CA",8,Tennessee,81,9,Illinois State,82,False
+1998,West,First Round,"Sacramento, CA",5,Illinois,64,12,South Alabama,51,True
+1998,West,First Round,"Sacramento, CA",4,Maryland,82,13,Utah State,68,True
+1998,West,First Round,"Boise, ID",6,Arkansas,74,11,Nebraska,65,True
+1998,West,First Round,"Boise, ID",3,Utah,85,14,San Francisco,68,True
+1998,West,First Round,"Boise, ID",7,Temple,52,10,West Virginia,82,False
+1998,West,First Round,"Boise, ID",2,Cincinnati,65,15,Northern Arizona,62,True
+1998,West,Second Round,"Sacramento, CA",1,Arizona,82,9,Illinois State,49,True
+1998,West,Second Round,"Sacramento, CA",5,Illinois,61,4,Maryland,67,False
+1998,West,Second Round,"Boise, ID",6,Arkansas,69,3,Utah,75,False
+1998,West,Second Round,"Boise, ID",10,West Virginia,75,2,Cincinnati,74,True
+1998,West,Sweet Sixteen,"Anaheim, CA",1,Arizona,87,4,Maryland,79,True
+1998,West,Sweet Sixteen,"Anaheim, CA",3,Utah,65,10,West Virginia,62,True
+1998,West,Elite Eight,"Anaheim, CA",1,Arizona,51,3,Utah,76,False
+1998,National,Final Four,"San Antonio, TX",2,Kentucky,86,3,Stanford,85,True
+1998,National,Final Four,"San Antonio, TX",1,UNC,59,3,Utah,65,False
+1998,National,National Championship,"San Antonio, TX",2,Kentucky,78,3,Utah,69,True
+1999,East,First Round,"Charlotte, NC",1,Duke,99,16,Florida A&M,58,True
+1999,East,First Round,"Charlotte, NC",8,College of Charleston,53,9,Tulsa,62,False
+1999,East,First Round,"Charlotte, NC",5,Wisconsin,32,12,Missouri State,43,False
+1999,East,First Round,"Charlotte, NC",4,Tennessee,62,13,Delaware,52,True
+1999,East,First Round,"Boston, MA",6,Temple,61,11,Kent State,54,True
+1999,East,First Round,"Boston, MA",3,Cincinnati,72,14,George Mason,48,True
+1999,East,First Round,"Boston, MA",7,Texas,54,10,Purdue,58,False
+1999,East,First Round,"Boston, MA",2,Miami (FL),75,15,Lafayette,54,True
+1999,East,Second Round,"Charlotte, NC",1,Duke,97,9,Tulsa,56,True
+1999,East,Second Round,"Charlotte, NC",12,Missouri State,81,4,Tennessee,51,True
+1999,East,Second Round,"Boston, MA",6,Temple,64,3,Cincinnati,54,True
+1999,East,Second Round,"Boston, MA",10,Purdue,73,2,Miami (FL),63,True
+1999,East,Sweet Sixteen,"East Rutherford, NJ",1,Duke,78,12,Missouri State,61,True
+1999,East,Sweet Sixteen,"East Rutherford, NJ",6,Temple,77,10,Purdue,55,True
+1999,East,Elite Eight,"East Rutherford, NJ",1,Duke,85,6,Temple,64,True
+1999,Midwest,First Round,"Milwaukee, WI",1,Michigan State,76,16,Mount St. Mary's,53,True
+1999,Midwest,First Round,"Milwaukee, WI",8,Villanova,70,9,Ole Miss,72,False
+1999,Midwest,First Round,"Milwaukee, WI",5,Charlotte,81,12,Rhode Island,70,True
+1999,Midwest,First Round,"Milwaukee, WI",4,Arizona,60,13,Oklahoma,61,False
+1999,Midwest,First Round,"New Orleans, LA",6,Kansas,95,11,Evansville,74,True
+1999,Midwest,First Round,"New Orleans, LA",3,Kentucky,82,14,New Mexico State,60,True
+1999,Midwest,First Round,"New Orleans, LA",7,Washington,58,10,Miami (OH),59,False
+1999,Midwest,First Round,"New Orleans, LA",2,Utah,80,15,Arkansas State,58,True
+1999,Midwest,Second Round,"Milwaukee, WI",1,Michigan State,74,9,Ole Miss,66,True
+1999,Midwest,Second Round,"Milwaukee, WI",5,Charlotte,72,13,Oklahoma,85,False
+1999,Midwest,Second Round,"New Orleans, LA",6,Kansas,88,3,Kentucky,92,False
+1999,Midwest,Second Round,"New Orleans, LA",10,Miami (OH),66,2,Utah,58,True
+1999,Midwest,Sweet Sixteen,"St. Louis, MO",1,Michigan State,54,13,Oklahoma,46,True
+1999,Midwest,Sweet Sixteen,"St. Louis, MO",3,Kentucky,58,10,Miami (OH),43,True
+1999,Midwest,Elite Eight,"St. Louis, MO",1,Michigan State,73,3,Kentucky,66,True
+1999,South,First Round,"Indianapolis, IN",1,Auburn,80,16,Winthrop,41,True
+1999,South,First Round,"Indianapolis, IN",8,Syracuse,61,9,Oklahoma State,69,False
+1999,South,First Round,"Indianapolis, IN",5,UCLA,53,12,Detroit Mercy,56,False
+1999,South,First Round,"Indianapolis, IN",4,Ohio State,72,13,Murray State,58,True
+1999,South,First Round,"Orlando, FL",6,Indiana,108,11,George Washington,88,True
+1999,South,First Round,"Orlando, FL",3,St. John's (NY),69,14,Samford,43,True
+1999,South,First Round,"Orlando, FL",7,Louisville,58,10,Creighton,62,False
+1999,South,First Round,"Orlando, FL",2,Maryland,82,15,Valparaiso,60,True
+1999,South,Second Round,"Indianapolis, IN",1,Auburn,81,9,Oklahoma State,74,True
+1999,South,Second Round,"Indianapolis, IN",12,Detroit Mercy,44,4,Ohio State,75,False
+1999,South,Second Round,"Orlando, FL",6,Indiana,61,3,St. John's (NY),86,False
+1999,South,Second Round,"Orlando, FL",10,Creighton,63,2,Maryland,75,False
+1999,South,Sweet Sixteen,"Knoxville, TN",1,Auburn,64,4,Ohio State,72,False
+1999,South,Sweet Sixteen,"Knoxville, TN",3,St. John's (NY),76,2,Maryland,62,True
+1999,South,Elite Eight,"Knoxville, TN",4,Ohio State,77,3,St. John's (NY),74,True
+1999,West,First Round,"Denver, CO",1,UConn,91,16,UTSA,66,True
+1999,West,First Round,"Denver, CO",8,Missouri,59,9,New Mexico,61,False
+1999,West,First Round,"Denver, CO",5,Iowa,77,12,UAB,64,True
+1999,West,First Round,"Denver, CO",4,Arkansas,94,13,Siena,80,True
+1999,West,First Round,"Setle, WA",6,Florida,75,11,Penn,61,True
+1999,West,First Round,"Setle, WA",3,UNC,74,14,Weber State,76,False
+1999,West,First Round,"Setle, WA",7,Minnesota,63,10,Gonzaga,75,False
+1999,West,First Round,"Setle, WA",2,Stanford,69,15,Alcorn State,57,True
+1999,West,Second Round,"Denver, CO",1,UConn,78,9,New Mexico,56,True
+1999,West,Second Round,"Denver, CO",5,Iowa,82,4,Arkansas,72,True
+1999,West,Second Round,"Setle, WA",6,Florida,82,14,Weber State,74,True
+1999,West,Second Round,"Setle, WA",10,Gonzaga,82,2,Stanford,74,True
+1999,West,Sweet Sixteen,"Phoenix, AZ",1,UConn,78,5,Iowa,68,True
+1999,West,Sweet Sixteen,"Phoenix, AZ",6,Florida,72,10,Gonzaga,73,False
+1999,West,Elite Eight,"Phoenix, AZ",1,UConn,67,10,Gonzaga,62,True
+1999,National,Final Four,"St. Petersburg, FL",1,UConn,64,4,Ohio State,58,True
+1999,National,Final Four,"St. Petersburg, FL",1,Michigan State,62,1,Duke,68,False
+1999,National,National Championship,"St. Petersburg, FL",1,UConn,77,1,Duke,74,True
+2000,East,First Round,"Winston-Salem, NC",1,Duke,82,16,Lamar,55,True
+2000,East,First Round,"Winston-Salem, NC",8,Kansas,81,9,DePaul,77,True
+2000,East,First Round,"Winston-Salem, NC",5,Florida,69,12,Butler,68,True
+2000,East,First Round,"Winston-Salem, NC",4,Illinois,68,13,Penn,58,True
+2000,East,First Round,"Buffalo, NY",6,Indiana,57,11,Pepperdine,77,False
+2000,East,First Round,"Buffalo, NY",3,Oklahoma State,86,14,Hofstra,66,True
+2000,East,First Round,"Buffalo, NY",7,Oregon,71,10,Seton Hall,72,False
+2000,East,First Round,"Buffalo, NY",2,Temple,73,15,Lafayette,47,True
+2000,East,Second Round,"Winston-Salem, NC",1,Duke,69,8,Kansas,64,True
+2000,East,Second Round,"Winston-Salem, NC",5,Florida,93,4,Illinois,76,True
+2000,East,Second Round,"Buffalo, NY",11,Pepperdine,67,3,Oklahoma State,75,False
+2000,East,Second Round,"Buffalo, NY",10,Seton Hall,67,2,Temple,65,True
+2000,East,Sweet Sixteen,"Syracuse, NY",1,Duke,78,5,Florida,87,False
+2000,East,Sweet Sixteen,"Syracuse, NY",3,Oklahoma State,68,10,Seton Hall,66,True
+2000,East,Elite Eight,"Syracuse, NY",5,Florida,77,3,Oklahoma State,65,True
+2000,Midwest,First Round,"Cleveland, OH",1,Michigan State,65,16,Valparaiso,38,True
+2000,Midwest,First Round,"Cleveland, OH",8,Utah,48,9,Saint Louis,45,True
+2000,Midwest,First Round,"Cleveland, OH",5,Kentucky,85,12,St. Bonaventure,80,True
+2000,Midwest,First Round,"Cleveland, OH",4,Syracuse,79,13,Samford,65,True
+2000,Midwest,First Round,"Minneapolis, MN",6,UCLA,65,11,Ball State,57,True
+2000,Midwest,First Round,"Minneapolis, MN",3,Maryland,74,14,Iona,59,True
+2000,Midwest,First Round,"Minneapolis, MN",7,Auburn,72,10,Creighton,69,True
+2000,Midwest,First Round,"Minneapolis, MN",2,Iowa State,88,15,Central Connecticut,78,True
+2000,Midwest,Second Round,"Cleveland, OH",1,Michigan State,73,8,Utah,61,True
+2000,Midwest,Second Round,"Cleveland, OH",5,Kentucky,50,4,Syracuse,52,False
+2000,Midwest,Second Round,"Minneapolis, MN",6,UCLA,105,3,Maryland,70,True
+2000,Midwest,Second Round,"Minneapolis, MN",7,Auburn,60,2,Iowa State,79,False
+2000,Midwest,Sweet Sixteen,"Auburn Hills, MI",1,Michigan State,75,4,Syracuse,58,True
+2000,Midwest,Sweet Sixteen,"Auburn Hills, MI",6,UCLA,56,2,Iowa State,80,False
+2000,Midwest,Elite Eight,"Auburn Hills, MI",1,Michigan State,75,2,Iowa State,64,True
+2000,South,First Round,"Birmingham, AL",1,Stanford,84,16,South Carolina State,65,True
+2000,South,First Round,"Birmingham, AL",8,UNC,84,9,Missouri,70,True
+2000,South,First Round,"Birmingham, AL",5,UConn,75,12,Utah State,67,True
+2000,South,First Round,"Birmingham, AL",4,Tennessee,63,13,Louisiana,58,True
+2000,South,First Round,"Nashville, TN",6,Miami (FL),75,11,Arkansas,71,True
+2000,South,First Round,"Nashville, TN",3,Ohio State,87,14,Appalachian State,61,True
+2000,South,First Round,"Nashville, TN",7,Tulsa,89,10,UNLV,62,True
+2000,South,First Round,"Nashville, TN",2,Cincinnati,64,15,UNC Wilmington,47,True
+2000,South,Second Round,"Birmingham, AL",1,Stanford,53,8,UNC,60,False
+2000,South,Second Round,"Birmingham, AL",5,UConn,51,4,Tennessee,65,False
+2000,South,Second Round,"Nashville, TN",6,Miami (FL),75,3,Ohio State,62,True
+2000,South,Second Round,"Nashville, TN",7,Tulsa,69,2,Cincinnati,61,True
+2000,South,Sweet Sixteen,"Austin, TX",8,UNC,74,4,Tennessee,69,True
+2000,South,Sweet Sixteen,"Austin, TX",6,Miami (FL),71,7,Tulsa,80,False
+2000,South,Elite Eight,"Austin, TX",8,UNC,59,7,Tulsa,55,True
+2000,West,First Round,"Tucson, AZ",1,Arizona,71,16,Jackson State,47,True
+2000,West,First Round,"Salt Lake City, UT",8,Wisconsin,66,9,Fresno State,56,True
+2000,West,First Round,"Salt Lake City, UT",5,Texas,77,12,Indiana State,61,True
+2000,West,First Round,"Salt Lake City, UT",4,LSU,64,13,Southeast Missouri State,61,True
+2000,West,First Round,"Tucson, AZ",6,Purdue,62,11,Dayton,61,True
+2000,West,First Round,"Tucson, AZ",3,Oklahoma,74,14,Winthrop,50,True
+2000,West,First Round,"Tucson, AZ",7,Louisville,66,10,Gonzaga,77,False
+2000,West,First Round,"Tucson, AZ",2,St. John's (NY),61,15,Northern Arizona,56,True
+2000,West,Second Round,"Salt Lake City, UT",1,Arizona,59,8,Wisconsin,66,False
+2000,West,Second Round,"Salt Lake City, UT",5,Texas,67,4,LSU,72,False
+2000,West,Second Round,"Tucson, AZ",6,Purdue,66,3,Oklahoma,62,True
+2000,West,Second Round,"Tucson, AZ",10,Gonzaga,82,2,St. John's (NY),76,True
+2000,West,Sweet Sixteen,"Albuquerque, NM",8,Wisconsin,61,4,LSU,48,True
+2000,West,Sweet Sixteen,"Albuquerque, NM",6,Purdue,75,10,Gonzaga,66,True
+2000,West,Elite Eight,"Albuquerque, NM",8,Wisconsin,64,6,Purdue,60,True
+2000,National,Final Four,"Indianapolis, IN",1,Michigan State,53,8,Wisconsin,41,True
+2000,National,Final Four,"Indianapolis, IN",8,UNC,59,5,Florida,71,False
+2000,National,National Championship,"Indianapolis, IN",1,Michigan State,89,5,Florida,76,True
+2001,East,First Round,"Greensboro, NC",1,Duke,95,16,Monmouth,52,True
+2001,East,First Round,"Greensboro, NC",8,Georgia,68,9,Missouri,70,False
+2001,East,First Round,"Greensboro, NC",5,Ohio State,68,12,Utah State,77,False
+2001,East,First Round,"Greensboro, NC",4,UCLA,61,13,Hofstra,48,True
+2001,East,First Round,"Uniondale, NY",6,USC,69,11,Oklahoma State,54,True
+2001,East,First Round,"Uniondale, NY",3,Boston College,68,14,Southern Utah,65,True
+2001,East,First Round,"Uniondale, NY",7,Iowa,69,10,Creighton,56,True
+2001,East,First Round,"Uniondale, NY",2,Kentucky,72,15,Holy Cross,68,True
+2001,East,Second Round,"Greensboro, NC",1,Duke,94,9,Missouri,81,True
+2001,East,Second Round,"Greensboro, NC",12,Utah State,50,4,UCLA,75,False
+2001,East,Second Round,"Uniondale, NY",6,USC,74,3,Boston College,71,True
+2001,East,Second Round,"Uniondale, NY",7,Iowa,79,2,Kentucky,92,False
+2001,East,Sweet Sixteen,"Philadelphia, PA",1,Duke,76,4,UCLA,63,True
+2001,East,Sweet Sixteen,"Philadelphia, PA",6,USC,80,2,Kentucky,76,True
+2001,East,Elite Eight,"Philadelphia, PA",1,Duke,79,6,USC,69,True
+2001,Midwest,First Round,"Dayton, OH",1,Illinois,96,16,Northwestern State,54,True
+2001,Midwest,First Round,"Dayton, OH",8,Tennessee,63,9,Charlotte,70,False
+2001,Midwest,First Round,"Dayton, OH",5,Syracuse,79,12,Hawaii,69,True
+2001,Midwest,First Round,"Dayton, OH",4,Kansas,99,13,Cal State Northridge,75,True
+2001,Midwest,First Round,"Kansas City, MO",6,Notre Dame,83,11,Xavier,71,True
+2001,Midwest,First Round,"Kansas City, MO",3,Ole Miss,72,14,Iona,70,True
+2001,Midwest,First Round,"Kansas City, MO",7,Wake Forest,63,10,Butler,79,False
+2001,Midwest,First Round,"Kansas City, MO",2,Arizona,101,15,Eastern Illinois,76,True
+2001,Midwest,Second Round,"Dayton, OH",1,Illinois,79,9,Charlotte,61,True
+2001,Midwest,Second Round,"Dayton, OH",5,Syracuse,58,4,Kansas,87,False
+2001,Midwest,Second Round,"Kansas City, MO",6,Notre Dame,56,3,Ole Miss,59,False
+2001,Midwest,Second Round,"Kansas City, MO",10,Butler,52,2,Arizona,73,False
+2001,Midwest,Sweet Sixteen,"San Antonio, TX",1,Illinois,80,4,Kansas,64,True
+2001,Midwest,Sweet Sixteen,"San Antonio, TX",3,Ole Miss,56,2,Arizona,66,False
+2001,Midwest,Elite Eight,"San Antonio, TX",1,Illinois,81,2,Arizona,87,False
+2001,South,First Round,"Memphis, TN",1,Michigan State,69,16,Alabama State,35,True
+2001,South,First Round,"Memphis, TN",8,California,70,9,Fresno State,82,False
+2001,South,First Round,"Memphis, TN",5,Virginia,85,12,Gonzaga,86,False
+2001,South,First Round,"Memphis, TN",4,Oklahoma,68,13,Indiana State,70,False
+2001,South,First Round,"New Orleans, LA",6,Texas,65,11,Temple,79,False
+2001,South,First Round,"New Orleans, LA",3,Florida,69,14,Western Kentucky,56,True
+2001,South,First Round,"New Orleans, LA",7,Penn State,69,10,Providence,59,True
+2001,South,First Round,"New Orleans, LA",2,UNC,70,15,Princeton,48,True
+2001,South,Second Round,"Memphis, TN",1,Michigan State,81,9,Fresno State,65,True
+2001,South,Second Round,"Memphis, TN",12,Gonzaga,85,13,Indiana State,68,True
+2001,South,Second Round,"New Orleans, LA",11,Temple,75,3,Florida,54,True
+2001,South,Second Round,"New Orleans, LA",7,Penn State,82,2,UNC,74,True
+2001,South,Sweet Sixteen,"Atlanta, GA",1,Michigan State,77,12,Gonzaga,62,True
+2001,South,Sweet Sixteen,"Atlanta, GA",11,Temple,84,7,Penn State,72,True
+2001,South,Elite Eight,"Atlanta, GA",1,Michigan State,69,11,Temple,62,True
+2001,West,First Round,"San Diego, CA",1,Stanford,89,16,UNC Greensboro,60,True
+2001,West,First Round,"San Diego, CA",8,Georgia Tech,62,9,St. Joseph's,66,False
+2001,West,First Round,"San Diego, CA",5,Cincinnati,84,12,BYU,59,True
+2001,West,First Round,"San Diego, CA",4,Indiana,73,13,Kent State,77,False
+2001,West,First Round,"Boise, ID",6,Wisconsin,49,11,Georgia State,50,False
+2001,West,First Round,"Boise, ID",3,Maryland,83,14,George Mason,80,True
+2001,West,First Round,"Boise, ID",7,Arkansas,61,10,Georgetown,63,False
+2001,West,First Round,"Boise, ID",2,Iowa State,57,15,Hampton,58,False
+2001,West,Second Round,"San Diego, CA",1,Stanford,90,9,St. Joseph's,83,True
+2001,West,Second Round,"San Diego, CA",5,Cincinnati,66,13,Kent State,43,True
+2001,West,Second Round,"Boise, ID",11,Georgia State,60,3,Maryland,79,False
+2001,West,Second Round,"Boise, ID",10,Georgetown,76,15,Hampton,57,True
+2001,West,Sweet Sixteen,"Anaheim, CA",1,Stanford,78,5,Cincinnati,65,True
+2001,West,Sweet Sixteen,"Anaheim, CA",3,Maryland,76,10,Georgetown,66,True
+2001,West,Elite Eight,"Anaheim, CA",1,Stanford,73,3,Maryland,87,False
+2001,National,Final Four,"Minneapolis, MN",1,Duke,95,3,Maryland,84,True
+2001,National,Final Four,"Minneapolis, MN",1,Michigan State,61,2,Arizona,80,False
+2001,National,National Championship,"Minneapolis, MN",1,Duke,82,2,Arizona,72,True
+2002,East,First Round,"Washington, DC",1,Maryland,85,16,Siena,70,True
+2002,East,First Round,"Washington, DC",8,Wisconsin,80,9,St. John's (NY),70,True
+2002,East,First Round,"St. Louis, MO",5,Marquette,69,12,Tulsa,71,False
+2002,East,First Round,"St. Louis, MO",4,Kentucky,83,13,Valparaiso,68,True
+2002,East,First Round,"Chicago, IL",6,Texas Tech,68,11,Southern Illinois,76,False
+2002,East,First Round,"Chicago, IL",3,Georgia,85,14,Murray State,68,True
+2002,East,First Round,"Washington, DC",7,NC State,69,10,Michigan State,58,True
+2002,East,First Round,"Washington, DC",2,UConn,78,15,Hampton,67,True
+2002,East,Second Round,"Washington, DC",1,Maryland,87,8,Wisconsin,57,True
+2002,East,Second Round,"St. Louis, MO",12,Tulsa,82,4,Kentucky,87,False
+2002,East,Second Round,"Chicago, IL",11,Southern Illinois,77,3,Georgia,75,True
+2002,East,Second Round,"Washington, DC",7,NC State,74,2,UConn,77,False
+2002,East,Sweet Sixteen,"Syracuse, NY",1,Maryland,78,4,Kentucky,68,True
+2002,East,Sweet Sixteen,"Syracuse, NY",11,Southern Illinois,59,2,UConn,71,False
+2002,East,Elite Eight,"Syracuse, NY",1,Maryland,90,2,UConn,82,True
+2002,Midwest,First Round,"St. Louis, MO",1,Kansas,70,16,Holy Cross,59,True
+2002,Midwest,First Round,"St. Louis, MO",8,Stanford,84,9,Western Kentucky,68,True
+2002,Midwest,First Round,"Chicago, IL",5,Florida,82,12,Creighton,83,False
+2002,Midwest,First Round,"Chicago, IL",4,Illinois,93,13,San Diego State,64,True
+2002,Midwest,First Round,"Dallas, TX",6,Texas,70,11,Boston College,57,True
+2002,Midwest,First Round,"Dallas, TX",3,Mississippi State,70,14,McNeese State,58,True
+2002,Midwest,First Round,"Sacramento, CA",7,Wake Forest,83,10,Pepperdine,74,True
+2002,Midwest,First Round,"Sacramento, CA",2,Oregon,81,15,Montana,62,True
+2002,Midwest,Second Round,"St. Louis, MO",1,Kansas,86,8,Stanford,63,True
+2002,Midwest,Second Round,"Chicago, IL",12,Creighton,60,4,Illinois,72,False
+2002,Midwest,Second Round,"Dallas, TX",6,Texas,68,3,Mississippi State,64,True
+2002,Midwest,Second Round,"Sacramento, CA",7,Wake Forest,87,2,Oregon,92,False
+2002,Midwest,Sweet Sixteen,"Madison, WI",1,Kansas,73,4,Illinois,69,True
+2002,Midwest,Sweet Sixteen,"Madison, WI",6,Texas,70,2,Oregon,72,False
+2002,Midwest,Elite Eight,"Madison, WI",1,Kansas,104,2,Oregon,86,True
+2002,South,First Round,"Greenville, SC",1,Duke,84,16,Winthrop,37,True
+2002,South,First Round,"Greenville, SC",8,Notre Dame,82,9,Charlotte,63,True
+2002,South,First Round,"Sacramento, CA",5,Indiana,75,12,Utah,56,True
+2002,South,First Round,"Sacramento, CA",4,USC,89,13,UNC Wilmington,93,False
+2002,South,First Round,"Pittsburgh, PA",6,California,82,11,Penn,75,True
+2002,South,First Round,"Pittsburgh, PA",3,Pitt,71,14,Central Connecticut,54,True
+2002,South,First Round,"Greenville, SC",7,Oklahoma State,61,10,Kent State,69,False
+2002,South,First Round,"Greenville, SC",2,Alabama,86,15,Florida Atlantic,78,True
+2002,South,Second Round,"Greenville, SC",1,Duke,84,8,Notre Dame,77,True
+2002,South,Second Round,"Sacramento, CA",5,Indiana,76,13,UNC Wilmington,67,True
+2002,South,Second Round,"Pittsburgh, PA",6,California,50,3,Pitt,63,False
+2002,South,Second Round,"Greenville, SC",10,Kent State,71,2,Alabama,58,True
+2002,South,Sweet Sixteen,"Lexington, KY",1,Duke,73,5,Indiana,74,False
+2002,South,Sweet Sixteen,"Lexington, KY",3,Pitt,73,10,Kent State,78,False
+2002,South,Elite Eight,"Lexington, KY",5,Indiana,81,10,Kent State,69,True
+2002,West,First Round,"Pittsburgh, PA",1,Cincinnati,90,16,Boston University,52,True
+2002,West,First Round,"Pittsburgh, PA",8,UCLA,80,9,Ole Miss,58,True
+2002,West,First Round,"Albuquerque, NM",5,Miami (FL),80,12,Missouri,93,False
+2002,West,First Round,"Albuquerque, NM",4,Ohio State,69,13,Davidson,64,True
+2002,West,First Round,"Albuquerque, NM",6,Gonzaga,66,11,Wyoming,73,False
+2002,West,First Round,"Albuquerque, NM",3,Arizona,86,14,UCSB,81,True
+2002,West,First Round,"Dallas, TX",7,Xavier,70,10,Hawaii,58,True
+2002,West,First Round,"Dallas, TX",2,Oklahoma,71,15,UIC,63,True
+2002,West,Second Round,"Pittsburgh, PA",1,Cincinnati,101,8,UCLA,105,False
+2002,West,Second Round,"Albuquerque, NM",12,Missouri,83,4,Ohio State,67,True
+2002,West,Second Round,"Albuquerque, NM",11,Wyoming,60,3,Arizona,68,False
+2002,West,Second Round,"Dallas, TX",7,Xavier,65,2,Oklahoma,78,False
+2002,West,Sweet Sixteen,"San Jose, CA",8,UCLA,73,12,Missouri,82,False
+2002,West,Sweet Sixteen,"San Jose, CA",3,Arizona,67,2,Oklahoma,88,False
+2002,West,Elite Eight,"San Jose, CA",12,Missouri,75,2,Oklahoma,81,False
+2002,National,Final Four,"Atlanta, GA",1,Maryland,97,1,Kansas,88,True
+2002,National,Final Four,"Atlanta, GA",2,Oklahoma,64,5,Indiana,73,False
+2002,National,National Championship,"Atlanta, GA",1,Maryland,64,5,Indiana,52,True
+2003,East,First Round,"Oklahoma City, OK",1,Oklahoma,71,16,South Carolina State,54,True
+2003,East,First Round,"Oklahoma City, OK",8,California,76,9,NC State,74,True
+2003,East,First Round,"Birmingham, AL",5,Mississippi State,46,12,Butler,47,False
+2003,East,First Round,"Birmingham, AL",4,Louisville,86,13,Austin Peay,64,True
+2003,East,First Round,"Boston, MA",6,Oklahoma State,77,11,Penn,63,True
+2003,East,First Round,"Boston, MA",3,Syracuse,76,14,Manhattan,65,True
+2003,East,First Round,"Tampa, FL",7,St. Joseph's,63,10,Auburn,65,False
+2003,East,First Round,"Tampa, FL",2,Wake Forest,76,15,ETSU,73,True
+2003,East,Second Round,"Oklahoma City, OK",1,Oklahoma,74,8,California,65,True
+2003,East,Second Round,"Birmingham, AL",12,Butler,79,4,Louisville,71,True
+2003,East,Second Round,"Boston, MA",6,Oklahoma State,56,3,Syracuse,68,False
+2003,East,Second Round,"Tampa, FL",10,Auburn,68,2,Wake Forest,62,True
+2003,East,Sweet Sixteen,"Albany, NY",1,Oklahoma,65,12,Butler,54,True
+2003,East,Sweet Sixteen,"Albany, NY",3,Syracuse,79,10,Auburn,78,True
+2003,East,Elite Eight,"Albany, NY",1,Oklahoma,47,3,Syracuse,63,False
+2003,Midwest,First Round,"Nashville, TN",1,Kentucky,95,16,IUPUI,64,True
+2003,Midwest,First Round,"Nashville, TN",8,Oregon,58,9,Utah,60,False
+2003,Midwest,First Round,"Spokane, WA",5,Wisconsin,81,12,Weber State,74,True
+2003,Midwest,First Round,"Spokane, WA",4,Dayton,71,13,Tulsa,84,False
+2003,Midwest,First Round,"Indianapolis, IN",6,Missouri,72,11,Southern Illinois,71,True
+2003,Midwest,First Round,"Indianapolis, IN",3,Marquette,72,14,Holy Cross,68,True
+2003,Midwest,First Round,"Boston, MA",7,Indiana,67,10,Alabama,62,True
+2003,Midwest,First Round,"Boston, MA",2,Pitt,87,15,Wagner,61,True
+2003,Midwest,Second Round,"Nashville, TN",1,Kentucky,74,9,Utah,54,True
+2003,Midwest,Second Round,"Spokane, WA",5,Wisconsin,61,13,Tulsa,60,True
+2003,Midwest,Second Round,"Indianapolis, IN",6,Missouri,92,3,Marquette,101,False
+2003,Midwest,Second Round,"Boston, MA",7,Indiana,52,2,Pitt,74,False
+2003,Midwest,Sweet Sixteen,"Minneapolis, MN",1,Kentucky,63,5,Wisconsin,57,True
+2003,Midwest,Sweet Sixteen,"Minneapolis, MN",3,Marquette,77,2,Pitt,74,True
+2003,Midwest,Elite Eight,"Minneapolis, MN",1,Kentucky,69,3,Marquette,83,False
+2003,South,First Round,"Birmingham, AL",1,Texas,82,16,UNC Asheville,61,True
+2003,South,First Round,"Birmingham, AL",8,LSU,56,9,Purdue,80,False
+2003,South,First Round,"Spokane, WA",5,UConn,58,12,BYU,53,True
+2003,South,First Round,"Spokane, WA",4,Stanford,77,13,San Diego,69,True
+2003,South,First Round,"Nashville, TN",6,Maryland,75,11,UNC Wilmington,73,True
+2003,South,First Round,"Nashville, TN",3,Xavier,71,14,Troy,59,True
+2003,South,First Round,"Tampa, FL",7,Michigan State,79,10,Colorado,64,True
+2003,South,First Round,"Tampa, FL",2,Florida,85,15,Sam Houston State,55,True
+2003,South,Second Round,"Birmingham, AL",1,Texas,77,9,Purdue,67,True
+2003,South,Second Round,"Spokane, WA",5,UConn,85,4,Stanford,74,True
+2003,South,Second Round,"Nashville, TN",6,Maryland,77,3,Xavier,64,True
+2003,South,Second Round,"Tampa, FL",7,Michigan State,68,2,Florida,46,True
+2003,South,Sweet Sixteen,"San Antonio, TX",1,Texas,82,5,UConn,78,True
+2003,South,Sweet Sixteen,"San Antonio, TX",6,Maryland,58,7,Michigan State,60,False
+2003,South,Elite Eight,"San Antonio, TX",1,Texas,85,7,Michigan State,76,True
+2003,West,First Round,"Salt Lake City, UT",1,Arizona,80,16,Vermont,51,True
+2003,West,First Round,"Salt Lake City, UT",8,Cincinnati,69,9,Gonzaga,74,False
+2003,West,First Round,"Indianapolis, IN",5,Notre Dame,70,12,Milwaukee,69,True
+2003,West,First Round,"Indianapolis, IN",4,Illinois,65,13,Western Kentucky,60,True
+2003,West,First Round,"Salt Lake City, UT",6,Creighton,73,11,Central Michigan,79,False
+2003,West,First Round,"Salt Lake City, UT",3,Duke,67,14,Colorado State,57,True
+2003,West,First Round,"Oklahoma City, OK",7,Memphis,71,10,Arizona State,84,False
+2003,West,First Round,"Oklahoma City, OK",2,Kansas,64,15,Utah State,61,True
+2003,West,Second Round,"Salt Lake City, UT",1,Arizona,96,9,Gonzaga,95,True
+2003,West,Second Round,"Indianapolis, IN",5,Notre Dame,68,4,Illinois,60,True
+2003,West,Second Round,"Salt Lake City, UT",11,Central Michigan,60,3,Duke,86,False
+2003,West,Second Round,"Oklahoma City, OK",10,Arizona State,76,2,Kansas,108,False
+2003,West,Sweet Sixteen,"Anaheim, CA",1,Arizona,88,5,Notre Dame,71,True
+2003,West,Sweet Sixteen,"Anaheim, CA",3,Duke,65,2,Kansas,69,False
+2003,West,Elite Eight,"Anaheim, CA",1,Arizona,75,2,Kansas,78,False
+2003,National,Final Four,"New Orleans, LA",3,Syracuse,95,1,Texas,84,True
+2003,National,Final Four,"New Orleans, LA",3,Marquette,61,2,Kansas,94,False
+2003,National,National Championship,"New Orleans, LA",3,Syracuse,81,2,Kansas,78,True
+2004,Atlanta,First Round,"Raleigh, NC",1,Duke,96,16,Alabama State,61,True
+2004,Atlanta,First Round,"Raleigh, NC",8,Seton Hall,80,9,Arizona,76,True
+2004,Atlanta,First Round,"Columbus, OH",5,Illinois,72,12,Murray State,53,True
+2004,Atlanta,First Round,"Columbus, OH",4,Cincinnati,80,13,ETSU,77,True
+2004,Atlanta,First Round,"Denver, CO",6,UNC,63,11,Air Force,52,True
+2004,Atlanta,First Round,"Denver, CO",3,Texas,66,14,Princeton,49,True
+2004,Atlanta,First Round,"Orlando, FL",7,Xavier,80,10,Louisville,70,True
+2004,Atlanta,First Round,"Orlando, FL",2,Mississippi State,85,15,Monmouth,52,True
+2004,Atlanta,Second Round,"Raleigh, NC",1,Duke,90,8,Seton Hall,62,True
+2004,Atlanta,Second Round,"Columbus, OH",5,Illinois,92,4,Cincinnati,68,True
+2004,Atlanta,Second Round,"Denver, CO",6,UNC,75,3,Texas,78,False
+2004,Atlanta,Second Round,"Orlando, FL",7,Xavier,89,2,Mississippi State,74,True
+2004,Atlanta,Sweet Sixteen,"Atlanta, GA",1,Duke,72,5,Illinois,62,True
+2004,Atlanta,Sweet Sixteen,"Atlanta, GA",3,Texas,71,7,Xavier,79,False
+2004,Atlanta,Elite Eight,"Atlanta, GA",1,Duke,66,7,Xavier,63,True
+2004,Eastrutherford,First Round,"Buffalo, NY",1,St. Joseph's,82,16,Liberty,63,True
+2004,Eastrutherford,First Round,"Buffalo, NY",8,Texas Tech,76,9,Charlotte,73,True
+2004,Eastrutherford,First Round,"Raleigh, NC",5,Florida,60,12,Manhattan,75,False
+2004,Eastrutherford,First Round,"Raleigh, NC",4,Wake Forest,79,13,VCU,78,True
+2004,Eastrutherford,First Round,"Milwaukee, WI",6,Wisconsin,76,11,Richmond,64,True
+2004,Eastrutherford,First Round,"Milwaukee, WI",3,Pitt,53,14,UCF,44,True
+2004,Eastrutherford,First Round,"Kansas City, MO",7,Memphis,59,10,South Carolina,43,True
+2004,Eastrutherford,First Round,"Kansas City, MO",2,Oklahoma State,75,15,Eastern Washington,56,True
+2004,Eastrutherford,Second Round,"Buffalo, NY",1,St. Joseph's,70,8,Texas Tech,65,True
+2004,Eastrutherford,Second Round,"Raleigh, NC",12,Manhattan,80,4,Wake Forest,84,False
+2004,Eastrutherford,Second Round,"Milwaukee, WI",6,Wisconsin,55,3,Pitt,59,False
+2004,Eastrutherford,Second Round,"Kansas City, MO",7,Memphis,53,2,Oklahoma State,70,False
+2004,Eastrutherford,Sweet Sixteen,"East Rutherford, NJ",1,St. Joseph's,84,4,Wake Forest,80,True
+2004,Eastrutherford,Sweet Sixteen,"East Rutherford, NJ",3,Pitt,51,2,Oklahoma State,63,False
+2004,Eastrutherford,Elite Eight,"East Rutherford, NJ",1,St. Joseph's,62,2,Oklahoma State,64,False
+2004,Phoenix,First Round,"Setle, WA",1,Stanford,71,16,UTSA,45,True
+2004,Phoenix,First Round,"Setle, WA",8,Alabama,65,9,Southern Illinois,64,True
+2004,Phoenix,First Round,"Denver, CO",5,Syracuse,80,12,BYU,75,True
+2004,Phoenix,First Round,"Denver, CO",4,Maryland,86,13,UTEP,83,True
+2004,Phoenix,First Round,"Denver, CO",6,Vanderbilt,71,11,Western Michigan,58,True
+2004,Phoenix,First Round,"Orlando, FL",3,NC State,61,14,Louisiana,52,True
+2004,Phoenix,First Round,"Buffalo, NY",7,DePaul,76,10,Dayton,69,True
+2004,Phoenix,First Round,"Buffalo, NY",2,UConn,70,15,Vermont,53,True
+2004,Phoenix,Second Round,"Setle, WA",1,Stanford,67,8,Alabama,70,False
+2004,Phoenix,Second Round,"Denver, CO",5,Syracuse,72,4,Maryland,70,True
+2004,Phoenix,Second Round,"Denver, CO",6,Vanderbilt,75,3,NC State,73,True
+2004,Phoenix,Second Round,"Buffalo, NY",7,DePaul,55,2,UConn,72,False
+2004,Phoenix,Sweet Sixteen,"Phoenix, AZ",8,Alabama,80,5,Syracuse,71,True
+2004,Phoenix,Sweet Sixteen,"Phoenix, AZ",6,Vanderbilt,53,2,UConn,73,False
+2004,Phoenix,Elite Eight,"Phoenix, AZ",8,Alabama,71,2,UConn,87,False
+2004,Stlouis,First Round,"Columbus, OH",1,Kentucky,96,16,Florida A&M,76,True
+2004,Stlouis,First Round,"Columbus, OH",8,Washington,100,9,UAB,102,False
+2004,Stlouis,First Round,"Kansas City, MO",5,Providence,58,12,Pacific,66,False
+2004,Stlouis,First Round,"Kansas City, MO",4,Kansas,78,13,UIC,53,True
+2004,Stlouis,First Round,"Milwaukee, WI",6,Boston College,58,11,Utah,51,True
+2004,Stlouis,First Round,"Milwaukee, WI",3,Georgia Tech,65,14,Northern Iowa,60,True
+2004,Stlouis,First Round,"Setle, WA",7,Michigan State,66,10,Nevada,72,False
+2004,Stlouis,First Round,"Setle, WA",2,Gonzaga,76,15,Valparaiso,49,True
+2004,Stlouis,Second Round,"Columbus, OH",1,Kentucky,75,9,UAB,76,False
+2004,Stlouis,Second Round,"Kansas City, MO",12,Pacific,63,4,Kansas,78,False
+2004,Stlouis,Second Round,"Milwaukee, WI",6,Boston College,54,3,Georgia Tech,57,False
+2004,Stlouis,Second Round,"Setle, WA",10,Nevada,91,2,Gonzaga,72,True
+2004,Stlouis,Sweet Sixteen,"St. Louis, MO",9,UAB,74,4,Kansas,100,False
+2004,Stlouis,Sweet Sixteen,"St. Louis, MO",3,Georgia Tech,72,10,Nevada,67,True
+2004,Stlouis,Elite Eight,"St. Louis, MO",4,Kansas,71,3,Georgia Tech,79,False
+2004,National,Final Four,"San Antonio, TX",2,UConn,79,1,Duke,78,True
+2004,National,Final Four,"San Antonio, TX",2,Oklahoma State,65,3,Georgia Tech,67,False
+2004,National,National Championship,"San Antonio, TX",2,UConn,82,3,Georgia Tech,73,True
+2005,Albuquerque,First Round,"Boise, ID",1,Washington,88,16,Montana,77,True
+2005,Albuquerque,First Round,"Boise, ID",8,Pacific,79,9,Pitt,71,True
+2005,Albuquerque,First Round,"Nashville, TN",5,Georgia Tech,80,12,George Washington,68,True
+2005,Albuquerque,First Round,"Nashville, TN",4,Louisville,68,13,Louisiana,62,True
+2005,Albuquerque,First Round,"Tucson, AZ",6,Texas Tech,78,11,UCLA,66,True
+2005,Albuquerque,First Round,"Tucson, AZ",3,Gonzaga,74,14,Winthrop,64,True
+2005,Albuquerque,First Round,"Cleveland, OH",7,West Virginia,63,10,Creighton,61,True
+2005,Albuquerque,First Round,"Cleveland, OH",2,Wake Forest,70,15,Chattanooga,54,True
+2005,Albuquerque,Second Round,"Boise, ID",1,Washington,97,8,Pacific,79,True
+2005,Albuquerque,Second Round,"Nashville, TN",5,Georgia Tech,54,4,Louisville,76,False
+2005,Albuquerque,Second Round,"Tucson, AZ",6,Texas Tech,71,3,Gonzaga,69,True
+2005,Albuquerque,Second Round,"Cleveland, OH",7,West Virginia,111,2,Wake Forest,105,True
+2005,Albuquerque,Sweet Sixteen,"Albuquerque, NM",1,Washington,79,4,Louisville,93,False
+2005,Albuquerque,Sweet Sixteen,"Albuquerque, NM",6,Texas Tech,60,7,West Virginia,65,False
+2005,Albuquerque,Elite Eight,"Albuquerque, NM",4,Louisville,93,7,West Virginia,85,True
+2005,Austin,First Round,"Charlotte, NC",1,Duke,57,16,Delaware State,46,True
+2005,Austin,First Round,"Charlotte, NC",8,Stanford,70,9,Mississippi State,93,False
+2005,Austin,First Round,"Worcester, MA",5,Michigan State,89,12,Old Dominion,81,True
+2005,Austin,First Round,"Worcester, MA",4,Syracuse,57,13,Vermont,60,False
+2005,Austin,First Round,"Tucson, AZ",6,Utah,60,11,UTEP,54,True
+2005,Austin,First Round,"Tucson, AZ",3,Oklahoma,84,14,Niagara,67,True
+2005,Austin,First Round,"Indianapolis, IN",7,Cincinnati,76,10,Iowa,64,True
+2005,Austin,First Round,"Indianapolis, IN",2,Kentucky,72,15,Eastern Kentucky,64,True
+2005,Austin,Second Round,"Charlotte, NC",1,Duke,63,9,Mississippi State,55,True
+2005,Austin,Second Round,"Worcester, MA",5,Michigan State,72,13,Vermont,61,True
+2005,Austin,Second Round,"Tucson, AZ",6,Utah,67,3,Oklahoma,58,True
+2005,Austin,Second Round,"Indianapolis, IN",7,Cincinnati,60,2,Kentucky,69,False
+2005,Austin,Sweet Sixteen,"Austin, TX",1,Duke,68,5,Michigan State,78,False
+2005,Austin,Sweet Sixteen,"Austin, TX",6,Utah,52,2,Kentucky,62,False
+2005,Austin,Elite Eight,"Austin, TX",5,Michigan State,94,2,Kentucky,88,True
+2005,Chicago,First Round,"Indianapolis, IN",1,Illinois,67,16,Fairleigh Dickinson,55,True
+2005,Chicago,First Round,"Indianapolis, IN",8,Texas,57,9,Nevada,61,False
+2005,Chicago,First Round,"Cleveland, OH",5,Alabama,73,12,Milwaukee,83,False
+2005,Chicago,First Round,"Cleveland, OH",4,Boston College,85,13,Penn,65,True
+2005,Chicago,First Round,"Boise, ID",6,LSU,68,11,UAB,82,False
+2005,Chicago,First Round,"Boise, ID",3,Arizona,66,14,Utah State,53,True
+2005,Chicago,First Round,"Oklahoma City, OK",7,Southern Illinois,65,10,Saint Mary's,56,True
+2005,Chicago,First Round,"Oklahoma City, OK",2,Oklahoma State,63,15,Southeastern Louisiana,50,True
+2005,Chicago,Second Round,"Indianapolis, IN",1,Illinois,71,9,Nevada,59,True
+2005,Chicago,Second Round,"Cleveland, OH",12,Milwaukee,83,4,Boston College,75,True
+2005,Chicago,Second Round,"Boise, ID",11,UAB,63,3,Arizona,85,False
+2005,Chicago,Second Round,"Oklahoma City, OK",7,Southern Illinois,77,2,Oklahoma State,85,False
+2005,Chicago,Sweet Sixteen,"Rosemont, IL",1,Illinois,77,12,Milwaukee,63,True
+2005,Chicago,Sweet Sixteen,"Rosemont, IL",3,Arizona,79,2,Oklahoma State,78,True
+2005,Chicago,Elite Eight,"Rosemont, IL",1,Illinois,90,3,Arizona,89,True
+2005,Syracuse,First Round,"Charlotte, NC",1,UNC,96,16,Oakland,68,True
+2005,Syracuse,First Round,"Charlotte, NC",8,Minnesota,53,9,Iowa State,64,False
+2005,Syracuse,First Round,"Nashville, TN",5,Villanova,55,12,New Mexico,47,True
+2005,Syracuse,First Round,"Nashville, TN",4,Florida,67,13,Ohio,62,True
+2005,Syracuse,First Round,"Oklahoma City, OK",6,Wisconsin,57,11,Northern Iowa,52,True
+2005,Syracuse,First Round,"Oklahoma City, OK",3,Kansas,63,14,Bucknell,64,False
+2005,Syracuse,First Round,"Worcester, MA",7,Charlotte,63,10,NC State,75,False
+2005,Syracuse,First Round,"Worcester, MA",2,UConn,77,15,UCF,71,True
+2005,Syracuse,Second Round,"Charlotte, NC",1,UNC,92,9,Iowa State,65,True
+2005,Syracuse,Second Round,"Nashville, TN",5,Villanova,76,4,Florida,65,True
+2005,Syracuse,Second Round,"Oklahoma City, OK",6,Wisconsin,71,14,Bucknell,62,True
+2005,Syracuse,Second Round,"Worcester, MA",10,NC State,65,2,UConn,62,True
+2005,Syracuse,Sweet Sixteen,"Syracuse, NY",1,UNC,67,5,Villanova,66,True
+2005,Syracuse,Sweet Sixteen,"Syracuse, NY",6,Wisconsin,65,10,NC State,56,True
+2005,Syracuse,Elite Eight,"Syracuse, NY",1,UNC,88,6,Wisconsin,82,True
+2005,National,Final Four,"St. Louis, MO",1,UNC,87,5,Michigan State,71,True
+2005,National,Final Four,"St. Louis, MO",4,Louisville,57,1,Illinois,72,False
+2005,National,National Championship,"St. Louis, MO",1,UNC,75,1,Illinois,70,True
+2006,Atlanta,First Round,"Greensboro, NC",1,Duke,70,16,Southern,54,True
+2006,Atlanta,First Round,"Greensboro, NC",8,George Washington,88,9,UNC Wilmington,85,True
+2006,Atlanta,First Round,"Jacksonville, FL",5,Syracuse,58,12,Texas A&M,66,False
+2006,Atlanta,First Round,"Jacksonville, FL",4,LSU,80,13,Iona,64,True
+2006,Atlanta,First Round,"Auburn Hills, MI",6,West Virginia,64,11,Southern Illinois,46,True
+2006,Atlanta,First Round,"Auburn Hills, MI",3,Iowa,63,14,Northwestern State,64,False
+2006,Atlanta,First Round,"Dallas, TX",7,California,52,10,NC State,58,False
+2006,Atlanta,First Round,"Dallas, TX",2,Texas,60,15,Penn,52,True
+2006,Atlanta,Second Round,"Greensboro, NC",1,Duke,74,8,George Washington,61,True
+2006,Atlanta,Second Round,"Jacksonville, FL",12,Texas A&M,57,4,LSU,58,False
+2006,Atlanta,Second Round,"Auburn Hills, MI",6,West Virginia,67,14,Northwestern State,54,True
+2006,Atlanta,Second Round,"Dallas, TX",10,NC State,54,2,Texas,75,False
+2006,Atlanta,Sweet Sixteen,"Atlanta, GA",1,Duke,54,4,LSU,62,False
+2006,Atlanta,Sweet Sixteen,"Atlanta, GA",6,West Virginia,71,2,Texas,74,False
+2006,Atlanta,Elite Eight,"Atlanta, GA",4,LSU,70,2,Texas,60,True
+2006,Minneapolis,First Round,"Philadelphia, PA",1,Villanova,58,16,Monmouth,45,True
+2006,Minneapolis,First Round,"Philadelphia, PA",8,Arizona,94,9,Wisconsin,75,True
+2006,Minneapolis,First Round,"Salt Lake City, UT",5,Nevada,79,12,Montana,87,False
+2006,Minneapolis,First Round,"Salt Lake City, UT",4,Boston College,88,13,Pacific,76,True
+2006,Minneapolis,First Round,"Jacksonville, FL",6,Oklahoma,74,11,Milwaukee,82,False
+2006,Minneapolis,First Round,"Jacksonville, FL",3,Florida,76,14,South Alabama,50,True
+2006,Minneapolis,First Round,"Dayton, OH",7,Georgetown,54,10,Northern Iowa,49,True
+2006,Minneapolis,First Round,"Dayton, OH",2,Ohio State,70,15,Davidson,62,True
+2006,Minneapolis,Second Round,"Philadelphia, PA",1,Villanova,82,8,Arizona,78,True
+2006,Minneapolis,Second Round,"Salt Lake City, UT",12,Montana,56,4,Boston College,69,False
+2006,Minneapolis,Second Round,"Jacksonville, FL",11,Milwaukee,60,3,Florida,82,False
+2006,Minneapolis,Second Round,"Dayton, OH",7,Georgetown,70,2,Ohio State,52,True
+2006,Minneapolis,Sweet Sixteen,"Minneapolis, MN",1,Villanova,60,4,Boston College,59,True
+2006,Minneapolis,Sweet Sixteen,"Minneapolis, MN",3,Florida,57,7,Georgetown,53,True
+2006,Minneapolis,Elite Eight,"Minneapolis, MN",1,Villanova,62,3,Florida,75,False
+2006,Oakland,First Round,"Dallas, TX",1,Memphis,94,16,Oral Roberts,78,True
+2006,Oakland,First Round,"Dallas, TX",8,Arkansas,55,9,Bucknell,59,False
+2006,Oakland,First Round,"Auburn Hills, MI",5,Pitt,79,12,Kent State,64,True
+2006,Oakland,First Round,"Auburn Hills, MI",4,Kansas,73,13,Bradley,77,False
+2006,Oakland,First Round,"Salt Lake City, UT",6,Indiana,87,11,San Diego State,83,True
+2006,Oakland,First Round,"Salt Lake City, UT",3,Gonzaga,79,14,Xavier,75,True
+2006,Oakland,First Round,"San Diego, CA",7,Marquette,85,10,Alabama,90,False
+2006,Oakland,First Round,"San Diego, CA",2,UCLA,78,15,Belmont,44,True
+2006,Oakland,Second Round,"Dallas, TX",1,Memphis,72,9,Bucknell,56,True
+2006,Oakland,Second Round,"Auburn Hills, MI",5,Pitt,66,13,Bradley,72,False
+2006,Oakland,Second Round,"Salt Lake City, UT",6,Indiana,80,3,Gonzaga,90,False
+2006,Oakland,Second Round,"San Diego, CA",10,Alabama,59,2,UCLA,62,False
+2006,Oakland,Sweet Sixteen,"Oakland, CA",1,Memphis,80,13,Bradley,64,True
+2006,Oakland,Sweet Sixteen,"Oakland, CA",3,Gonzaga,71,2,UCLA,73,False
+2006,Oakland,Elite Eight,"Oakland, CA",1,Memphis,45,2,UCLA,50,False
+2006,Washington,First Round,"Philadelphia, PA",1,UConn,72,16,Albany (NY),59,True
+2006,Washington,First Round,"Philadelphia, PA",8,Kentucky,69,9,UAB,64,True
+2006,Washington,First Round,"San Diego, CA",5,Washington,75,12,Utah State,61,True
+2006,Washington,First Round,"San Diego, CA",4,Illinois,78,13,Air Force,69,True
+2006,Washington,First Round,"Dayton, OH",6,Michigan State,65,11,George Mason,75,False
+2006,Washington,First Round,"Dayton, OH",3,UNC,69,14,Murray State,65,True
+2006,Washington,First Round,"Greensboro, NC",7,Wichita State,86,10,Seton Hall,66,True
+2006,Washington,First Round,"Greensboro, NC",2,Tennessee,63,15,Winthrop,61,True
+2006,Washington,Second Round,"Philadelphia, PA",1,UConn,87,8,Kentucky,83,True
+2006,Washington,Second Round,"San Diego, CA",5,Washington,67,4,Illinois,64,True
+2006,Washington,Second Round,"Dayton, OH",11,George Mason,65,3,UNC,60,True
+2006,Washington,Second Round,"Greensboro, NC",7,Wichita State,80,2,Tennessee,73,True
+2006,Washington,Sweet Sixteen,"Washington, DC",1,UConn,98,5,Washington,92,True
+2006,Washington,Sweet Sixteen,"Washington, DC",11,George Mason,63,7,Wichita State,55,True
+2006,Washington,Elite Eight,"Washington, DC",1,UConn,84,11,George Mason,86,False
+2006,National,Final Four,"Indianapolis, IN",3,Florida,73,11,George Mason,58,True
+2006,National,Final Four,"Indianapolis, IN",4,LSU,45,2,UCLA,59,False
+2006,National,National Championship,"Indianapolis, IN",3,Florida,73,2,UCLA,57,True
+2007,East,First Round,"Winston-Salem, NC",1,UNC,86,16,Eastern Kentucky,65,True
+2007,East,First Round,"Winston-Salem, NC",8,Marquette,49,9,Michigan State,61,False
+2007,East,First Round,"Spokane, WA",5,USC,77,12,Arkansas,60,True
+2007,East,First Round,"Spokane, WA",4,Texas,79,13,New Mexico State,67,True
+2007,East,First Round,"Sacramento, CA",6,Vanderbilt,77,11,George Washington,44,True
+2007,East,First Round,"Sacramento, CA",3,Washington State,70,14,Oral Roberts,54,True
+2007,East,First Round,"Winston-Salem, NC",7,Boston College,84,10,Texas Tech,75,True
+2007,East,First Round,"Winston-Salem, NC",2,Georgetown,80,15,Belmont,55,True
+2007,East,Second Round,"Winston-Salem, NC",1,UNC,81,9,Michigan State,67,True
+2007,East,Second Round,"Spokane, WA",5,USC,87,4,Texas,68,True
+2007,East,Second Round,"Sacramento, CA",6,Vanderbilt,78,3,Washington State,74,True
+2007,East,Second Round,"Winston-Salem, NC",7,Boston College,55,2,Georgetown,62,False
+2007,East,Sweet Sixteen,"East Rutherford, NJ",1,UNC,74,5,USC,64,True
+2007,East,Sweet Sixteen,"East Rutherford, NJ",6,Vanderbilt,65,2,Georgetown,66,False
+2007,East,Elite Eight,"East Rutherford, NJ",1,UNC,84,2,Georgetown,96,False
+2007,Midwest,First Round,"New Orleans, LA",1,Florida,112,16,Jackson State,69,True
+2007,Midwest,First Round,"New Orleans, LA",8,Arizona,63,9,Purdue,72,False
+2007,Midwest,First Round,"Buffalo, NY",5,Butler,57,12,Old Dominion,46,True
+2007,Midwest,First Round,"Buffalo, NY",4,Maryland,82,13,Davidson,70,True
+2007,Midwest,First Round,"Spokane, WA",6,Notre Dame,64,11,Winthrop,74,False
+2007,Midwest,First Round,"Spokane, WA",3,Oregon,58,14,Miami (OH),56,True
+2007,Midwest,First Round,"Chicago, IL",7,UNLV,67,10,Georgia Tech,63,True
+2007,Midwest,First Round,"Chicago, IL",2,Wisconsin,76,15,Texas A&M-Corpus Christi,63,True
+2007,Midwest,Second Round,"New Orleans, LA",1,Florida,74,9,Purdue,67,True
+2007,Midwest,Second Round,"Buffalo, NY",5,Butler,62,4,Maryland,59,True
+2007,Midwest,Second Round,"Spokane, WA",11,Winthrop,61,3,Oregon,75,False
+2007,Midwest,Second Round,"Chicago, IL",7,UNLV,74,2,Wisconsin,68,True
+2007,Midwest,Sweet Sixteen,"St. Louis, MO",1,Florida,65,5,Butler,57,True
+2007,Midwest,Sweet Sixteen,"St. Louis, MO",3,Oregon,76,7,UNLV,72,True
+2007,Midwest,Elite Eight,"St. Louis, MO",1,Florida,85,3,Oregon,77,True
+2007,South,First Round,"Lexington, KY",1,Ohio State,78,16,Central Connecticut,57,True
+2007,South,First Round,"Lexington, KY",8,BYU,77,9,Xavier,79,False
+2007,South,First Round,"Columbus, OH",5,Tennessee,121,12,Long Beach State,86,True
+2007,South,First Round,"Columbus, OH",4,Virginia,84,13,Albany (NY),57,True
+2007,South,First Round,"Lexington, KY",6,Louisville,78,11,Stanford,58,True
+2007,South,First Round,"Lexington, KY",3,Texas A&M,68,14,Penn,52,True
+2007,South,First Round,"New Orleans, LA",7,Nevada,77,10,Creighton,71,True
+2007,South,First Round,"New Orleans, LA",2,Memphis,73,15,North Texas,58,True
+2007,South,Second Round,"Lexington, KY",1,Ohio State,78,9,Xavier,71,True
+2007,South,Second Round,"Columbus, OH",5,Tennessee,77,4,Virginia,74,True
+2007,South,Second Round,"Lexington, KY",6,Louisville,69,3,Texas A&M,72,False
+2007,South,Second Round,"New Orleans, LA",7,Nevada,62,2,Memphis,78,False
+2007,South,Sweet Sixteen,"San Antonio, TX",1,Ohio State,85,5,Tennessee,84,True
+2007,South,Sweet Sixteen,"San Antonio, TX",3,Texas A&M,64,2,Memphis,65,False
+2007,South,Elite Eight,"San Antonio, TX",1,Ohio State,92,2,Memphis,76,True
+2007,West,First Round,"Chicago, IL",1,Kansas,107,16,Niagara,67,True
+2007,West,First Round,"Chicago, IL",8,Kentucky,67,9,Villanova,58,True
+2007,West,First Round,"Columbus, OH",5,Virginia Tech,54,12,Illinois,52,True
+2007,West,First Round,"Columbus, OH",4,Southern Illinois,61,13,Holy Cross,51,True
+2007,West,First Round,"Buffalo, NY",6,Duke,77,11,VCU,79,False
+2007,West,First Round,"Buffalo, NY",3,Pitt,79,14,Wright State,58,True
+2007,West,First Round,"Sacramento, CA",7,Indiana,70,10,Gonzaga,57,True
+2007,West,First Round,"Sacramento, CA",2,UCLA,70,15,Weber State,42,True
+2007,West,Second Round,"Chicago, IL",1,Kansas,88,8,Kentucky,76,True
+2007,West,Second Round,"Columbus, OH",5,Virginia Tech,48,4,Southern Illinois,63,False
+2007,West,Second Round,"Buffalo, NY",11,VCU,79,3,Pitt,84,False
+2007,West,Second Round,"Sacramento, CA",7,Indiana,49,2,UCLA,54,False
+2007,West,Sweet Sixteen,"San Jose, CA",1,Kansas,61,4,Southern Illinois,58,True
+2007,West,Sweet Sixteen,"San Jose, CA",3,Pitt,55,2,UCLA,64,False
+2007,West,Elite Eight,"San Jose, CA",1,Kansas,55,2,UCLA,68,False
+2007,National,Final Four,"Atlanta, GA",1,Florida,76,2,UCLA,66,True
+2007,National,Final Four,"Atlanta, GA",2,Georgetown,60,1,Ohio State,67,False
+2007,National,National Championship,"Atlanta, GA",1,Florida,84,1,Ohio State,75,True
+2008,East,First Round,"Raleigh, NC",1,UNC,113,16,Mount St. Mary's,74,True
+2008,East,First Round,"Raleigh, NC",8,Indiana,72,9,Arkansas,86,False
+2008,East,First Round,"Denver, CO",5,Notre Dame,68,12,George Mason,50,True
+2008,East,First Round,"Denver, CO",4,Washington State,71,13,Winthrop,40,True
+2008,East,First Round,"Birmingham, AL",6,Oklahoma,72,11,St. Joseph's,64,True
+2008,East,First Round,"Birmingham, AL",3,Louisville,79,14,Boise State,61,True
+2008,East,First Round,"Birmingham, AL",7,Butler,81,10,South Alabama,61,True
+2008,East,First Round,"Birmingham, AL",2,Tennessee,72,15,American,57,True
+2008,East,Second Round,"Raleigh, NC",1,UNC,108,9,Arkansas,77,True
+2008,East,Second Round,"Denver, CO",5,Notre Dame,41,4,Washington State,61,False
+2008,East,Second Round,"Birmingham, AL",6,Oklahoma,48,3,Louisville,78,False
+2008,East,Second Round,"Birmingham, AL",7,Butler,71,2,Tennessee,76,False
+2008,East,Sweet Sixteen,"Charlotte, NC",1,UNC,68,4,Washington State,47,True
+2008,East,Sweet Sixteen,"Charlotte, NC",3,Louisville,79,2,Tennessee,60,True
+2008,East,Elite Eight,"Charlotte, NC",1,UNC,83,3,Louisville,73,True
+2008,Midwest,First Round,"Omaha, NE",1,Kansas,85,16,Portland State,61,True
+2008,Midwest,First Round,"Omaha, NE",8,UNLV,71,9,Kent State,58,True
+2008,Midwest,First Round,"Tampa, FL",5,Clemson,69,12,Villanova,75,False
+2008,Midwest,First Round,"Tampa, FL",4,Vanderbilt,62,13,Siena,83,False
+2008,Midwest,First Round,"Omaha, NE",6,USC,67,11,Kansas State,80,False
+2008,Midwest,First Round,"Omaha, NE",3,Wisconsin,71,14,Cal State Fullerton,56,True
+2008,Midwest,First Round,"Raleigh, NC",7,Gonzaga,76,10,Davidson,82,False
+2008,Midwest,First Round,"Raleigh, NC",2,Georgetown,66,15,UMBC,47,True
+2008,Midwest,Second Round,"Omaha, NE",1,Kansas,75,8,UNLV,56,True
+2008,Midwest,Second Round,"Tampa, FL",12,Villanova,84,13,Siena,72,True
+2008,Midwest,Second Round,"Omaha, NE",11,Kansas State,55,3,Wisconsin,72,False
+2008,Midwest,Second Round,"Raleigh, NC",10,Davidson,74,2,Georgetown,70,True
+2008,Midwest,Sweet Sixteen,"Detroit, MI",1,Kansas,72,12,Villanova,57,True
+2008,Midwest,Sweet Sixteen,"Detroit, MI",3,Wisconsin,56,10,Davidson,73,False
+2008,Midwest,Elite Eight,"Detroit, MI",1,Kansas,59,10,Davidson,57,True
+2008,South,First Round,"North Little Rock, AR",1,Memphis,87,16,UT Arlington,63,True
+2008,South,First Round,"North Little Rock, AR",8,Mississippi State,76,9,Oregon,69,True
+2008,South,First Round,"Denver, CO",5,Michigan State,72,12,Temple,61,True
+2008,South,First Round,"Denver, CO",4,Pitt,82,13,Oral Roberts,63,True
+2008,South,First Round,"Anaheim, CA",6,Marquette,74,11,Kentucky,66,True
+2008,South,First Round,"Anaheim, CA",3,Stanford,77,14,Cornell,53,True
+2008,South,First Round,"North Little Rock, AR",7,Miami (FL),78,10,Saint Mary's,64,True
+2008,South,First Round,"North Little Rock, AR",2,Texas,74,15,Austin Peay,54,True
+2008,South,Second Round,"North Little Rock, AR",1,Memphis,77,8,Mississippi State,74,True
+2008,South,Second Round,"Denver, CO",5,Michigan State,65,4,Pitt,54,True
+2008,South,Second Round,"Anaheim, CA",6,Marquette,81,3,Stanford,82,False
+2008,South,Second Round,"North Little Rock, AR",7,Miami (FL),72,2,Texas,75,False
+2008,South,Sweet Sixteen,"Houston, TX",1,Memphis,92,5,Michigan State,74,True
+2008,South,Sweet Sixteen,"Houston, TX",3,Stanford,62,2,Texas,82,False
+2008,South,Elite Eight,"Houston, TX",1,Memphis,85,2,Texas,67,True
+2008,West,First Round,"Anaheim, CA",1,UCLA,70,16,Mississippi Valley State,29,True
+2008,West,First Round,"Anaheim, CA",8,BYU,62,9,Texas A&M,67,False
+2008,West,First Round,"Tampa, FL",5,Drake,99,12,Western Kentucky,101,False
+2008,West,First Round,"Tampa, FL",4,UConn,69,13,San Diego,70,False
+2008,West,First Round,"Washington, DC",6,Purdue,90,11,Baylor,79,True
+2008,West,First Round,"Washington, DC",3,Xavier,73,14,Georgia,61,True
+2008,West,First Round,"Washington, DC",7,West Virginia,75,10,Arizona,65,True
+2008,West,First Round,"Washington, DC",2,Duke,71,15,Belmont,70,True
+2008,West,Second Round,"Anaheim, CA",1,UCLA,51,9,Texas A&M,49,True
+2008,West,Second Round,"Tampa, FL",12,Western Kentucky,72,13,San Diego,63,True
+2008,West,Second Round,"Washington, DC",6,Purdue,78,3,Xavier,85,False
+2008,West,Second Round,"Washington, DC",7,West Virginia,73,2,Duke,67,True
+2008,West,Sweet Sixteen,"Phoenix, AZ",1,UCLA,88,12,Western Kentucky,78,True
+2008,West,Sweet Sixteen,"Phoenix, AZ",3,Xavier,79,7,West Virginia,75,True
+2008,West,Elite Eight,"Phoenix, AZ",1,UCLA,76,3,Xavier,57,True
+2008,National,Final Four,"San Antonio, TX",1,Kansas,84,1,UNC,66,True
+2008,National,Final Four,"San Antonio, TX",1,UCLA,63,1,Memphis,78,False
+2008,National,National Championship,"San Antonio, TX",1,Kansas,75,1,Memphis,68,True
+2009,East,First Round,"Dayton, OH",1,Pitt,72,16,ETSU,62,True
+2009,East,First Round,"Dayton, OH",8,Oklahoma State,77,9,Tennessee,75,True
+2009,East,First Round,"Boise, ID",5,Florida State,59,12,Wisconsin,61,False
+2009,East,First Round,"Boise, ID",4,Xavier,77,13,Portland State,59,True
+2009,East,First Round,"Philadelphia, PA",6,UCLA,65,11,VCU,64,True
+2009,East,First Round,"Philadelphia, PA",3,Villanova,80,14,American,67,True
+2009,East,First Round,"Greensboro, NC",7,Texas,76,10,Minnesota,62,True
+2009,East,First Round,"Greensboro, NC",2,Duke,86,15,Binghamton,62,True
+2009,East,Second Round,"Dayton, OH",1,Pitt,84,8,Oklahoma State,76,True
+2009,East,Second Round,"Boise, ID",12,Wisconsin,49,4,Xavier,60,False
+2009,East,Second Round,"Philadelphia, PA",6,UCLA,69,3,Villanova,89,False
+2009,East,Second Round,"Greensboro, NC",7,Texas,69,2,Duke,74,False
+2009,East,Sweet Sixteen,"Boston, MA",1,Pitt,60,4,Xavier,55,True
+2009,East,Sweet Sixteen,"Boston, MA",3,Villanova,77,2,Duke,54,True
+2009,East,Elite Eight,"Boston, MA",1,Pitt,76,3,Villanova,78,False
+2009,Midwest,First Round,"Dayton, OH",1,Louisville,74,16,Morehead State,54,True
+2009,Midwest,First Round,"Dayton, OH",8,Ohio State,72,9,Siena,74,False
+2009,Midwest,First Round,"Miami, FL",5,Utah,71,12,Arizona,84,False
+2009,Midwest,First Round,"Miami, FL",4,Wake Forest,69,13,Cleveland State,84,False
+2009,Midwest,First Round,"Minneapolis, MN",6,West Virginia,60,11,Dayton,68,False
+2009,Midwest,First Round,"Minneapolis, MN",3,Kansas,84,14,North Dakota State,74,True
+2009,Midwest,First Round,"Minneapolis, MN",7,Boston College,55,10,USC,72,False
+2009,Midwest,First Round,"Minneapolis, MN",2,Michigan State,77,15,Robert Morris,62,True
+2009,Midwest,Second Round,"Dayton, OH",1,Louisville,79,9,Siena,72,True
+2009,Midwest,Second Round,"Miami, FL",12,Arizona,71,13,Cleveland State,57,True
+2009,Midwest,Second Round,"Minneapolis, MN",11,Dayton,43,3,Kansas,60,False
+2009,Midwest,Second Round,"Minneapolis, MN",10,USC,69,2,Michigan State,74,False
+2009,Midwest,Sweet Sixteen,"Indianapolis, IN",1,Louisville,103,12,Arizona,64,True
+2009,Midwest,Sweet Sixteen,"Indianapolis, IN",3,Kansas,62,2,Michigan State,67,False
+2009,Midwest,Elite Eight,"Indianapolis, IN",1,Louisville,52,2,Michigan State,64,False
+2009,South,First Round,"Greensboro, NC",1,UNC,101,16,Radford,58,True
+2009,South,First Round,"Greensboro, NC",8,LSU,75,9,Butler,71,True
+2009,South,First Round,"Portland, OR",5,Illinois,72,12,Western Kentucky,76,False
+2009,South,First Round,"Portland, OR",4,Gonzaga,77,13,Akron,64,True
+2009,South,First Round,"Miami, FL",6,Arizona State,66,11,Temple,57,True
+2009,South,First Round,"Miami, FL",3,Syracuse,59,14,Stephen F. Austin,44,True
+2009,South,First Round,"Kansas City, MO",7,Clemson,59,10,Michigan,62,False
+2009,South,First Round,"Kansas City, MO",2,Oklahoma,82,15,Morgan State,54,True
+2009,South,Second Round,"Greensboro, NC",1,UNC,84,8,LSU,70,True
+2009,South,Second Round,"Portland, OR",12,Western Kentucky,81,4,Gonzaga,83,False
+2009,South,Second Round,"Miami, FL",6,Arizona State,67,3,Syracuse,78,False
+2009,South,Second Round,"Kansas City, MO",10,Michigan,63,2,Oklahoma,73,False
+2009,South,Sweet Sixteen,"Memphis, TN",1,UNC,98,4,Gonzaga,77,True
+2009,South,Sweet Sixteen,"Memphis, TN",3,Syracuse,71,2,Oklahoma,84,False
+2009,South,Elite Eight,"Memphis, TN",1,UNC,72,2,Oklahoma,60,True
+2009,West,First Round,"Philadelphia, PA",1,UConn,103,16,Chattanooga,47,True
+2009,West,First Round,"Philadelphia, PA",8,BYU,66,9,Texas A&M,79,False
+2009,West,First Round,"Portland, OR",5,Purdue,61,12,Northern Iowa,56,True
+2009,West,First Round,"Portland, OR",4,Washington,71,13,Mississippi State,58,True
+2009,West,First Round,"Boise, ID",6,Marquette,58,11,Utah State,57,True
+2009,West,First Round,"Boise, ID",3,Missouri,78,14,Cornell,59,True
+2009,West,First Round,"Kansas City, MO",7,California,71,10,Maryland,84,False
+2009,West,First Round,"Kansas City, MO",2,Memphis,81,15,Cal State Northridge,70,True
+2009,West,Second Round,"Philadelphia, PA",1,UConn,92,9,Texas A&M,66,True
+2009,West,Second Round,"Portland, OR",5,Purdue,76,4,Washington,74,True
+2009,West,Second Round,"Boise, ID",6,Marquette,79,3,Missouri,83,False
+2009,West,Second Round,"Kansas City, MO",10,Maryland,70,2,Memphis,89,False
+2009,West,Sweet Sixteen,"Glendale, AZ",1,UConn,72,5,Purdue,60,True
+2009,West,Sweet Sixteen,"Glendale, AZ",3,Missouri,102,2,Memphis,91,True
+2009,West,Elite Eight,"Glendale, AZ",1,UConn,82,3,Missouri,75,True
+2009,National,Final Four,"Detroit, MI",1,UNC,83,3,Villanova,69,True
+2009,National,Final Four,"Detroit, MI",1,UConn,73,2,Michigan State,82,False
+2009,National,National Championship,"Detroit, MI",1,UNC,89,2,Michigan State,72,True
+2010,East,First Round,"New Orleans, LA",1,Kentucky,100,16,ETSU,71,True
+2010,East,First Round,"New Orleans, LA",8,Texas,80,9,Wake Forest,81,False
+2010,East,First Round,"Jacksonville, FL",5,Temple,65,12,Cornell,78,False
+2010,East,First Round,"Jacksonville, FL",4,Wisconsin,53,13,Wofford,49,True
+2010,East,First Round,"San Jose, CA",6,Marquette,78,11,Washington,80,False
+2010,East,First Round,"San Jose, CA",3,New Mexico,62,14,Montana,57,True
+2010,East,First Round,"Buffalo, NY",7,Clemson,78,10,Missouri,86,False
+2010,East,First Round,"Buffalo, NY",2,West Virginia,77,15,Morgan State,50,True
+2010,East,Second Round,"New Orleans, LA",1,Kentucky,90,9,Wake Forest,60,True
+2010,East,Second Round,"Jacksonville, FL",12,Cornell,87,4,Wisconsin,69,True
+2010,East,Second Round,"San Jose, CA",11,Washington,82,3,New Mexico,64,True
+2010,East,Second Round,"Buffalo, NY",10,Missouri,59,2,West Virginia,68,False
+2010,East,Sweet Sixteen,"Syracuse, NY",1,Kentucky,62,12,Cornell,45,True
+2010,East,Sweet Sixteen,"Syracuse, NY",11,Washington,56,2,West Virginia,69,False
+2010,East,Elite Eight,"Syracuse, NY",1,Kentucky,66,2,West Virginia,73,False
+2010,Midwest,First Round,"Oklahoma City, OK",1,Kansas,90,16,Lehigh,74,True
+2010,Midwest,First Round,"Oklahoma City, OK",8,UNLV,66,9,Northern Iowa,69,False
+2010,Midwest,First Round,"Spokane, WA",5,Michigan State,70,12,New Mexico State,67,True
+2010,Midwest,First Round,"Spokane, WA",4,Maryland,89,13,Houston,77,True
+2010,Midwest,First Round,"Providence, RI",6,Tennessee,62,11,San Diego State,59,True
+2010,Midwest,First Round,"Providence, RI",3,Georgetown,83,14,Ohio,97,False
+2010,Midwest,First Round,"Milwaukee, WI",7,Oklahoma State,59,10,Georgia Tech,64,False
+2010,Midwest,First Round,"Milwaukee, WI",2,Ohio State,68,15,UCSB,51,True
+2010,Midwest,Second Round,"Oklahoma City, OK",1,Kansas,67,9,Northern Iowa,69,False
+2010,Midwest,Second Round,"Spokane, WA",5,Michigan State,85,4,Maryland,83,True
+2010,Midwest,Second Round,"Providence, RI",6,Tennessee,83,14,Ohio,68,True
+2010,Midwest,Second Round,"Milwaukee, WI",10,Georgia Tech,66,2,Ohio State,75,False
+2010,Midwest,Sweet Sixteen,"St. Louis, MO",9,Northern Iowa,52,5,Michigan State,59,False
+2010,Midwest,Sweet Sixteen,"St. Louis, MO",6,Tennessee,76,2,Ohio State,73,True
+2010,Midwest,Elite Eight,"St. Louis, MO",5,Michigan State,70,6,Tennessee,69,True
+2010,South,First Round,"Jacksonville, FL",1,Duke,73,16,Arkansas-Pine Bluff,44,True
+2010,South,First Round,"Jacksonville, FL",8,California,77,9,Louisville,62,True
+2010,South,First Round,"Spokane, WA",5,Texas A&M,69,12,Utah State,53,True
+2010,South,First Round,"Spokane, WA",4,Purdue,72,13,Siena,64,True
+2010,South,First Round,"New Orleans, LA",6,Notre Dame,50,11,Old Dominion,51,False
+2010,South,First Round,"New Orleans, LA",3,Baylor,68,14,Sam Houston State,59,True
+2010,South,First Round,"Providence, RI",7,Richmond,71,10,Saint Mary's,80,False
+2010,South,First Round,"Providence, RI",2,Villanova,73,15,Robert Morris,70,True
+2010,South,Second Round,"Jacksonville, FL",1,Duke,68,8,California,53,True
+2010,South,Second Round,"Spokane, WA",5,Texas A&M,61,4,Purdue,63,False
+2010,South,Second Round,"New Orleans, LA",11,Old Dominion,68,3,Baylor,76,False
+2010,South,Second Round,"Providence, RI",10,Saint Mary's,75,2,Villanova,68,True
+2010,South,Sweet Sixteen,"Houston, TX",1,Duke,70,4,Purdue,57,True
+2010,South,Sweet Sixteen,"Houston, TX",3,Baylor,72,10,Saint Mary's,49,True
+2010,South,Elite Eight,"Houston, TX",1,Duke,78,3,Baylor,71,True
+2010,West,First Round,"Buffalo, NY",1,Syracuse,79,16,Vermont,56,True
+2010,West,First Round,"Buffalo, NY",8,Gonzaga,67,9,Florida State,60,True
+2010,West,First Round,"San Jose, CA",5,Butler,77,12,UTEP,59,True
+2010,West,First Round,"San Jose, CA",4,Vanderbilt,65,13,Murray State,66,False
+2010,West,First Round,"Milwaukee, WI",6,Xavier,65,11,Minnesota,54,True
+2010,West,First Round,"Milwaukee, WI",3,Pitt,89,14,Oakland,66,True
+2010,West,First Round,"Oklahoma City, OK",7,BYU,99,10,Florida,92,True
+2010,West,First Round,"Oklahoma City, OK",2,Kansas State,82,15,North Texas,62,True
+2010,West,Second Round,"Buffalo, NY",1,Syracuse,87,8,Gonzaga,65,True
+2010,West,Second Round,"San Jose, CA",5,Butler,54,13,Murray State,52,True
+2010,West,Second Round,"Milwaukee, WI",6,Xavier,71,3,Pitt,68,True
+2010,West,Second Round,"Oklahoma City, OK",7,BYU,72,2,Kansas State,84,False
+2010,West,Sweet Sixteen,"Salt Lake City, UT",1,Syracuse,59,5,Butler,63,False
+2010,West,Sweet Sixteen,"Salt Lake City, UT",6,Xavier,96,2,Kansas State,101,False
+2010,West,Elite Eight,"Salt Lake City, UT",5,Butler,63,2,Kansas State,56,True
+2010,National,Final Four,"Indianapolis, IN",1,Duke,78,2,West Virginia,57,True
+2010,National,Final Four,"Indianapolis, IN",5,Michigan State,50,5,Butler,52,False
+2010,National,National Championship,"Indianapolis, IN",1,Duke,61,5,Butler,59,True
+2011,East,First Round,"Cleveland, OH",1,Ohio State,75,16,UTSA,46,True
+2011,East,First Round,"Cleveland, OH",8,George Mason,61,9,Villanova,57,True
+2011,East,First Round,"Tampa, FL",5,West Virginia,84,12,Clemson,76,True
+2011,East,First Round,"Tampa, FL",4,Kentucky,59,13,Princeton,57,True
+2011,East,First Round,"Cleveland, OH",6,Xavier,55,11,Marquette,66,False
+2011,East,First Round,"Cleveland, OH",3,Syracuse,77,14,Indiana State,60,True
+2011,East,First Round,"Charlotte, NC",7,Washington,68,10,Georgia,65,True
+2011,East,First Round,"Charlotte, NC",2,UNC,102,15,LIU,87,True
+2011,East,Second Round,"Cleveland, OH",1,Ohio State,98,8,George Mason,66,True
+2011,East,Second Round,"Tampa, FL",5,West Virginia,63,4,Kentucky,71,False
+2011,East,Second Round,"Cleveland, OH",11,Marquette,66,3,Syracuse,62,True
+2011,East,Second Round,"Charlotte, NC",7,Washington,83,2,UNC,86,False
+2011,East,Sweet Sixteen,"Newark, NJ",1,Ohio State,60,4,Kentucky,62,False
+2011,East,Sweet Sixteen,"Newark, NJ",11,Marquette,63,2,UNC,81,False
+2011,East,Elite Eight,"Newark, NJ",4,Kentucky,76,2,UNC,69,True
+2011,Southeast,First Round,"Washington, DC",1,Pitt,74,16,UNC Asheville,51,True
+2011,Southeast,First Round,"Washington, DC",8,Butler,60,9,Old Dominion,58,True
+2011,Southeast,First Round,"Tucson, AZ",5,Kansas State,73,12,Utah State,68,True
+2011,Southeast,First Round,"Tucson, AZ",4,Wisconsin,72,13,Belmont,58,True
+2011,Southeast,First Round,"Denver, CO",6,St. John's (NY),71,11,Gonzaga,86,False
+2011,Southeast,First Round,"Denver, CO",3,BYU,74,14,Wofford,66,True
+2011,Southeast,First Round,"Tampa, FL",7,UCLA,78,10,Michigan State,76,True
+2011,Southeast,First Round,"Tampa, FL",2,Florida,79,15,UCSB,51,True
+2011,Southeast,Second Round,"Washington, DC",1,Pitt,70,8,Butler,71,False
+2011,Southeast,Second Round,"Tucson, AZ",5,Kansas State,65,4,Wisconsin,70,False
+2011,Southeast,Second Round,"Denver, CO",11,Gonzaga,67,3,BYU,89,False
+2011,Southeast,Second Round,"Tampa, FL",7,UCLA,65,2,Florida,73,False
+2011,Southeast,Sweet Sixteen,"New Orleans, LA",8,Butler,61,4,Wisconsin,54,True
+2011,Southeast,Sweet Sixteen,"New Orleans, LA",3,BYU,74,2,Florida,83,False
+2011,Southeast,Elite Eight,"New Orleans, LA",8,Butler,74,2,Florida,71,True
+2011,Southwest,First Round,"Tulsa, OK",1,Kansas,72,16,Boston University,53,True
+2011,Southwest,First Round,"Tulsa, OK",8,UNLV,62,9,Illinois,73,False
+2011,Southwest,First Round,"Denver, CO",5,Vanderbilt,66,12,Richmond,69,False
+2011,Southwest,First Round,"Denver, CO",4,Louisville,61,13,Morehead State,62,False
+2011,Southwest,First Round,"Chicago, IL",6,Georgetown,56,11,VCU,74,False
+2011,Southwest,First Round,"Chicago, IL",3,Purdue,65,14,St. Peter's,43,True
+2011,Southwest,First Round,"Chicago, IL",7,Texas A&M,50,10,Florida State,57,False
+2011,Southwest,First Round,"Chicago, IL",2,Notre Dame,69,15,Akron,56,True
+2011,Southwest,Second Round,"Tulsa, OK",1,Kansas,73,9,Illinois,59,True
+2011,Southwest,Second Round,"Denver, CO",12,Richmond,65,13,Morehead State,48,True
+2011,Southwest,Second Round,"Chicago, IL",11,VCU,94,3,Purdue,76,True
+2011,Southwest,Second Round,"Chicago, IL",10,Florida State,71,2,Notre Dame,57,True
+2011,Southwest,Sweet Sixteen,"San Antonio, TX",1,Kansas,77,12,Richmond,57,True
+2011,Southwest,Sweet Sixteen,"San Antonio, TX",11,VCU,72,10,Florida State,71,True
+2011,Southwest,Elite Eight,"San Antonio, TX",1,Kansas,61,11,VCU,71,False
+2011,West,First Round,"Charlotte, NC",1,Duke,87,16,Hampton,45,True
+2011,West,First Round,"Charlotte, NC",8,Michigan,75,9,Tennessee,45,True
+2011,West,First Round,"Tulsa, OK",5,Arizona,77,12,Memphis,75,True
+2011,West,First Round,"Tulsa, OK",4,Texas,85,13,Oakland,81,True
+2011,West,First Round,"Washington, DC",6,Cincinnati,78,11,Missouri,63,True
+2011,West,First Round,"Washington, DC",3,UConn,81,14,Bucknell,52,True
+2011,West,First Round,"Tucson, AZ",7,Temple,66,10,Penn State,64,True
+2011,West,First Round,"Tucson, AZ",2,San Diego State,68,15,Northern Colorado,50,True
+2011,West,Second Round,"Charlotte, NC",1,Duke,73,8,Michigan,71,True
+2011,West,Second Round,"Tulsa, OK",5,Arizona,70,4,Texas,69,True
+2011,West,Second Round,"Washington, DC",6,Cincinnati,58,3,UConn,69,False
+2011,West,Second Round,"Tucson, AZ",7,Temple,64,2,San Diego State,71,False
+2011,West,Sweet Sixteen,"Anaheim, CA",1,Duke,77,5,Arizona,93,False
+2011,West,Sweet Sixteen,"Anaheim, CA",3,UConn,74,2,San Diego State,67,True
+2011,West,Elite Eight,"Anaheim, CA",5,Arizona,63,3,UConn,65,False
+2011,National,Final Four,"Houston, TX",3,UConn,56,4,Kentucky,55,True
+2011,National,Final Four,"Houston, TX",11,VCU,62,8,Butler,70,False
+2011,National,National Championship,"Houston, TX",3,UConn,53,8,Butler,41,True
+2012,East,First Round,"Pittsburgh, PA",1,Syracuse,72,16,UNC Asheville,65,True
+2012,East,First Round,"Pittsburgh, PA",8,Kansas State,70,9,Southern Miss,64,True
+2012,East,First Round,"Albuquerque, NM",5,Vanderbilt,79,12,Harvard,70,True
+2012,East,First Round,"Albuquerque, NM",4,Wisconsin,73,13,Montana,49,True
+2012,East,First Round,"Nashville, TN",6,Cincinnati,65,11,Texas,59,True
+2012,East,First Round,"Nashville, TN",3,Florida State,66,14,St. Bonaventure,63,True
+2012,East,First Round,"Pittsburgh, PA",7,Gonzaga,77,10,West Virginia,54,True
+2012,East,First Round,"Pittsburgh, PA",2,Ohio State,78,15,Loyola (MD),59,True
+2012,East,Second Round,"Pittsburgh, PA",1,Syracuse,75,8,Kansas State,59,True
+2012,East,Second Round,"Albuquerque, NM",5,Vanderbilt,57,4,Wisconsin,60,False
+2012,East,Second Round,"Nashville, TN",6,Cincinnati,62,3,Florida State,56,True
+2012,East,Second Round,"Pittsburgh, PA",7,Gonzaga,66,2,Ohio State,73,False
+2012,East,Sweet Sixteen,"Boston, MA",1,Syracuse,64,4,Wisconsin,63,True
+2012,East,Sweet Sixteen,"Boston, MA",6,Cincinnati,66,2,Ohio State,81,False
+2012,East,Elite Eight,"Boston, MA",1,Syracuse,70,2,Ohio State,77,False
+2012,Midwest,First Round,"Greensboro, NC",1,UNC,77,16,Vermont,58,True
+2012,Midwest,First Round,"Greensboro, NC",8,Creighton,58,9,Alabama,57,True
+2012,Midwest,First Round,"Nashville, TN",5,Temple,44,12,South Florida,58,False
+2012,Midwest,First Round,"Nashville, TN",4,Michigan,60,13,Ohio,65,False
+2012,Midwest,First Round,"Columbus, OH",6,San Diego State,65,11,NC State,79,False
+2012,Midwest,First Round,"Columbus, OH",3,Georgetown,74,14,Belmont,59,True
+2012,Midwest,First Round,"Omaha, NE",7,Saint Mary's,69,10,Purdue,72,False
+2012,Midwest,First Round,"Omaha, NE",2,Kansas,65,15,Detroit Mercy,50,True
+2012,Midwest,Second Round,"Greensboro, NC",1,UNC,87,8,Creighton,73,True
+2012,Midwest,Second Round,"Nashville, TN",12,South Florida,56,13,Ohio,62,False
+2012,Midwest,Second Round,"Columbus, OH",11,NC State,66,3,Georgetown,63,True
+2012,Midwest,Second Round,"Omaha, NE",10,Purdue,60,2,Kansas,63,False
+2012,Midwest,Sweet Sixteen,"St. Louis, MO",1,UNC,73,13,Ohio,65,True
+2012,Midwest,Sweet Sixteen,"St. Louis, MO",11,NC State,57,2,Kansas,60,False
+2012,Midwest,Elite Eight,"St. Louis, MO",1,UNC,67,2,Kansas,80,False
+2012,South,First Round,"Louisville, KY",1,Kentucky,81,16,Western Kentucky,66,True
+2012,South,First Round,"Louisville, KY",8,Iowa State,77,9,UConn,64,True
+2012,South,First Round,"Portland, OR",5,Wichita State,59,12,VCU,62,False
+2012,South,First Round,"Portland, OR",4,Indiana,79,13,New Mexico State,66,True
+2012,South,First Round,"Albuquerque, NM",6,UNLV,64,11,Colorado,68,False
+2012,South,First Round,"Albuquerque, NM",3,Baylor,68,14,South Dakota State,60,True
+2012,South,First Round,"Greensboro, NC",7,Notre Dame,63,10,Xavier,67,False
+2012,South,First Round,"Greensboro, NC",2,Duke,70,15,Lehigh,75,False
+2012,South,Second Round,"Louisville, KY",1,Kentucky,87,8,Iowa State,71,True
+2012,South,Second Round,"Portland, OR",12,VCU,61,4,Indiana,63,False
+2012,South,Second Round,"Albuquerque, NM",11,Colorado,63,3,Baylor,80,False
+2012,South,Second Round,"Greensboro, NC",10,Xavier,70,15,Lehigh,58,True
+2012,South,Sweet Sixteen,"Atlanta, GA",1,Kentucky,102,4,Indiana,90,True
+2012,South,Sweet Sixteen,"Atlanta, GA",3,Baylor,75,10,Xavier,70,True
+2012,South,Elite Eight,"Atlanta, GA",1,Kentucky,82,3,Baylor,70,True
+2012,West,First Round,"Columbus, OH",1,Michigan State,89,16,LIU,67,True
+2012,West,First Round,"Columbus, OH",8,Memphis,54,9,Saint Louis,61,False
+2012,West,First Round,"Portland, OR",5,New Mexico,75,12,Long Beach State,68,True
+2012,West,First Round,"Portland, OR",4,Louisville,69,13,Davidson,62,True
+2012,West,First Round,"Louisville, KY",6,Murray State,58,11,Colorado State,41,True
+2012,West,First Round,"Louisville, KY",3,Marquette,88,14,BYU,68,True
+2012,West,First Round,"Omaha, NE",7,Florida,71,10,Virginia,45,True
+2012,West,First Round,"Omaha, NE",2,Missouri,84,15,Norfolk State,86,False
+2012,West,Second Round,"Columbus, OH",1,Michigan State,65,9,Saint Louis,61,True
+2012,West,Second Round,"Portland, OR",5,New Mexico,56,4,Louisville,59,False
+2012,West,Second Round,"Louisville, KY",6,Murray State,53,3,Marquette,62,False
+2012,West,Second Round,"Omaha, NE",7,Florida,84,15,Norfolk State,50,True
+2012,West,Sweet Sixteen,"Phoenix, AZ",1,Michigan State,44,4,Louisville,57,False
+2012,West,Sweet Sixteen,"Phoenix, AZ",3,Marquette,58,7,Florida,68,False
+2012,West,Elite Eight,"Phoenix, AZ",4,Louisville,72,7,Florida,68,True
+2012,National,Final Four,"New Orleans, LA",1,Kentucky,69,4,Louisville,61,True
+2012,National,Final Four,"New Orleans, LA",2,Ohio State,62,2,Kansas,64,False
+2012,National,National Championship,"New Orleans, LA",1,Kentucky,67,2,Kansas,59,True
+2013,East,First Round,"Dayton, OH",1,Indiana,83,16,James Madison,62,True
+2013,East,First Round,"Dayton, OH",8,NC State,72,9,Temple,76,False
+2013,East,First Round,"San Jose, CA",5,UNLV,61,12,California,64,False
+2013,East,First Round,"San Jose, CA",4,Syracuse,81,13,Montana,34,True
+2013,East,First Round,"Lexington, KY",6,Butler,68,11,Bucknell,56,True
+2013,East,First Round,"Lexington, KY",3,Marquette,59,14,Davidson,58,True
+2013,East,First Round,"Austin, TX",7,Illinois,57,10,Colorado,49,True
+2013,East,First Round,"Austin, TX",2,Miami (FL),78,15,Pacific,49,True
+2013,East,Second Round,"Dayton, OH",1,Indiana,58,9,Temple,52,True
+2013,East,Second Round,"San Jose, CA",12,California,60,4,Syracuse,66,False
+2013,East,Second Round,"Lexington, KY",6,Butler,72,3,Marquette,74,False
+2013,East,Second Round,"Austin, TX",7,Illinois,59,2,Miami (FL),63,False
+2013,East,Sweet Sixteen,"Washington, DC",1,Indiana,50,4,Syracuse,61,False
+2013,East,Sweet Sixteen,"Washington, DC",3,Marquette,71,2,Miami (FL),61,True
+2013,East,Elite Eight,"Washington, DC",4,Syracuse,55,3,Marquette,39,True
+2013,Midwest,First Round,"Lexington, KY",1,Louisville,79,16,North Carolina A&T,48,True
+2013,Midwest,First Round,"Lexington, KY",8,Colorado State,84,9,Missouri,72,True
+2013,Midwest,First Round,"San Jose, CA",5,Oklahoma State,55,12,Oregon,68,False
+2013,Midwest,First Round,"San Jose, CA",4,Saint Louis,64,13,New Mexico State,44,True
+2013,Midwest,First Round,"Auburn Hills, MI",6,Memphis,54,11,Saint Mary's,52,True
+2013,Midwest,First Round,"Auburn Hills, MI",3,Michigan State,65,14,Valparaiso,54,True
+2013,Midwest,First Round,"Philadelphia, PA",7,Creighton,67,10,Cincinnati,63,True
+2013,Midwest,First Round,"Philadelphia, PA",2,Duke,73,15,Albany (NY),61,True
+2013,Midwest,Second Round,"Lexington, KY",1,Louisville,82,8,Colorado State,56,True
+2013,Midwest,Second Round,"San Jose, CA",12,Oregon,74,4,Saint Louis,57,True
+2013,Midwest,Second Round,"Auburn Hills, MI",6,Memphis,48,3,Michigan State,70,False
+2013,Midwest,Second Round,"Philadelphia, PA",7,Creighton,50,2,Duke,66,False
+2013,Midwest,Sweet Sixteen,"Indianapolis, IN",1,Louisville,77,12,Oregon,69,True
+2013,Midwest,Sweet Sixteen,"Indianapolis, IN",3,Michigan State,61,2,Duke,71,False
+2013,Midwest,Elite Eight,"Indianapolis, IN",1,Louisville,85,2,Duke,63,True
+2013,South,First Round,"Kansas City, MO",1,Kansas,64,16,Western Kentucky,57,True
+2013,South,First Round,"Kansas City, MO",8,UNC,78,9,Villanova,71,True
+2013,South,First Round,"Auburn Hills, MI",5,VCU,88,12,Akron,42,True
+2013,South,First Round,"Auburn Hills, MI",4,Michigan,71,13,South Dakota State,56,True
+2013,South,First Round,"Austin, TX",6,UCLA,63,11,Minnesota,83,False
+2013,South,First Round,"Austin, TX",3,Florida,79,14,Northwestern State,47,True
+2013,South,First Round,"Philadelphia, PA",7,San Diego State,70,10,Oklahoma,55,True
+2013,South,First Round,"Philadelphia, PA",2,Georgetown,68,15,Florida Gulf Coast,78,False
+2013,South,Second Round,"Kansas City, MO",1,Kansas,70,8,UNC,58,True
+2013,South,Second Round,"Auburn Hills, MI",5,VCU,53,4,Michigan,78,False
+2013,South,Second Round,"Austin, TX",11,Minnesota,64,3,Florida,78,False
+2013,South,Second Round,"Philadelphia, PA",7,San Diego State,71,15,Florida Gulf Coast,81,False
+2013,South,Sweet Sixteen,"Arlington, TX",1,Kansas,85,4,Michigan,87,False
+2013,South,Sweet Sixteen,"Arlington, TX",3,Florida,62,15,Florida Gulf Coast,50,True
+2013,South,Elite Eight,"Arlington, TX",4,Michigan,79,3,Florida,59,True
+2013,West,First Round,"Salt Lake City, UT",1,Gonzaga,64,16,Southern,58,True
+2013,West,First Round,"Salt Lake City, UT",8,Pitt,55,9,Wichita State,73,False
+2013,West,First Round,"Kansas City, MO",5,Wisconsin,46,12,Ole Miss,57,False
+2013,West,First Round,"Kansas City, MO",4,Kansas State,61,13,La Salle,63,False
+2013,West,First Round,"Salt Lake City, UT",6,Arizona,81,11,Belmont,64,True
+2013,West,First Round,"Salt Lake City, UT",3,New Mexico,62,14,Harvard,68,False
+2013,West,First Round,"Dayton, OH",7,Notre Dame,58,10,Iowa State,76,False
+2013,West,First Round,"Dayton, OH",2,Ohio State,95,15,Iona,70,True
+2013,West,Second Round,"Salt Lake City, UT",1,Gonzaga,70,9,Wichita State,76,False
+2013,West,Second Round,"Kansas City, MO",12,Ole Miss,74,13,La Salle,76,False
+2013,West,Second Round,"Salt Lake City, UT",6,Arizona,74,14,Harvard,51,True
+2013,West,Second Round,"Dayton, OH",10,Iowa State,75,2,Ohio State,78,False
+2013,West,Sweet Sixteen,"Los Angeles, CA",9,Wichita State,72,13,La Salle,58,True
+2013,West,Sweet Sixteen,"Los Angeles, CA",6,Arizona,70,2,Ohio State,73,False
+2013,West,Elite Eight,"Los Angeles, CA",9,Wichita State,70,2,Ohio State,66,True
+2013,National,Final Four,"Atlanta, GA",1,Louisville,72,9,Wichita State,68,True
+2013,National,Final Four,"Atlanta, GA",4,Syracuse,56,4,Michigan,61,False
+2013,National,National Championship,"Atlanta, GA",1,Louisville,82,4,Michigan,76,True
+2014,East,First Round,"Raleigh, NC",1,Virginia,70,16,Coastal Carolina,59,True
+2014,East,First Round,"Raleigh, NC",8,Memphis,71,9,George Washington,66,True
+2014,East,First Round,"Spokane, WA",5,Cincinnati,57,12,Harvard,61,False
+2014,East,First Round,"Spokane, WA",4,Michigan State,93,13,Delaware,78,True
+2014,East,First Round,"San Antonio, TX",6,UNC,79,11,Providence,77,True
+2014,East,First Round,"San Antonio, TX",3,Iowa State,93,14,North Carolina Central,75,True
+2014,East,First Round,"Buffalo, NY",7,UConn,89,10,St. Joseph's,81,True
+2014,East,First Round,"Buffalo, NY",2,Villanova,73,15,Milwaukee,53,True
+2014,East,Second Round,"Raleigh, NC",1,Virginia,78,8,Memphis,60,True
+2014,East,Second Round,"Spokane, WA",12,Harvard,73,4,Michigan State,80,False
+2014,East,Second Round,"San Antonio, TX",6,UNC,83,3,Iowa State,85,False
+2014,East,Second Round,"Buffalo, NY",7,UConn,77,2,Villanova,65,True
+2014,East,Sweet Sixteen,"New York, NY",1,Virginia,59,4,Michigan State,61,False
+2014,East,Sweet Sixteen,"New York, NY",3,Iowa State,76,7,UConn,81,False
+2014,East,Elite Eight,"New York, NY",4,Michigan State,54,7,UConn,60,False
+2014,Midwest,First Round,"St. Louis, MO",1,Wichita State,64,16,Cal Poly,37,True
+2014,Midwest,First Round,"St. Louis, MO",8,Kentucky,56,9,Kansas State,49,True
+2014,Midwest,First Round,"Orlando, FL",5,Saint Louis,83,12,NC State,80,True
+2014,Midwest,First Round,"Orlando, FL",4,Louisville,71,13,Manhattan,64,True
+2014,Midwest,First Round,"Raleigh, NC",6,UMass,67,11,Tennessee,86,False
+2014,Midwest,First Round,"Raleigh, NC",3,Duke,71,14,Mercer,78,False
+2014,Midwest,First Round,"Milwaukee, WI",7,Texas,87,10,Arizona State,85,True
+2014,Midwest,First Round,"Milwaukee, WI",2,Michigan,57,15,Wofford,40,True
+2014,Midwest,Second Round,"St. Louis, MO",1,Wichita State,76,8,Kentucky,78,False
+2014,Midwest,Second Round,"Orlando, FL",5,Saint Louis,51,4,Louisville,66,False
+2014,Midwest,Second Round,"Raleigh, NC",11,Tennessee,83,14,Mercer,63,True
+2014,Midwest,Second Round,"Milwaukee, WI",7,Texas,65,2,Michigan,79,False
+2014,Midwest,Sweet Sixteen,"Indianapolis, IN",8,Kentucky,74,4,Louisville,69,True
+2014,Midwest,Sweet Sixteen,"Indianapolis, IN",11,Tennessee,71,2,Michigan,73,False
+2014,Midwest,Elite Eight,"Indianapolis, IN",8,Kentucky,75,2,Michigan,72,True
+2014,South,First Round,"Orlando, FL",1,Florida,67,16,Albany (NY),55,True
+2014,South,First Round,"Orlando, FL",8,Colorado,48,9,Pitt,77,False
+2014,South,First Round,"San Diego, CA",5,VCU,75,12,Stephen F. Austin,77,False
+2014,South,First Round,"San Diego, CA",4,UCLA,76,13,Tulsa,59,True
+2014,South,First Round,"Buffalo, NY",6,Ohio State,59,11,Dayton,60,False
+2014,South,First Round,"Buffalo, NY",3,Syracuse,77,14,Western Michigan,53,True
+2014,South,First Round,"St. Louis, MO",7,New Mexico,53,10,Stanford,58,False
+2014,South,First Round,"St. Louis, MO",2,Kansas,80,15,Eastern Kentucky,69,True
+2014,South,Second Round,"Orlando, FL",1,Florida,61,9,Pitt,45,True
+2014,South,Second Round,"San Diego, CA",12,Stephen F. Austin,60,4,UCLA,77,False
+2014,South,Second Round,"Buffalo, NY",11,Dayton,55,3,Syracuse,53,True
+2014,South,Second Round,"St. Louis, MO",10,Stanford,60,2,Kansas,57,True
+2014,South,Sweet Sixteen,"Memphis, TN",1,Florida,79,4,UCLA,68,True
+2014,South,Sweet Sixteen,"Memphis, TN",11,Dayton,82,10,Stanford,72,True
+2014,South,Elite Eight,"Memphis, TN",1,Florida,62,11,Dayton,52,True
+2014,West,First Round,"San Diego, CA",1,Arizona,68,16,Weber State,59,True
+2014,West,First Round,"San Diego, CA",8,Gonzaga,85,9,Oklahoma State,77,True
+2014,West,First Round,"Spokane, WA",5,Oklahoma,75,12,North Dakota State,80,False
+2014,West,First Round,"Spokane, WA",4,San Diego State,73,13,New Mexico State,69,True
+2014,West,First Round,"San Antonio, TX",6,Baylor,74,11,Nebraska,60,True
+2014,West,First Round,"San Antonio, TX",3,Creighton,76,14,Louisiana,66,True
+2014,West,First Round,"Milwaukee, WI",7,Oregon,87,10,BYU,68,True
+2014,West,First Round,"Milwaukee, WI",2,Wisconsin,75,15,American,35,True
+2014,West,Second Round,"San Diego, CA",1,Arizona,84,8,Gonzaga,61,True
+2014,West,Second Round,"Spokane, WA",12,North Dakota State,44,4,San Diego State,63,False
+2014,West,Second Round,"San Antonio, TX",6,Baylor,85,3,Creighton,55,True
+2014,West,Second Round,"Milwaukee, WI",7,Oregon,77,2,Wisconsin,85,False
+2014,West,Sweet Sixteen,"Anaheim, CA",1,Arizona,70,4,San Diego State,64,True
+2014,West,Sweet Sixteen,"Anaheim, CA",6,Baylor,52,2,Wisconsin,69,False
+2014,West,Elite Eight,"Anaheim, CA",1,Arizona,63,2,Wisconsin,64,False
+2014,National,Final Four,"Arlington, TX",7,UConn,63,1,Florida,53,True
+2014,National,Final Four,"Arlington, TX",2,Wisconsin,73,8,Kentucky,74,False
+2014,National,National Championship,"Arlington, TX",7,UConn,60,8,Kentucky,54,True
+2015,East,First Round,"Pittsburgh, PA",1,Villanova,93,16,Lafayette,52,True
+2015,East,First Round,"Pittsburgh, PA",8,NC State,66,9,LSU,65,True
+2015,East,First Round,"Setle, WA",5,Northern Iowa,71,12,Wyoming,54,True
+2015,East,First Round,"Setle, WA",4,Louisville,57,13,UC-Irvine,55,True
+2015,East,First Round,"Columbus, OH",6,Providence,53,11,Dayton,66,False
+2015,East,First Round,"Columbus, OH",3,Oklahoma,69,14,Albany (NY),60,True
+2015,East,First Round,"Charlotte, NC",7,Michigan State,70,10,Georgia,63,True
+2015,East,First Round,"Charlotte, NC",2,Virginia,79,15,Belmont,67,True
+2015,East,Second Round,"Pittsburgh, PA",1,Villanova,68,8,NC State,71,False
+2015,East,Second Round,"Setle, WA",5,Northern Iowa,53,4,Louisville,66,False
+2015,East,Second Round,"Columbus, OH",11,Dayton,66,3,Oklahoma,72,False
+2015,East,Second Round,"Charlotte, NC",7,Michigan State,60,2,Virginia,54,True
+2015,East,Sweet Sixteen,"Syracuse, NY",8,NC State,65,4,Louisville,75,False
+2015,East,Sweet Sixteen,"Syracuse, NY",3,Oklahoma,58,7,Michigan State,62,False
+2015,East,Elite Eight,"Syracuse, NY",4,Louisville,70,7,Michigan State,76,False
+2015,Midwest,First Round,"Louisville, KY",1,Kentucky,79,16,Hampton,56,True
+2015,Midwest,First Round,"Louisville, KY",8,Cincinnati,66,9,Purdue,65,True
+2015,Midwest,First Round,"Columbus, OH",5,West Virginia,68,12,Buffalo,62,True
+2015,Midwest,First Round,"Columbus, OH",4,Maryland,65,13,Valparaiso,62,True
+2015,Midwest,First Round,"Pittsburgh, PA",6,Butler,56,11,Texas,48,True
+2015,Midwest,First Round,"Pittsburgh, PA",3,Notre Dame,69,14,Northeastern,65,True
+2015,Midwest,First Round,"Omaha, NE",7,Wichita State,81,10,Indiana,76,True
+2015,Midwest,First Round,"Omaha, NE",2,Kansas,75,15,New Mexico State,56,True
+2015,Midwest,Second Round,"Louisville, KY",1,Kentucky,64,8,Cincinnati,51,True
+2015,Midwest,Second Round,"Columbus, OH",5,West Virginia,69,4,Maryland,59,True
+2015,Midwest,Second Round,"Pittsburgh, PA",6,Butler,64,3,Notre Dame,67,False
+2015,Midwest,Second Round,"Omaha, NE",7,Wichita State,78,2,Kansas,65,True
+2015,Midwest,Sweet Sixteen,"Cleveland, OH",1,Kentucky,78,5,West Virginia,39,True
+2015,Midwest,Sweet Sixteen,"Cleveland, OH",3,Notre Dame,81,7,Wichita State,70,True
+2015,Midwest,Elite Eight,"Cleveland, OH",1,Kentucky,68,3,Notre Dame,66,True
+2015,South,First Round,"Charlotte, NC",1,Duke,85,16,Robert Morris,56,True
+2015,South,First Round,"Charlotte, NC",8,San Diego State,76,9,St. John's (NY),64,True
+2015,South,First Round,"Portland, OR",5,Utah,57,12,Stephen F. Austin,50,True
+2015,South,First Round,"Portland, OR",4,Georgetown,84,13,Eastern Washington,74,True
+2015,South,First Round,"Louisville, KY",6,SMU,59,11,UCLA,60,False
+2015,South,First Round,"Louisville, KY",3,Iowa State,59,14,UAB,60,False
+2015,South,First Round,"Setle, WA",7,Iowa,83,10,Davidson,52,True
+2015,South,First Round,"Setle, WA",2,Gonzaga,86,15,North Dakota State,76,True
+2015,South,Second Round,"Charlotte, NC",1,Duke,68,8,San Diego State,49,True
+2015,South,Second Round,"Portland, OR",5,Utah,75,4,Georgetown,64,True
+2015,South,Second Round,"Louisville, KY",11,UCLA,92,14,UAB,75,True
+2015,South,Second Round,"Setle, WA",7,Iowa,68,2,Gonzaga,87,False
+2015,South,Sweet Sixteen,"Houston, TX",1,Duke,63,5,Utah,57,True
+2015,South,Sweet Sixteen,"Houston, TX",11,UCLA,62,2,Gonzaga,74,False
+2015,South,Elite Eight,"Houston, TX",1,Duke,66,2,Gonzaga,52,True
+2015,West,First Round,"Omaha, NE",1,Wisconsin,86,16,Coastal Carolina,72,True
+2015,West,First Round,"Omaha, NE",8,Oregon,79,9,Oklahoma State,73,True
+2015,West,First Round,"Jacksonville, FL",5,Arkansas,56,12,Wofford,53,True
+2015,West,First Round,"Jacksonville, FL",4,UNC,67,13,Harvard,65,True
+2015,West,First Round,"Jacksonville, FL",6,Xavier,76,11,Ole Miss,57,True
+2015,West,First Round,"Jacksonville, FL",3,Baylor,56,14,Georgia State,57,False
+2015,West,First Round,"Portland, OR",7,VCU,72,10,Ohio State,75,False
+2015,West,First Round,"Portland, OR",2,Arizona,93,15,Texas Southern,72,True
+2015,West,Second Round,"Omaha, NE",1,Wisconsin,72,8,Oregon,65,True
+2015,West,Second Round,"Jacksonville, FL",5,Arkansas,78,4,UNC,87,False
+2015,West,Second Round,"Jacksonville, FL",6,Xavier,75,14,Georgia State,67,True
+2015,West,Second Round,"Portland, OR",10,Ohio State,58,2,Arizona,73,False
+2015,West,Sweet Sixteen,"Los Angeles, CA",1,Wisconsin,79,4,UNC,72,True
+2015,West,Sweet Sixteen,"Los Angeles, CA",6,Xavier,60,2,Arizona,68,False
+2015,West,Elite Eight,"Los Angeles, CA",1,Wisconsin,85,2,Arizona,78,True
+2015,National,Final Four,"Indianapolis, IN",1,Duke,81,7,Michigan State,61,True
+2015,National,Final Four,"Indianapolis, IN",1,Kentucky,64,1,Wisconsin,71,False
+2015,National,National Championship,"Indianapolis, IN",1,Duke,68,1,Wisconsin,63,True
+2016,East,First Round,"Raleigh, NC",1,UNC,83,16,Florida Gulf Coast,67,True
+2016,East,First Round,"Raleigh, NC",8,USC,69,9,Providence,70,False
+2016,East,First Round,"Des Moines, IA",5,Indiana,99,12,Chattanooga,74,True
+2016,East,First Round,"Des Moines, IA",4,Kentucky,85,13,Stony Brook,57,True
+2016,East,First Round,"Brooklyn, NY",6,Notre Dame,70,11,Michigan,63,True
+2016,East,First Round,"Brooklyn, NY",3,West Virginia,56,14,Stephen F. Austin,70,False
+2016,East,First Round,"St. Louis, MO",7,Wisconsin,47,10,Pitt,43,True
+2016,East,First Round,"St. Louis, MO",2,Xavier,71,15,Weber State,53,True
+2016,East,Second Round,"Raleigh, NC",1,UNC,85,9,Providence,66,True
+2016,East,Second Round,"Des Moines, IA",5,Indiana,73,4,Kentucky,67,True
+2016,East,Second Round,"Brooklyn, NY",6,Notre Dame,76,14,Stephen F. Austin,75,True
+2016,East,Second Round,"St. Louis, MO",7,Wisconsin,66,2,Xavier,63,True
+2016,East,Sweet Sixteen,"5
+Indiana
+86",1,UNC,101,5,Indiana,86,True
+2016,East,Sweet Sixteen,"7
+Wisconsin
+56",6,Notre Dame,61,7,Wisconsin,56,True
+2016,East,Elite Eight,"6
+Notre Dame
+74",1,UNC,88,6,Notre Dame,74,True
+2016,Midwest,First Round,"Raleigh, NC",1,Virginia,81,16,Hampton,45,True
+2016,Midwest,First Round,"Raleigh, NC",8,Texas Tech,61,9,Butler,71,False
+2016,Midwest,First Round,"12
+Little Rock
+85",5,Purdue,83,12,Little Rock,85,False
+2016,Midwest,First Round,"13
+Iona
+81",4,Iowa State,94,13,Iona,81,True
+2016,Midwest,First Round,"11
+Gonzaga
+68",6,Seton Hall,52,11,Gonzaga,68,False
+2016,Midwest,First Round,"14
+Fresno Ste
+69",3,Utah,80,14,Fresno State,69,True
+2016,Midwest,First Round,"St. Louis, MO",7,Dayton,51,10,Syracuse,70,False
+2016,Midwest,First Round,"St. Louis, MO",2,Michigan State,81,15,Middle Tennessee,90,False
+2016,Midwest,Second Round,"Raleigh, NC",1,Virginia,77,9,Butler,69,True
+2016,Midwest,Second Round,"4
+Iowa Ste
+78",12,Little Rock,61,4,Iowa State,78,False
+2016,Midwest,Second Round,"3
+Utah
+59",11,Gonzaga,82,3,Utah,59,True
+2016,Midwest,Second Round,"St. Louis, MO",10,Syracuse,75,15,Middle Tennessee,50,True
+2016,Midwest,Sweet Sixteen,"Chicago, IL",1,Virginia,84,4,Iowa State,71,True
+2016,Midwest,Sweet Sixteen,"Chicago, IL",11,Gonzaga,60,10,Syracuse,63,False
+2016,Midwest,Elite Eight,"Chicago, IL",1,Virginia,62,10,Syracuse,68,False
+2016,South,First Round,"Des Moines, IA",1,Kansas,105,16,Austin Peay,79,True
+2016,South,First Round,"Des Moines, IA",8,Colorado,67,9,UConn,74,False
+2016,South,First Round,"12
+South Dakota Ste
+74",5,Maryland,79,12,South Dakota State,74,True
+2016,South,First Round,"13
+Hawaii
+77",4,California,66,13,Hawaii,77,False
+2016,South,First Round,"Providence, RI",6,Arizona,55,11,Wichita State,65,False
+2016,South,First Round,"Providence, RI",3,Miami (FL),79,14,Buffalo,72,True
+2016,South,First Round,"Brooklyn, NY",7,Iowa,72,10,Temple,70,True
+2016,South,First Round,"Brooklyn, NY",2,Villanova,86,15,UNC Asheville,56,True
+2016,South,Second Round,"Des Moines, IA",1,Kansas,73,9,UConn,61,True
+2016,South,Second Round,"13
+Hawaii
+60",5,Maryland,73,13,Hawaii,60,True
+2016,South,Second Round,"Providence, RI",11,Wichita State,57,3,Miami (FL),65,False
+2016,South,Second Round,"Brooklyn, NY",7,Iowa,68,2,Villanova,87,False
+2016,South,Sweet Sixteen,"Louisville, KY",1,Kansas,79,5,Maryland,63,True
+2016,South,Sweet Sixteen,"Louisville, KY",3,Miami (FL),69,2,Villanova,92,False
+2016,South,Elite Eight,"Louisville, KY",1,Kansas,59,2,Villanova,64,False
+2016,West,First Round,"16
+Holy Cross
+52",1,Oregon,91,16,Holy Cross,52,True
+2016,West,First Round,"9
+Cincinni
+76",8,St. Joseph's,78,9,Cincinnati,76,True
+2016,West,First Round,"Providence, RI",5,Baylor,75,12,Yale,79,False
+2016,West,First Round,"Providence, RI",4,Duke,93,13,UNC Wilmington,85,True
+2016,West,First Round,"11
+Northern Iowa
+75",6,Texas,72,11,Northern Iowa,75,False
+2016,West,First Round,"14
+Green Bay
+65",3,Texas A&M,92,14,Green Bay,65,True
+2016,West,First Round,"10
+VCU
+75",7,Oregon State,67,10,VCU,75,False
+2016,West,First Round,"15
+Cal Ste Bakersfield
+68",2,Oklahoma,82,15,Cal State Bakersfield,68,True
+2016,West,Second Round,"8
+St. Joseph's
+64",1,Oregon,69,8,St. Joseph's,64,True
+2016,West,Second Round,"Providence, RI",12,Yale,64,4,Duke,71,False
+2016,West,Second Round,"3
+Texas A&M
+92",11,Northern Iowa,88,3,Texas A&M,92,False
+2016,West,Second Round,"2
+Oklahoma
+85",10,VCU,81,2,Oklahoma,85,False
+2016,West,Sweet Sixteen,"Anaheim, CA",1,Oregon,82,4,Duke,68,True
+2016,West,Sweet Sixteen,"Anaheim, CA",3,Texas A&M,63,2,Oklahoma,77,False
+2016,West,Elite Eight,"Anaheim, CA",1,Oregon,68,2,Oklahoma,80,False
+2016,National,Final Four,"2
+Oklahoma
+51",2,Villanova,95,2,Oklahoma,51,True
+2016,National,Final Four,"1
+UNC
+83",10,Syracuse,66,1,UNC,83,False
+2016,National,National Championship,"1
+UNC
+74",2,Villanova,77,1,UNC,74,True
+2017,East,First Round,"Buffalo, NY",1,Villanova,76,16,Mount St. Mary's,56,True
+2017,East,First Round,"Buffalo, NY",8,Wisconsin,84,9,Virginia Tech,74,True
+2017,East,First Round,"Orlando, FL",5,Virginia,76,12,UNC Wilmington,71,True
+2017,East,First Round,"Orlando, FL",4,Florida,80,13,ETSU,65,True
+2017,East,First Round,"Tulsa, OK",6,SMU,65,11,USC,66,False
+2017,East,First Round,"Tulsa, OK",3,Baylor,91,14,New Mexico State,73,True
+2017,East,First Round,"Greenville, SC",7,South Carolina,93,10,Marquette,73,True
+2017,East,First Round,"Greenville, SC",2,Duke,87,15,Troy,65,True
+2017,East,Second Round,"Buffalo, NY",1,Villanova,62,8,Wisconsin,65,False
+2017,East,Second Round,"Orlando, FL",5,Virginia,39,4,Florida,65,False
+2017,East,Second Round,"Tulsa, OK",11,USC,78,3,Baylor,82,False
+2017,East,Second Round,"Greenville, SC",7,South Carolina,88,2,Duke,81,True
+2017,East,Sweet Sixteen,"New York, NY",8,Wisconsin,83,4,Florida,84,False
+2017,East,Sweet Sixteen,"New York, NY",3,Baylor,50,7,South Carolina,70,False
+2017,East,Elite Eight,"New York, NY",4,Florida,70,7,South Carolina,77,False
+2017,Midwest,First Round,"Tulsa, OK",1,Kansas,100,16,UC-Davis,62,True
+2017,Midwest,First Round,"Tulsa, OK",8,Miami (FL),58,9,Michigan State,78,False
+2017,Midwest,First Round,"Milwaukee, WI",5,Iowa State,84,12,Nevada,73,True
+2017,Midwest,First Round,"Milwaukee, WI",4,Purdue,80,13,Vermont,70,True
+2017,Midwest,First Round,"Sacramento, CA",6,Creighton,72,11,Rhode Island,84,False
+2017,Midwest,First Round,"Sacramento, CA",3,Oregon,93,14,Iona,77,True
+2017,Midwest,First Round,"Indianapolis, IN",7,Michigan,92,10,Oklahoma State,91,True
+2017,Midwest,First Round,"Indianapolis, IN",2,Louisville,78,15,Jacksonville State,63,True
+2017,Midwest,Second Round,"Tulsa, OK",1,Kansas,90,9,Michigan State,70,True
+2017,Midwest,Second Round,"Milwaukee, WI",5,Iowa State,76,4,Purdue,80,False
+2017,Midwest,Second Round,"Sacramento, CA",11,Rhode Island,72,3,Oregon,75,False
+2017,Midwest,Second Round,"Indianapolis, IN",7,Michigan,73,2,Louisville,69,True
+2017,Midwest,Sweet Sixteen,"Kansas City, MO",1,Kansas,98,4,Purdue,66,True
+2017,Midwest,Sweet Sixteen,"Kansas City, MO",3,Oregon,69,7,Michigan,68,True
+2017,Midwest,Elite Eight,"Kansas City, MO",1,Kansas,60,3,Oregon,74,False
+2017,South,First Round,"Greenville, SC",1,UNC,103,16,Texas Southern,64,True
+2017,South,First Round,"Greenville, SC",8,Arkansas,77,9,Seton Hall,71,True
+2017,South,First Round,"Milwaukee, WI",5,Minnesota,72,12,Middle Tennessee,81,False
+2017,South,First Round,"Milwaukee, WI",4,Butler,76,13,Winthrop,64,True
+2017,South,First Round,"Sacramento, CA",6,Cincinnati,75,11,Kansas State,61,True
+2017,South,First Round,"Sacramento, CA",3,UCLA,97,14,Kent State,80,True
+2017,South,First Round,"Indianapolis, IN",7,Dayton,58,10,Wichita State,64,False
+2017,South,First Round,"Indianapolis, IN",2,Kentucky,79,15,Northern Kentucky,70,True
+2017,South,Second Round,"Greenville, SC",1,UNC,72,8,Arkansas,65,True
+2017,South,Second Round,"Milwaukee, WI",12,Middle Tennessee,65,4,Butler,74,False
+2017,South,Second Round,"Sacramento, CA",6,Cincinnati,67,3,UCLA,79,False
+2017,South,Second Round,"Indianapolis, IN",10,Wichita State,62,2,Kentucky,65,False
+2017,South,Sweet Sixteen,"Memphis, TN",1,UNC,92,4,Butler,80,True
+2017,South,Sweet Sixteen,"Memphis, TN",3,UCLA,75,2,Kentucky,86,False
+2017,South,Elite Eight,"Memphis, TN",1,UNC,75,2,Kentucky,73,True
+2017,West,First Round,"Salt Lake City, UT",1,Gonzaga,66,16,South Dakota State,46,True
+2017,West,First Round,"Salt Lake City, UT",8,Northwestern,68,9,Vanderbilt,66,True
+2017,West,First Round,"Buffalo, NY",5,Notre Dame,60,12,Princeton,58,True
+2017,West,First Round,"Buffalo, NY",4,West Virginia,86,13,Bucknell,80,True
+2017,West,First Round,"Orlando, FL",6,Maryland,65,11,Xavier,76,False
+2017,West,First Round,"Orlando, FL",3,Florida State,86,14,Florida Gulf Coast,80,True
+2017,West,First Round,"Salt Lake City, UT",7,Saint Mary's,85,10,VCU,77,True
+2017,West,First Round,"Salt Lake City, UT",2,Arizona,100,15,North Dakota,82,True
+2017,West,Second Round,"Salt Lake City, UT",1,Gonzaga,79,8,Northwestern,73,True
+2017,West,Second Round,"Buffalo, NY",5,Notre Dame,71,4,West Virginia,83,False
+2017,West,Second Round,"Orlando, FL",11,Xavier,91,3,Florida State,66,True
+2017,West,Second Round,"Salt Lake City, UT",7,Saint Mary's,60,2,Arizona,69,False
+2017,West,Sweet Sixteen,"San Jose, CA",1,Gonzaga,61,4,West Virginia,58,True
+2017,West,Sweet Sixteen,"San Jose, CA",11,Xavier,73,2,Arizona,71,True
+2017,West,Elite Eight,"San Jose, CA",1,Gonzaga,83,11,Xavier,59,True
+2017,National,Final Four,"Glendale, AZ",3,Oregon,76,1,UNC,77,False
+2017,National,Final Four,"Glendale, AZ",7,South Carolina,73,1,Gonzaga,77,False
+2017,National,National Championship,"Glendale, AZ",1,UNC,71,1,Gonzaga,65,True
+2018,East,First Round,"Pittsburgh, PA",1,Villanova,87,16,Radford,61,True
+2018,East,First Round,"Pittsburgh, PA",8,Virginia Tech,83,9,Alabama,86,False
+2018,East,First Round,"San Diego, CA",5,West Virginia,85,12,Murray State,68,True
+2018,East,First Round,"San Diego, CA",4,Wichita State,75,13,Marshall,81,False
+2018,East,First Round,"Dallas, TX",6,Florida,77,11,St. Bonaventure,62,True
+2018,East,First Round,"Dallas, TX",3,Texas Tech,70,14,Stephen F. Austin,60,True
+2018,East,First Round,"Detroit, MI",7,Arkansas,62,10,Butler,79,False
+2018,East,First Round,"Detroit, MI",2,Purdue,74,15,Cal State Fullerton,48,True
+2018,East,Second Round,"Pittsburgh, PA",1,Villanova,81,9,Alabama,58,True
+2018,East,Second Round,"San Diego, CA",5,West Virginia,94,13,Marshall,71,True
+2018,East,Second Round,"Dallas, TX",6,Florida,66,3,Texas Tech,69,False
+2018,East,Second Round,"Detroit, MI",10,Butler,73,2,Purdue,76,False
+2018,East,Sweet Sixteen,"Boston, MA",1,Villanova,90,5,West Virginia,78,True
+2018,East,Sweet Sixteen,"Boston, MA",3,Texas Tech,78,2,Purdue,65,True
+2018,East,Elite Eight,"Boston, MA",1,Villanova,71,3,Texas Tech,59,True
+2018,Midwest,First Round,"Wichita, KS",1,Kansas,76,16,Penn,60,True
+2018,Midwest,First Round,"Wichita, KS",8,Seton Hall,94,9,NC State,83,True
+2018,Midwest,First Round,"San Diego, CA",5,Clemson,79,12,New Mexico State,68,True
+2018,Midwest,First Round,"San Diego, CA",4,Auburn,62,13,College of Charleston,58,True
+2018,Midwest,First Round,"Detroit, MI",6,TCU,52,11,Syracuse,57,False
+2018,Midwest,First Round,"Detroit, MI",3,Michigan State,82,14,Bucknell,78,True
+2018,Midwest,First Round,"Pittsburgh, PA",7,Rhode Island,83,10,Oklahoma,78,True
+2018,Midwest,First Round,"Pittsburgh, PA",2,Duke,89,15,Iona,67,True
+2018,Midwest,Second Round,"Wichita, KS",1,Kansas,83,8,Seton Hall,79,True
+2018,Midwest,Second Round,"San Diego, CA",5,Clemson,84,4,Auburn,53,True
+2018,Midwest,Second Round,"Detroit, MI",11,Syracuse,55,3,Michigan State,53,True
+2018,Midwest,Second Round,"Pittsburgh, PA",7,Rhode Island,62,2,Duke,87,False
+2018,Midwest,Sweet Sixteen,"Omaha, NE",1,Kansas,80,5,Clemson,76,True
+2018,Midwest,Sweet Sixteen,"Omaha, NE",11,Syracuse,65,2,Duke,69,False
+2018,Midwest,Elite Eight,"Omaha, NE",1,Kansas,85,2,Duke,81,True
+2018,South,First Round,"Charlotte, NC",1,Virginia,54,16,UMBC,74,False
+2018,South,First Round,"Charlotte, NC",8,Creighton,59,9,Kansas State,69,False
+2018,South,First Round,"Boise, ID",5,Kentucky,78,12,Davidson,73,True
+2018,South,First Round,"Boise, ID",4,Arizona,68,13,Buffalo,89,False
+2018,South,First Round,"Dallas, TX",6,Miami (FL),62,11,Loyola (IL),64,False
+2018,South,First Round,"Dallas, TX",3,Tennessee,73,14,Wright State,47,True
+2018,South,First Round,"Nashville, TN",7,Nevada,87,10,Texas,83,True
+2018,South,First Round,"Nashville, TN",2,Cincinnati,68,15,Georgia State,53,True
+2018,South,Second Round,"Charlotte, NC",16,UMBC,43,9,Kansas State,50,False
+2018,South,Second Round,"Boise, ID",5,Kentucky,95,13,Buffalo,75,True
+2018,South,Second Round,"Dallas, TX",11,Loyola (IL),63,3,Tennessee,62,True
+2018,South,Second Round,"Nashville, TN",7,Nevada,75,2,Cincinnati,73,True
+2018,South,Sweet Sixteen,"Atlanta, GA",9,Kansas State,61,5,Kentucky,58,True
+2018,South,Sweet Sixteen,"Atlanta, GA",11,Loyola (IL),69,7,Nevada,68,True
+2018,South,Elite Eight,"Atlanta, GA",9,Kansas State,62,11,Loyola (IL),78,False
+2018,West,First Round,"Nashville, TN",1,Xavier,102,16,Texas Southern,83,True
+2018,West,First Round,"Nashville, TN",8,Missouri,54,9,Florida State,67,False
+2018,West,First Round,"Boise, ID",5,Ohio State,81,12,South Dakota State,73,True
+2018,West,First Round,"Boise, ID",4,Gonzaga,68,13,UNC Greensboro,64,True
+2018,West,First Round,"Wichita, KS",6,Houston,67,11,San Diego State,65,True
+2018,West,First Round,"Wichita, KS",3,Michigan,61,14,Montana,47,True
+2018,West,First Round,"Charlotte, NC",7,Texas A&M,73,10,Providence,69,True
+2018,West,First Round,"Charlotte, NC",2,UNC,84,15,Lipscomb,66,True
+2018,West,Second Round,"Nashville, TN",1,Xavier,70,9,Florida State,75,False
+2018,West,Second Round,"Boise, ID",5,Ohio State,84,4,Gonzaga,90,False
+2018,West,Second Round,"Wichita, KS",6,Houston,63,3,Michigan,64,False
+2018,West,Second Round,"Charlotte, NC",7,Texas A&M,86,2,UNC,65,True
+2018,West,Sweet Sixteen,"Los Angeles, CA",9,Florida State,75,4,Gonzaga,60,True
+2018,West,Sweet Sixteen,"Los Angeles, CA",3,Michigan,99,7,Texas A&M,72,True
+2018,West,Elite Eight,"Los Angeles, CA",9,Florida State,54,3,Michigan,58,False
+2018,National,Final Four,"San Antonio, TX",1,Villanova,95,1,Kansas,79,True
+2018,National,Final Four,"San Antonio, TX",11,Loyola (IL),57,3,Michigan,69,False
+2018,National,National Championship,"San Antonio, TX",1,Villanova,79,3,Michigan,62,True
+2019,East,First Round,"Columbia, SC",1,Duke,85,16,North Dakota State,62,True
+2019,East,First Round,"Columbia, SC",8,VCU,58,9,UCF,73,False
+2019,East,First Round,"San Jose, CA",5,Mississippi State,76,12,Liberty,80,False
+2019,East,First Round,"San Jose, CA",4,Virginia Tech,66,13,Saint Louis,52,True
+2019,East,First Round,"Jacksonville, FL",6,Maryland,79,11,Belmont,77,True
+2019,East,First Round,"Jacksonville, FL",3,LSU,79,14,Yale,74,True
+2019,East,First Round,"Des Moines, IA",7,Louisville,76,10,Minnesota,86,False
+2019,East,First Round,"Des Moines, IA",2,Michigan State,76,15,Bradley,65,True
+2019,East,Second Round,"Columbia, SC",1,Duke,77,9,UCF,76,True
+2019,East,Second Round,"San Jose, CA",12,Liberty,58,4,Virginia Tech,67,False
+2019,East,Second Round,"Jacksonville, FL",6,Maryland,67,3,LSU,69,False
+2019,East,Second Round,"Des Moines, IA",10,Minnesota,50,2,Michigan State,70,False
+2019,East,Sweet Sixteen,"Washington, DC",1,Duke,75,4,Virginia Tech,73,True
+2019,East,Sweet Sixteen,"Washington, DC",3,LSU,63,2,Michigan State,80,False
+2019,East,Elite Eight,"Washington, DC",1,Duke,67,2,Michigan State,68,False
+2019,Midwest,First Round,"Columbus, OH",1,UNC,88,16,Iona,73,True
+2019,Midwest,First Round,"Columbus, OH",8,Utah State,61,9,Washington,78,False
+2019,Midwest,First Round,"Salt Lake City, UT",5,Auburn,78,12,New Mexico State,77,True
+2019,Midwest,First Round,"Salt Lake City, UT",4,Kansas,87,13,Northeastern,53,True
+2019,Midwest,First Round,"Tulsa, OK",6,Iowa State,59,11,Ohio State,62,False
+2019,Midwest,First Round,"Tulsa, OK",3,Houston,84,14,Georgia State,55,True
+2019,Midwest,First Round,"Jacksonville, FL",7,Wofford,84,10,Seton Hall,68,True
+2019,Midwest,First Round,"Jacksonville, FL",2,Kentucky,79,15,Abilene Christian,44,True
+2019,Midwest,Second Round,"Columbus, OH",1,UNC,81,9,Washington,59,True
+2019,Midwest,Second Round,"Salt Lake City, UT",5,Auburn,89,4,Kansas,75,True
+2019,Midwest,Second Round,"Tulsa, OK",11,Ohio State,59,3,Houston,74,False
+2019,Midwest,Second Round,"Jacksonville, FL",7,Wofford,56,2,Kentucky,62,False
+2019,Midwest,Sweet Sixteen,"Kansas City, MO",1,UNC,80,5,Auburn,97,False
+2019,Midwest,Sweet Sixteen,"Kansas City, MO",3,Houston,58,2,Kentucky,62,False
+2019,Midwest,Elite Eight,"Kansas City, MO",5,Auburn,77,2,Kentucky,71,True
+2019,South,First Round,"Columbia, SC",1,Virginia,71,16,Gardner-Webb,56,True
+2019,South,First Round,"Columbia, SC",8,Ole Miss,72,9,Oklahoma,95,False
+2019,South,First Round,"San Jose, CA",5,Wisconsin,54,12,Oregon,72,False
+2019,South,First Round,"San Jose, CA",4,Kansas State,64,13,UC-Irvine,70,False
+2019,South,First Round,"Hartford, CT",6,Villanova,61,11,Saint Mary's,57,True
+2019,South,First Round,"Hartford, CT",3,Purdue,61,14,Old Dominion,48,True
+2019,South,First Round,"Columbus, OH",7,Cincinnati,72,10,Iowa,79,False
+2019,South,First Round,"Columbus, OH",2,Tennessee,77,15,Colgate,70,True
+2019,South,Second Round,"Columbia, SC",1,Virginia,63,9,Oklahoma,51,True
+2019,South,Second Round,"San Jose, CA",12,Oregon,73,13,UC-Irvine,54,True
+2019,South,Second Round,"Hartford, CT",6,Villanova,61,3,Purdue,87,False
+2019,South,Second Round,"Columbus, OH",10,Iowa,77,2,Tennessee,83,False
+2019,South,Sweet Sixteen,"Louisville, KY",1,Virginia,53,12,Oregon,49,True
+2019,South,Sweet Sixteen,"Louisville, KY",3,Purdue,99,2,Tennessee,94,True
+2019,South,Elite Eight,"Louisville, KY",1,Virginia,80,3,Purdue,75,True
+2019,West,First Round,"Salt Lake City, UT",1,Gonzaga,87,16,Fairleigh Dickinson,49,True
+2019,West,First Round,"Salt Lake City, UT",8,Syracuse,69,9,Baylor,78,False
+2019,West,First Round,"Hartford, CT",5,Marquette,64,12,Murray State,83,False
+2019,West,First Round,"Hartford, CT",4,Florida State,76,13,Vermont,69,True
+2019,West,First Round,"Tulsa, OK",6,Buffalo,91,11,Arizona State,74,True
+2019,West,First Round,"Tulsa, OK",3,Texas Tech,72,14,Northern Kentucky,57,True
+2019,West,First Round,"Des Moines, IA",7,Nevada,61,10,Florida,70,False
+2019,West,First Round,"Des Moines, IA",2,Michigan,74,15,Montana,55,True
+2019,West,Second Round,"Salt Lake City, UT",1,Gonzaga,83,9,Baylor,71,True
+2019,West,Second Round,"Hartford, CT",12,Murray State,62,4,Florida State,90,False
+2019,West,Second Round,"Tulsa, OK",6,Buffalo,58,3,Texas Tech,78,False
+2019,West,Second Round,"Des Moines, IA",10,Florida,49,2,Michigan,64,False
+2019,West,Sweet Sixteen,"Anaheim, CA",1,Gonzaga,72,4,Florida State,58,True
+2019,West,Sweet Sixteen,"Anaheim, CA",3,Texas Tech,63,2,Michigan,44,True
+2019,West,Elite Eight,"Anaheim, CA",1,Gonzaga,69,3,Texas Tech,75,False
+2019,National,Final Four,"Minneapolis, MN",1,Virginia,63,5,Auburn,62,True
+2019,National,Final Four,"Minneapolis, MN",3,Texas Tech,61,2,Michigan State,51,True
+2019,National,National Championship,"Minneapolis, MN",1,Virginia,85,3,Texas Tech,77,True
+2021,East,First Round,"West Lafayette, IN",1,Michigan,82,16,Texas Southern,66,True
+2021,East,First Round,"Bloomington, IN",8,LSU,76,9,St. Bonaventure,61,True
+2021,East,First Round,"Indianapolis, IN",5,Colorado,96,12,Georgetown,73,True
+2021,East,First Round,"Indianapolis, IN",4,Florida State,64,13,UNC Greensboro,54,True
+2021,East,First Round,"Indianapolis, IN",6,BYU,62,11,UCLA,73,False
+2021,East,First Round,"Indianapolis, IN",3,Texas,52,14,Abilene Christian,53,False
+2021,East,First Round,"West Lafayette, IN",7,UConn,54,10,Maryland,63,False
+2021,East,First Round,"Indianapolis, IN",2,Alabama,68,15,Iona,55,True
+2021,East,Second Round,"Indianapolis, IN",1,Michigan,86,8,LSU,78,True
+2021,East,Second Round,"Indianapolis, IN",5,Colorado,53,4,Florida State,71,False
+2021,East,Second Round,"Indianapolis, IN",11,UCLA,67,14,Abilene Christian,47,True
+2021,East,Second Round,"Indianapolis, IN",10,Maryland,77,2,Alabama,96,False
+2021,East,Sweet Sixteen,"Indianapolis, IN",1,Michigan,76,4,Florida State,58,True
+2021,East,Sweet Sixteen,"Indianapolis, IN",11,UCLA,88,2,Alabama,78,True
+2021,East,Elite Eight,"Indianapolis, IN",1,Michigan,49,11,UCLA,51,False
+2021,Midwest,First Round,"Indianapolis, IN",1,Illinois,78,16,Drexel,49,True
+2021,Midwest,First Round,"Indianapolis, IN",8,Loyola (IL),71,9,Georgia Tech,60,True
+2021,Midwest,First Round,"Indianapolis, IN",5,Tennessee,56,12,Oregon State,70,False
+2021,Midwest,First Round,"Indianapolis, IN",4,Oklahoma State,69,13,Liberty,60,True
+2021,Midwest,First Round,"Indianapolis, IN",6,San Diego State,62,11,Syracuse,78,False
+2021,Midwest,First Round,"Indianapolis, IN",3,West Virginia,84,14,Morehead State,67,True
+2021,Midwest,First Round,"Indianapolis, IN",7,Clemson,56,10,Rutgers,60,False
+2021,Midwest,First Round,"Bloomington, IN",2,Houston,87,15,Cleveland State,56,True
+2021,Midwest,Second Round,"Indianapolis, IN",1,Illinois,58,8,Loyola (IL),71,False
+2021,Midwest,Second Round,"Indianapolis, IN",12,Oregon State,80,4,Oklahoma State,70,True
+2021,Midwest,Second Round,"Indianapolis, IN",11,Syracuse,75,3,West Virginia,72,True
+2021,Midwest,Second Round,"Indianapolis, IN",10,Rutgers,60,2,Houston,63,False
+2021,Midwest,Sweet Sixteen,"Indianapolis, IN",8,Loyola (IL),58,12,Oregon State,65,False
+2021,Midwest,Sweet Sixteen,"Indianapolis, IN",11,Syracuse,46,2,Houston,62,False
+2021,Midwest,Elite Eight,"Indianapolis, IN",12,Oregon State,61,2,Houston,67,False
+2021,South,First Round,"Indianapolis, IN",1,Baylor,79,16,Hartford,55,True
+2021,South,First Round,"West Lafayette, IN",8,UNC,62,9,Wisconsin,85,False
+2021,South,First Round,"Indianapolis, IN",5,Villanova,73,12,Winthrop,63,True
+2021,South,First Round,"Indianapolis, IN",4,Purdue,69,13,North Texas,78,False
+2021,South,First Round,"Bloomington, IN",6,Texas Tech,65,11,Utah State,53,True
+2021,South,First Round,"Indianapolis, IN",3,Arkansas,85,14,Colgate,68,True
+2021,South,First Round,"Indianapolis, IN",7,Florida,75,10,Virginia Tech,70,True
+2021,South,First Round,"West Lafayette, IN",2,Ohio State,72,15,Oral Roberts,75,False
+2021,South,Second Round,"Indianapolis, IN",1,Baylor,76,9,Wisconsin,63,True
+2021,South,Second Round,"Indianapolis, IN",5,Villanova,84,13,North Texas,61,True
+2021,South,Second Round,"Indianapolis, IN",6,Texas Tech,66,3,Arkansas,68,False
+2021,South,Second Round,"Indianapolis, IN",7,Florida,78,15,Oral Roberts,81,False
+2021,South,Sweet Sixteen,"Indianapolis, IN",1,Baylor,62,5,Villanova,51,True
+2021,South,Sweet Sixteen,"Indianapolis, IN",3,Arkansas,72,15,Oral Roberts,70,True
+2021,South,Elite Eight,"Indianapolis, IN",1,Baylor,81,3,Arkansas,72,True
+2021,West,First Round,"Indianapolis, IN",1,Gonzaga,98,16,Norfolk State,55,True
+2021,West,First Round,"Indianapolis, IN",8,Oklahoma,72,9,Missouri,68,True
+2021,West,First Round,"Indianapolis, IN",5,Creighton,63,12,UCSB,62,True
+2021,West,First Round,"Bloomington, IN",4,Virginia,58,13,Ohio,62,False
+2021,West,First Round,"Indianapolis, IN",6,USC,72,11,Drake,56,True
+2021,West,First Round,"Indianapolis, IN",3,Kansas,93,14,Eastern Washington,84,True
+2021,West,First Round,"Indianapolis, IN",2,Iowa,86,15,Grand Canyon,74,True
+2021,West,Second Round,"Indianapolis, IN",1,Gonzaga,87,8,Oklahoma,71,True
+2021,West,Second Round,"Indianapolis, IN",5,Creighton,72,13,Ohio,58,True
+2021,West,Second Round,"Indianapolis, IN",6,USC,85,3,Kansas,51,True
+2021,West,Second Round,"Indianapolis, IN",7,Oregon,95,2,Iowa,80,True
+2021,West,Sweet Sixteen,"Indianapolis, IN",1,Gonzaga,83,5,Creighton,65,True
+2021,West,Sweet Sixteen,"Indianapolis, IN",6,USC,82,7,Oregon,68,True
+2021,West,Elite Eight,"Indianapolis, IN",1,Gonzaga,85,6,USC,66,True
+2021,National,Final Four,"Indianapolis, IN",1,Baylor,78,2,Houston,59,True
+2021,National,Final Four,"Indianapolis, IN",1,Gonzaga,93,11,UCLA,90,True
+2021,National,National Championship,"Indianapolis, IN",1,Baylor,86,1,Gonzaga,70,True
+2022,East,First Round,"Fort Worth, TX",1,Baylor,85,16,Norfolk State,49,True
+2022,East,First Round,"Fort Worth, TX",8,UNC,95,9,Marquette,63,True
+2022,East,First Round,"Portland, OR",5,Saint Mary's,82,12,Indiana,53,True
+2022,East,First Round,"Portland, OR",4,UCLA,57,13,Akron,53,True
+2022,East,First Round,"Milwaukee, WI",6,Texas,81,11,Virginia Tech,73,True
+2022,East,First Round,"Milwaukee, WI",3,Purdue,78,14,Yale,56,True
+2022,East,First Round,"Indianapolis, IN",7,Murray State,92,10,San Francisco,87,True
+2022,East,First Round,"Indianapolis, IN",2,Kentucky,79,15,St. Peter's,85,False
+2022,East,Second Round,"Fort Worth, TX",1,Baylor,86,8,UNC,93,False
+2022,East,Second Round,"Portland, OR",5,Saint Mary's,56,4,UCLA,72,False
+2022,East,Second Round,"Milwaukee, WI",6,Texas,71,3,Purdue,81,False
+2022,East,Second Round,"Indianapolis, IN",7,Murray State,60,15,St. Peter's,70,False
+2022,East,Sweet Sixteen,"Philadelphia, PA",8,UNC,73,4,UCLA,66,True
+2022,East,Sweet Sixteen,"Philadelphia, PA",3,Purdue,64,15,St. Peter's,67,False
+2022,East,Elite Eight,"Philadelphia, PA",8,UNC,69,15,St. Peter's,49,True
+2022,Midwest,First Round,"Fort Worth, TX",1,Kansas,83,16,Texas Southern,56,True
+2022,Midwest,First Round,"Fort Worth, TX",8,San Diego State,69,9,Creighton,72,False
+2022,Midwest,First Round,"Buffalo, NY",5,Iowa,63,12,Richmond,67,False
+2022,Midwest,First Round,"Buffalo, NY",4,Providence,66,13,South Dakota State,57,True
+2022,Midwest,First Round,"Milwaukee, WI",6,LSU,54,11,Iowa State,59,False
+2022,Midwest,First Round,"Milwaukee, WI",3,Wisconsin,67,14,Colgate,60,True
+2022,Midwest,First Round,"Greenville, SC",7,USC,66,10,Miami (FL),68,False
+2022,Midwest,First Round,"Greenville, SC",2,Auburn,80,15,Jacksonville State,61,True
+2022,Midwest,Second Round,"Fort Worth, TX",1,Kansas,79,9,Creighton,72,True
+2022,Midwest,Second Round,"Buffalo, NY",12,Richmond,51,4,Providence,79,False
+2022,Midwest,Second Round,"Milwaukee, WI",11,Iowa State,54,3,Wisconsin,49,True
+2022,Midwest,Second Round,"Greenville, SC",10,Miami (FL),79,2,Auburn,61,True
+2022,Midwest,Sweet Sixteen,"Chicago, IL",1,Kansas,66,4,Providence,61,True
+2022,Midwest,Sweet Sixteen,"Chicago, IL",11,Iowa State,56,10,Miami (FL),70,False
+2022,Midwest,Elite Eight,"Chicago, IL",1,Kansas,76,10,Miami (FL),50,True
+2022,South,First Round,"San Diego, CA",1,Arizona,87,16,Wright State,70,True
+2022,South,First Round,"San Diego, CA",8,Seton Hall,42,9,TCU,69,False
+2022,South,First Round,"Pittsburgh, PA",5,Houston,82,12,UAB,68,True
+2022,South,First Round,"Pittsburgh, PA",4,Illinois,54,13,Chattanooga,53,True
+2022,South,First Round,"Indianapolis, IN",6,Colorado State,63,11,Michigan,75,False
+2022,South,First Round,"Indianapolis, IN",3,Tennessee,88,14,Longwood,56,True
+2022,South,First Round,"Pittsburgh, PA",7,Ohio State,54,10,Loyola (IL),41,True
+2022,South,First Round,"Pittsburgh, PA",2,Villanova,80,15,Delaware,60,True
+2022,South,Second Round,"San Diego, CA",1,Arizona,85,9,TCU,80,True
+2022,South,Second Round,"Pittsburgh, PA",5,Houston,68,4,Illinois,53,True
+2022,South,Second Round,"Indianapolis, IN",11,Michigan,76,3,Tennessee,68,True
+2022,South,Second Round,"Pittsburgh, PA",7,Ohio State,61,2,Villanova,71,False
+2022,South,Sweet Sixteen,"San Antonio, TX",1,Arizona,60,5,Houston,72,False
+2022,South,Sweet Sixteen,"San Antonio, TX",11,Michigan,55,2,Villanova,63,False
+2022,South,Elite Eight,"San Antonio, TX",5,Houston,44,2,Villanova,50,False
+2022,West,First Round,"Portland, OR",1,Gonzaga,93,16,Georgia State,72,True
+2022,West,First Round,"Portland, OR",8,Boise State,53,9,Memphis,64,False
+2022,West,First Round,"Buffalo, NY",5,UConn,63,12,New Mexico State,70,False
+2022,West,First Round,"Buffalo, NY",4,Arkansas,75,13,Vermont,71,True
+2022,West,First Round,"San Diego, CA",6,Alabama,64,11,Notre Dame,78,False
+2022,West,First Round,"San Diego, CA",3,Texas Tech,97,14,Montana State,62,True
+2022,West,First Round,"Greenville, SC",7,Michigan State,74,10,Davidson,73,True
+2022,West,First Round,"Greenville, SC",2,Duke,78,15,Cal State Fullerton,61,True
+2022,West,Second Round,"Portland, OR",1,Gonzaga,82,9,Memphis,78,True
+2022,West,Second Round,"Buffalo, NY",12,New Mexico State,48,4,Arkansas,53,False
+2022,West,Second Round,"San Diego, CA",11,Notre Dame,53,3,Texas Tech,59,False
+2022,West,Second Round,"Greenville, SC",7,Michigan State,76,2,Duke,85,False
+2022,West,Sweet Sixteen,"San Francisco, CA",1,Gonzaga,68,4,Arkansas,74,False
+2022,West,Sweet Sixteen,"San Francisco, CA",3,Texas Tech,73,2,Duke,78,False
+2022,West,Elite Eight,"San Francisco, CA",4,Arkansas,69,2,Duke,78,False
+2022,National,Final Four,"New Orleans, LA",2,Villanova,65,1,Kansas,81,False
+2022,National,Final Four,"New Orleans, LA",2,Duke,77,8,UNC,81,False
+2022,National,National Championship,"New Orleans, LA",1,Kansas,72,8,UNC,69,True
+2023,East,First Round,"Columbus, OH",1,Purdue,58,16,Fairleigh Dickinson,63,False
+2023,East,First Round,"Columbus, OH",8,Memphis,65,9,Florida Atlantic,66,False
+2023,East,First Round,"Orlando, FL",5,Duke,74,12,Oral Roberts,51,True
+2023,East,First Round,"Orlando, FL",4,Tennessee,58,13,Louisiana,55,True
+2023,East,First Round,"Greensboro, NC",6,Kentucky,61,11,Providence,53,True
+2023,East,First Round,"Greensboro, NC",3,Kansas State,77,14,Montana State,65,True
+2023,East,First Round,"Columbus, OH",7,Michigan State,72,10,USC,62,True
+2023,East,First Round,"Columbus, OH",2,Marquette,78,15,Vermont,61,True
+2023,East,Second Round,"Columbus, OH",16,Fairleigh Dickinson,70,9,Florida Atlantic,78,False
+2023,East,Second Round,"Orlando, FL",5,Duke,52,4,Tennessee,65,False
+2023,East,Second Round,"Greensboro, NC",6,Kentucky,69,3,Kansas State,75,False
+2023,East,Second Round,"Columbus, OH",7,Michigan State,69,2,Marquette,60,True
+2023,East,Sweet Sixteen,"New York, NY",9,Florida Atlantic,62,4,Tennessee,55,True
+2023,East,Sweet Sixteen,"New York, NY",3,Kansas State,98,7,Michigan State,93,True
+2023,East,Elite Eight,"New York, NY",9,Florida Atlantic,79,3,Kansas State,76,True
+2023,Midwest,First Round,"Birmingham, AL",1,Houston,63,16,Northern Kentucky,52,True
+2023,Midwest,First Round,"Birmingham, AL",8,Iowa,75,9,Auburn,83,False
+2023,Midwest,First Round,"Albany, NY",5,Miami (FL),63,12,Drake,56,True
+2023,Midwest,First Round,"Albany, NY",4,Indiana,71,13,Kent State,60,True
+2023,Midwest,First Round,"Greensboro, NC",6,Iowa State,41,11,Pitt,59,False
+2023,Midwest,First Round,"Greensboro, NC",3,Xavier,72,14,Kennesaw State,67,True
+2023,Midwest,First Round,"Des Moines, IA",7,Texas A&M,59,10,Penn State,76,False
+2023,Midwest,First Round,"Des Moines, IA",2,Texas,81,15,Colgate,61,True
+2023,Midwest,Second Round,"Birmingham, AL",1,Houston,81,9,Auburn,64,True
+2023,Midwest,Second Round,"Albany, NY",5,Miami (FL),85,4,Indiana,69,True
+2023,Midwest,Second Round,"Greensboro, NC",11,Pitt,73,3,Xavier,84,False
+2023,Midwest,Second Round,"Des Moines, IA",10,Penn State,66,2,Texas,71,False
+2023,Midwest,Sweet Sixteen,"Kansas City, MO",1,Houston,75,5,Miami (FL),89,False
+2023,Midwest,Sweet Sixteen,"Kansas City, MO",3,Xavier,71,2,Texas,83,False
+2023,Midwest,Elite Eight,"Kansas City, MO",5,Miami (FL),88,2,Texas,81,True
+2023,South,First Round,"Birmingham, AL",1,Alabama,96,16,Texas A&M-Corpus Christi,75,True
+2023,South,First Round,"Birmingham, AL",8,Maryland,67,9,West Virginia,65,True
+2023,South,First Round,"Orlando, FL",5,San Diego State,63,12,College of Charleston,57,True
+2023,South,First Round,"Orlando, FL",4,Virginia,67,13,Furman,68,False
+2023,South,First Round,"11
+NC Ste
+63",6,Creighton,72,11,NC State,63,True
+2023,South,First Round,"14
+UCSB
+56",3,Baylor,74,14,UCSB,56,True
+2023,South,First Round,"Sacramento, CA",7,Missouri,76,10,Utah State,65,True
+2023,South,First Round,"Sacramento, CA",2,Arizona,55,15,Princeton,59,False
+2023,South,Second Round,"Birmingham, AL",1,Alabama,73,8,Maryland,51,True
+2023,South,Second Round,"Orlando, FL",5,San Diego State,75,13,Furman,52,True
+2023,South,Second Round,"3
+Baylor
+76",6,Creighton,85,3,Baylor,76,True
+2023,South,Second Round,"Sacramento, CA",7,Missouri,63,15,Princeton,78,False
+2023,South,Sweet Sixteen,"Louisville, KY",1,Alabama,64,5,San Diego State,71,False
+2023,South,Sweet Sixteen,"Louisville, KY",6,Creighton,86,15,Princeton,75,True
+2023,South,Elite Eight,"Louisville, KY",5,San Diego State,57,6,Creighton,56,True
+2023,West,First Round,"Des Moines, IA",1,Kansas,96,16,Howard,68,True
+2023,West,First Round,"Des Moines, IA",8,Arkansas,73,9,Illinois,63,True
+2023,West,First Round,"Albany, NY",5,Saint Mary's,63,12,VCU,51,True
+2023,West,First Round,"Albany, NY",4,UConn,87,13,Iona,63,True
+2023,West,First Round,"11
+Arizona Ste
+70",6,TCU,72,11,Arizona State,70,True
+2023,West,First Round,"14
+Grand Canyon
+70",3,Gonzaga,82,14,Grand Canyon,70,True
+2023,West,First Round,"Sacramento, CA",7,Northwestern,75,10,Boise State,67,True
+2023,West,First Round,"Sacramento, CA",2,UCLA,86,15,UNC Asheville,53,True
+2023,West,Second Round,"Des Moines, IA",1,Kansas,71,8,Arkansas,72,False
+2023,West,Second Round,"Albany, NY",5,Saint Mary's,55,4,UConn,70,False
+2023,West,Second Round,"3
+Gonzaga
+84",6,TCU,81,3,Gonzaga,84,False
+2023,West,Second Round,"Sacramento, CA",7,Northwestern,63,2,UCLA,68,False
+2023,West,Sweet Sixteen,"Las Vegas, NV",8,Arkansas,65,4,UConn,88,False
+2023,West,Sweet Sixteen,"Las Vegas, NV",3,Gonzaga,79,2,UCLA,76,True
+2023,West,Elite Eight,"Las Vegas, NV",4,UConn,82,3,Gonzaga,54,True
+2023,National,Final Four,"Houston, TX",9,Florida Atlantic,71,5,San Diego State,72,False
+2023,National,Final Four,"Houston, TX",5,Miami (FL),59,4,UConn,72,False
+2023,National,National Championship,"Houston, TX",5,San Diego State,59,4,UConn,76,False
