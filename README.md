@@ -20,3 +20,20 @@ To collect my data, I used web scraping to retrieve information from [sports-ref
 ## Data Exploration 🔎
 While exploring the data, the biggest thing that I wanted to explore was how certain factors affected the likelihood of upsets. Of course, it’s easy for the algorithm to detect high performers through past performance, but upsets tend to be a little more random. I used the following Tableau visualization to do so. In the end, however, I did not end up actually creating any features to represent upset probability. The Tableau visualization can be found here.
 
+![viz](images/viz.png)
+
+## Model Creation 💡
+For the actual model, I decided to use an AdaBoost Classifier with ***18 decision trees*** as the weak learners. Ultimately, this performed quite well given the features that I engineered. It resulted in an accuracy score of ***82%*** amongst the test data.
+
+## Results 🎯
+The results of my algorithm’s predictions were used to create the following bracket.
+
+![res](images/result.jpg)
+
+In the end, it’s clear to see that my bracket only picked based on the team that was on top in the game listing, whether it was the higher or lower seed. I believe that this error is due to my method of engineering the features. Regardless, potentially due to sheer luck, this bracket performed quite well and correctly picked the national championship matchup and the winner.
+
+## Next Steps ➡️
+In the upcoming years, I would like to explore various other models and other features to base the predictions on. Furthermore, I would like to improve my data engineering process in order to encode the region, location, and round in a better way. I also want to find ways to engineer various other features that may be important like coach success rate, likelihood of upset, past cinderella runs, etc.
+
+## Source Code 👨‍💻
+If you are interested in finding the source code for the above process, you can find it [here](https://github.com/vibindi/march-madness-predictor-v1/tree/main).
